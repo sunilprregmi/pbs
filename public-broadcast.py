@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 from typing import Dict, List
 
-# ----- COMMON SETUP -----
+### ----- COMMON SETUP -----
 now_str = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 combined_json = {
     "date": now_str,
@@ -13,14 +13,14 @@ combined_json = {
 m3u_lines = [
     "#EXTM3U",
     "# Only Free-To-Air Streams",
-    "# Scraped by @sunilprregmi",
-    f"# Scraped on {now_str}",
+    "# Scrapped by @sunilprregmi",
+    f"# Scrapped on {now_str}",
     "# Relay server is for playback",
     ""
 ]
 channel_counter = 1
 
-# ----- YUPPTV -----
+### ----- YUPPTV SECTION -----
 def format_url(url):
     if not url:
         return ""
@@ -48,7 +48,7 @@ def get_yupp_headers() -> Dict:
 
 def fetch_yupp_channels(genre: str) -> List:
     base_url = "https://yuppfast-api.revlet.net/service/api/v1/tvguide/channels"
-    params = f"filter=genreCode:{genre};langCode=ENG,HIN,MAR,BEN,TEL,KAN,GUA,PUN,BHO,URD,ASS,TAM,MAL,ORI,NEP"
+    params = f"filter=genreCode:{genre};langCode:ENG,HIN,MAR,BEN,TEL,KAN,GUA,PUN,BHO,URD,ASS,TAM,MAL,ORI,NEP"
     url = f"{base_url}?{params}"
     response = requests.get(url, headers=get_yupp_headers())
     return response.json()["response"]["data"]
@@ -59,7 +59,7 @@ def process_yupp():
 
     for index, genre in enumerate(genres, 1):
         category = {
-            "category_id": index,
+            "category_id": 0 + index,
             "category_name": genre.title(),
             "category_slug": genre,
             "category_description": f"{genre.title()} Category",
@@ -98,10 +98,9 @@ def process_yupp():
                 ])
         except Exception as e:
             print(f"❌ Failed to fetch YuppTV {genre}: {e}")
-
         combined_json["feeds"].append(category)
 
-# ----- WAVES -----
+### ----- WAVES SECTION -----
 def process_waves():
     global channel_counter
     headers = {
@@ -112,8 +111,14 @@ def process_waves():
         "devicetype": "4",
         "devicemodel": "Realme RMX3261",
         "country": "Nepal",
+        "age": "100",
         "deviceid": "020000000000",
-        "version": "139"
+        "version": "139",
+        "iskid": "0",
+        "langid": "1",
+        "langcode": "1",
+        "istempuser": "false",
+        "isdefault": "0"
     }
 
     categories = [
@@ -154,7 +159,7 @@ def process_waves():
                     f'group-title="{cat["name"]}", {channel["channel_name"]}',
                     "#KODIPROP:inputstream=inputstream.adaptive",
                     "#KODIPROP:inputstream.adaptive.manifest_type=hls",
-                    "#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; Android 12; RMX3261 Build/ace2873.0)",
+                    "#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)",
                     f'https://in1.sunilprasad.com.np/wavespb/{channel["channel_id"]}/master.m3u8',
                     ""
                 ])
@@ -171,7 +176,8 @@ def process_waves():
         except Exception as e:
             print(f"❌ Failed to fetch {cat['name']}: {e}")
 
-# ----- ADDON (NEPALESE) -----
+
+### ----- LINEAR ADDON SECTION -----
 def process_linear_addon():
     global channel_counter
     try:
@@ -189,7 +195,7 @@ def process_linear_addon():
                     f'group-title="{feed["category_name"]}", {ch["channel_name"]}',
                     "#KODIPROP:inputstream=inputstream.adaptive",
                     "#KODIPROP:inputstream.adaptive.manifest_type=hls",
-                    "#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; Android 12; RMX3261 Build/ace2873.0)",
+                    "#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)",
                     f'https://in1.sunilprasad.com.np/ktvLive/{ch["channel_slug"]}/master.m3u8',
                     ""
                 ])
@@ -197,11 +203,12 @@ def process_linear_addon():
     except Exception as e:
         print(f"❌ Failed to load linear addon: {e}")
 
-# ----- MAIN -----
+### ----- MAIN COMBINER -----
 if __name__ == "__main__":
-    for f in ["fta-data.json", "playlist.m3u8"]:
-        if os.path.exists(f):
-            os.remove(f)
+    if os.path.exists("fta-data.json"):
+        os.remove("fta-data.json")
+    if os.path.exists("playlist.m3u8"):
+        os.remove("playlist.m3u8")
 
     process_yupp()
     process_waves()
