@@ -1,0 +1,38 @@
+name: Daily Update
+description: This workflow updates JSON and M3U8 files daily using WavesPB and YuppTV Bharat API, committing changes to the repository.
+author: SunilPrasad
+
+on:
+  schedule:
+    - cron: '15 4 * * *'  # Runs daily at 04:15 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Kathmandu
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Run script
+        run: python public-broadcast.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m "Updated at $(date '+%Y-%m-%d')" || echo "No changes to commit"
+          git push
