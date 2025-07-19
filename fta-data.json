@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-19 14:16:23",
+  "date": "2025-07-19 14:37:33",
   "feeds": [
     {
       "category_id": 1,
@@ -3439,6 +3439,7 @@
           "channel_category": "Nepalese",
           "channel_name": "NTV",
           "channel_slug": "ntv",
+          "channel_app": "ntvLive",
           "channel_logo": "https://ntv.newitventure.com//images/channel_logos/1.png",
           "channel_poster": "https://ntv.newitventure.com//images/channel_logos/1.png"
         },
@@ -3449,6 +3450,7 @@
           "channel_category": "Nepalese",
           "channel_name": "NTV Plus",
           "channel_slug": "ntv-plus",
+          "channel_app": "ntvLive",
           "channel_logo": "https://ntv.newitventure.com//images/channel_logos/2.png",
           "channel_poster": "https://ntv.newitventure.com//images/channel_logos/2.png"
         },
@@ -3459,6 +3461,7 @@
           "channel_category": "Nepalese",
           "channel_name": "NTV News",
           "channel_slug": "ntv-news",
+          "channel_app": "ntvLive",
           "channel_logo": "https://ntv.newitventure.com//images/channel_logos/3.png",
           "channel_poster": "https://ntv.newitventure.com//images/channel_logos/3.png"
         },
@@ -3469,6 +3472,7 @@
           "channel_category": "Nepalese",
           "channel_name": "NTV Kohalpur",
           "channel_slug": "ntv-kohalpur",
+          "channel_app": "ntvLive",
           "channel_logo": "https://ntv.newitventure.com//images/channel_logos/4.png",
           "channel_poster": "https://ntv.newitventure.com//images/channel_logos/4.png"
         },
@@ -3479,6 +3483,7 @@
           "channel_category": "Nepalese",
           "channel_name": "NTV Itahari",
           "channel_slug": "ntv-itahari",
+          "channel_app": "ntvLive",
           "channel_logo": "https://ntv.newitventure.com//images/channel_logos/600.png",
           "channel_poster": "https://ntv.newitventure.com//images/channel_logos/600.png"
         },
@@ -3489,6 +3494,7 @@
           "channel_category": "Nepalese",
           "channel_name": "Kantipur SD",
           "channel_slug": "kantipur-sd",
+          "channel_app": "ktvLive",
           "channel_logo": "https://play-lh.googleusercontent.com/CQSmPpi6-l-S44IER_44ytPqQ-V4CbCPWspMJGNp3rYcD6VIEdiBenpMBB0DAi2Vow",
           "channel_poster": "https://play-lh.googleusercontent.com/CQSmPpi6-l-S44IER_44ytPqQ-V4CbCPWspMJGNp3rYcD6VIEdiBenpMBB0DAi2Vow"
         }
