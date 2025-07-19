@@ -38,10 +38,10 @@ All channels are organized into genres and can be played using any IPTV player l
 
    * Download or stream the playlist:
      [`playlist.m3u8`](https://github.com/sunilprregmi/pbs/raw/refs/heads/main/playlist.m3u8)
-     *or*
-     ```url
-    https://github.com/sunilprregmi/pbs/raw/refs/heads/main/playlist.m3u8
-    ```
+
+```url
+https://github.com/sunilprregmi/pbs/raw/refs/heads/main/playlist.m3u8
+```
 
 2. **Load into Player**
 
