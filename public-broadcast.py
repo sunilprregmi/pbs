@@ -196,7 +196,7 @@ def process_linear_addon():
                     "#KODIPROP:inputstream=inputstream.adaptive",
                     "#KODIPROP:inputstream.adaptive.manifest_type=hls",
                     "#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)",
-                    f'https://in1.sunilprasad.com.np/ktvLive/{ch["channel_slug"]}/master.m3u8',
+                    f'https://in1.sunilprasad.com.np/{ch["channel_app"]}/{ch["channel_slug"]}/master.m3u8',
                     ""
                 ])
             combined_json["feeds"].append(feed)
