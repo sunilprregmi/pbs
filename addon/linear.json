@@ -1,0 +1,74 @@
+{
+  "date": "2025-07-19 13:33:42",
+  "feeds": [
+    {
+      "category_id": 13,
+      "category_name": "Nepalese",
+      "category_slug": "nepalese",
+      "category_description": "FTA Nepalese Channels",
+      "category_priority": 13,
+      "channels": [
+        {
+          "channel_id": 2001,
+          "channel_number": "2001",
+          "channel_country": "NP",
+          "channel_category": "Nepalese",
+          "channel_name": "NTV",
+          "channel_slug": "ntv",
+          "channel_logo": "https://ntv.newitventure.com//images/channel_logos/1.png",
+          "channel_poster": "https://ntv.newitventure.com//images/channel_logos/1.png"
+        },
+        {
+          "channel_id": 2002,
+          "channel_number": "2002",
+          "channel_country": "NP",
+          "channel_category": "Nepalese",
+          "channel_name": "NTV Plus",
+          "channel_slug": "ntv-plus",
+          "channel_logo": "https://ntv.newitventure.com//images/channel_logos/2.png",
+          "channel_poster": "https://ntv.newitventure.com//images/channel_logos/2.png"
+        },
+        {
+          "channel_id": 2003,
+          "channel_number": "2003",
+          "channel_country": "NP",
+          "channel_category": "Nepalese",
+          "channel_name": "NTV News",
+          "channel_slug": "ntv-news",
+          "channel_logo": "https://ntv.newitventure.com//images/channel_logos/3.png",
+          "channel_poster": "https://ntv.newitventure.com//images/channel_logos/3.png"
+        },
+        {
+          "channel_id": 2004,
+          "channel_number": "2004",
+          "channel_country": "NP",
+          "channel_category": "Nepalese",
+          "channel_name": "NTV Kohalpur",
+          "channel_slug": "ntv-kohalpur",
+          "channel_logo": "https://ntv.newitventure.com//images/channel_logos/4.png",
+          "channel_poster": "https://ntv.newitventure.com//images/channel_logos/4.png"
+        },
+        {
+          "channel_id": 2005,
+          "channel_number": "2005",
+          "channel_country": "NP",
+          "channel_category": "Nepalese",
+          "channel_name": "NTV Itahari",
+          "channel_slug": "ntv-itahari",
+          "channel_logo": "https://ntv.newitventure.com//images/channel_logos/600.png",
+          "channel_poster": "https://ntv.newitventure.com//images/channel_logos/600.png"
+        },
+        {
+          "channel_id": 2006,
+          "channel_number": "2006",
+          "channel_country": "NP",
+          "channel_category": "Nepalese",
+          "channel_name": "Kantipur SD",
+          "channel_slug": "kantipur-sd",
+          "channel_logo": "https://play-lh.googleusercontent.com/CQSmPpi6-l-S44IER_44ytPqQ-V4CbCPWspMJGNp3rYcD6VIEdiBenpMBB0DAi2Vow",
+          "channel_poster": "https://play-lh.googleusercontent.com/CQSmPpi6-l-S44IER_44ytPqQ-V4CbCPWspMJGNp3rYcD6VIEdiBenpMBB0DAi2Vow"
+        }
+      ]
+    }
+  ]
+}
