@@ -1,8 +1,8 @@
 {
-  "date": "2025-07-19 13:41:07",
+  "date": "2025-07-19 13:47:57",
   "feeds": [
     {
-      "category_id": 101,
+      "category_id": 1,
       "category_name": "News",
       "category_slug": "news",
       "category_description": "News Category",
@@ -971,7 +971,7 @@
       ]
     },
     {
-      "category_id": 102,
+      "category_id": 2,
       "category_name": "Entertainment",
       "category_slug": "entertainment",
       "category_description": "Entertainment Category",
@@ -1430,7 +1430,7 @@
       ]
     },
     {
-      "category_id": 103,
+      "category_id": 3,
       "category_name": "Music",
       "category_slug": "music",
       "category_description": "Music Category",
@@ -1579,7 +1579,7 @@
       ]
     },
     {
-      "category_id": 104,
+      "category_id": 4,
       "category_name": "Kids",
       "category_slug": "kids",
       "category_description": "Kids Category",
@@ -1628,7 +1628,7 @@
       ]
     },
     {
-      "category_id": 105,
+      "category_id": 5,
       "category_name": "Spiritual",
       "category_slug": "spiritual",
       "category_description": "Spiritual Category",
@@ -2067,7 +2067,7 @@
       ]
     },
     {
-      "category_id": 106,
+      "category_id": 6,
       "category_name": "Movies",
       "category_slug": "movies",
       "category_description": "Movies Category",
@@ -2196,7 +2196,7 @@
       ]
     },
     {
-      "category_id": 107,
+      "category_id": 7,
       "category_name": "Lifestyle",
       "category_slug": "lifestyle",
       "category_description": "Lifestyle Category",
@@ -2285,7 +2285,7 @@
       ]
     },
     {
-      "category_id": 108,
+      "category_id": 8,
       "category_name": "Sports",
       "category_slug": "sports",
       "category_description": "Sports Category",
@@ -2484,7 +2484,7 @@
       ]
     },
     {
-      "category_id": 109,
+      "category_id": 9,
       "category_name": "Educational",
       "category_slug": "educational",
       "category_description": "Educational Category",
@@ -2553,7 +2553,7 @@
       ]
     },
     {
-      "category_id": 110,
+      "category_id": 10,
       "category_name": "Others",
       "category_slug": "others",
       "category_description": "Others Category",
@@ -3422,25 +3422,6 @@
           "channel_slug": "dd-kashir",
           "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1113622373DD_KASHIR.webp",
           "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1113622373DD_KASHIR.webp"
-        }
-      ]
-    },
-    {
-      "category_id": 200,
-      "category_name": "Nepalese",
-      "category_slug": "nepalese",
-      "category_description": "FTA Nepalese Channels",
-      "category_priority": 1,
-      "channels": [
-        {
-          "channel_id": 999,
-          "channel_number": "329",
-          "channel_country": "NP",
-          "channel_category": "Nepalese",
-          "channel_name": "Kantipur SD",
-          "channel_slug": "kantipur",
-          "channel_logo": "https://play-lh.googleusercontent.com/CQSmPpi6-l-S44IER_44ytPqQ-V4CbCPWspMJGNp3rYcD6VIEdiBenpMBB0DAi2Vow",
-          "channel_poster": "https://play-lh.googleusercontent.com/CQSmPpi6-l-S44IER_44ytPqQ-V4CbCPWspMJGNp3rYcD6VIEdiBenpMBB0DAi2Vow"
         }
       ]
     }
