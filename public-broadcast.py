@@ -2,8 +2,9 @@ import json
 import requests
 import os
 from datetime import datetime
+from typing import Dict, List
 
-# ----- GLOBALS -----
+# ----- COMMON SETUP -----
 now_str = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 combined_json = {
     "date": now_str,
@@ -12,8 +13,8 @@ combined_json = {
 m3u_lines = [
     "#EXTM3U",
     "# Only Free-To-Air Streams",
-    "# Scrapped by @sunilprregmi",
-    f"# Scrapped on {now_str}",
+    "# Scraped by @sunilprregmi",
+    f"# Scraped on {now_str}",
     "# Relay server is for playback",
     ""
 ]
@@ -23,15 +24,16 @@ channel_counter = 1
 def format_url(url):
     if not url:
         return ""
+    cdn_base = "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/"
     if url.startswith('http'):
         return url
     path = url.replace(',', '/')
-    return f"https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/{path}"
+    return cdn_base + path
 
 def format_slug(slug):
     return slug.split('/')[0]
 
-def get_yupp_headers():
+def get_yupp_headers() -> Dict:
     return {
         "sec-ch-ua-platform": "Windows",
         "sec-ch-ua": '"Chromium";v="134", "Not:A-Brand";v="24", "Google Chrome";v="134"',
@@ -44,10 +46,12 @@ def get_yupp_headers():
         "accept-language": "en-US,en;q=0.9"
     }
 
-def fetch_yupp_channels(genre):
-    url = f"https://yuppfast-api.revlet.net/service/api/v1/tvguide/channels?filter=genreCode:{genre};langCode=ENG,HIN,MAR,BEN,TEL,KAN,GUA,PUN,BHO,URD,ASS,TAM,MAL,ORI,NEP"
-    res = requests.get(url, headers=get_yupp_headers())
-    return res.json()["response"]["data"]
+def fetch_yupp_channels(genre: str) -> List:
+    base_url = "https://yuppfast-api.revlet.net/service/api/v1/tvguide/channels"
+    params = f"filter=genreCode:{genre};langCode=ENG,HIN,MAR,BEN,TEL,KAN,GUA,PUN,BHO,URD,ASS,TAM,MAL,ORI,NEP"
+    url = f"{base_url}?{params}"
+    response = requests.get(url, headers=get_yupp_headers())
+    return response.json()["response"]["data"]
 
 def process_yupp():
     global channel_counter
@@ -64,18 +68,19 @@ def process_yupp():
         }
 
         try:
-            for ch in fetch_yupp_channels(genre):
-                slug = format_slug(ch["target"].get("path", ch["target"].get("slug", "")))
-                number = str(channel_counter).zfill(3)
+            channels_data = fetch_yupp_channels(genre)
+            for ch in channels_data:
+                slug = ch["target"].get("path", ch["target"].get("slug", ""))
+                channel_number = str(channel_counter).zfill(3)
                 channel_counter += 1
 
                 channel = {
                     "channel_id": ch["id"],
-                    "channel_number": number,
+                    "channel_number": channel_number,
                     "channel_country": "IN",
                     "channel_category": genre.title(),
                     "channel_name": ch["display"]["title"],
-                    "channel_slug": slug,
+                    "channel_slug": format_slug(slug),
                     "channel_logo": format_url(ch["display"]["imageUrl"]),
                     "channel_poster": format_url(ch["display"]["loadingImageUrl"])
                 }
@@ -91,17 +96,19 @@ def process_yupp():
                     f'https://in1.sunilprasad.com.np/yuppLive/{channel["channel_slug"]}/master.m3u8',
                     ""
                 ])
-            combined_json["feeds"].append(category)
-
         except Exception as e:
-            print(f"❌ YuppTV {genre} failed: {e}")
+            print(f"❌ Failed to fetch YuppTV {genre}: {e}")
+
+        combined_json["feeds"].append(category)
 
 # ----- WAVES -----
 def process_waves():
     global channel_counter
     headers = {
         "User-Agent": "okhttp/4.12.0",
+        "Connection": "keep-alive",
         "Accept": "*/*",
+        "Accept-Encoding": "gzip",
         "devicetype": "4",
         "devicemodel": "Realme RMX3261",
         "country": "Nepal",
@@ -121,16 +128,17 @@ def process_waves():
     for cat in categories:
         try:
             res = requests.get(cat["url"], headers=headers)
+            res.raise_for_status()
             channels_raw = res.json().get("data", [])
             channels = []
 
             for ch in channels_raw:
-                number = str(channel_counter).zfill(3)
+                channel_number = str(channel_counter).zfill(3)
                 channel_counter += 1
 
                 channel = {
                     "channel_id": ch["id"],
-                    "channel_number": number,
+                    "channel_number": channel_number,
                     "channel_country": "IN",
                     "channel_category": cat["name"],
                     "channel_name": ch["title"],
@@ -159,10 +167,11 @@ def process_waves():
                 "category_priority": cat["priority"],
                 "channels": channels
             })
-        except Exception as e:
-            print(f"❌ Waves {cat['name']} failed: {e}")
 
-# ----- LINEAR ADDON -----
+        except Exception as e:
+            print(f"❌ Failed to fetch {cat['name']}: {e}")
+
+# ----- ADDON (NEPALESE) -----
 def process_linear_addon():
     global channel_counter
     try:
