@@ -1,4 +1,4 @@
-name: This workflow updates JSON and M3U8 files daily using WavesPB and YuppTV Bharat API
+name: This workflow updates JSON and M3U8
 
 on:
   schedule:
