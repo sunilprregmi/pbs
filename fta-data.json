@@ -1,0 +1,3429 @@
+{
+  "date": "2025-07-19 11:38:28",
+  "feeds": [
+    {
+      "category_id": 101,
+      "category_name": "News",
+      "category_slug": "news",
+      "category_description": "News Category",
+      "category_priority": 1,
+      "channels": [
+        {
+          "channel_id": 249,
+          "channel_number": "001",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "India Today",
+          "channel_slug": "india-today",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fkszrn.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322276325.png"
+        },
+        {
+          "channel_id": 19,
+          "channel_number": "002",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Republic TV",
+          "channel_slug": "republic-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/usnsgu.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317878243.png"
+        },
+        {
+          "channel_id": 14,
+          "channel_number": "003",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Wion",
+          "channel_slug": "wion",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gyztbi.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316089439.png"
+        },
+        {
+          "channel_id": 194,
+          "channel_number": "004",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "DD INDIA",
+          "channel_slug": "dd-india",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dd-india.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322914756.png"
+        },
+        {
+          "channel_id": 1,
+          "channel_number": "005",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "NDTV 24x7",
+          "channel_slug": "ndtv-24x7",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mlwpdv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320237676.png"
+        },
+        {
+          "channel_id": 213,
+          "channel_number": "006",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Mirror Now",
+          "channel_slug": "mirror-now",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mirror-now.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320401599.png"
+        },
+        {
+          "channel_id": 188,
+          "channel_number": "007",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "News9Live",
+          "channel_slug": "news9live",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kcaslr.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736319513851.png"
+        },
+        {
+          "channel_id": 171,
+          "channel_number": "008",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Hornbill TV",
+          "channel_slug": "hornbill-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hornbill-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322296407.png"
+        },
+        {
+          "channel_id": 229,
+          "channel_number": "009",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "&$YuppDEMOChannel",
+          "channel_slug": "--yuppdemochannel",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yuppdemochannel.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 3,
+          "channel_number": "010",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "NDTV Profit",
+          "channel_slug": "ndtv-profit",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ddsklc.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1738048816595.png"
+        },
+        {
+          "channel_id": 275,
+          "channel_number": "011",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "OAN PLUS",
+          "channel_slug": "oan-plus",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rohnbg.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 278,
+          "channel_number": "012",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "VOA News",
+          "channel_slug": "voa-news",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rgzrjw.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 150,
+          "channel_number": "013",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "CVR English News",
+          "channel_slug": "cvr-english-news",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/exdirq.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736323077633.png"
+        },
+        {
+          "channel_id": 248,
+          "channel_number": "014",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Aaj Tak",
+          "channel_slug": "aaj-tak",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nqbgpo.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326747545.png"
+        },
+        {
+          "channel_id": 20,
+          "channel_number": "015",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Republic Bharat",
+          "channel_slug": "republic-bharat",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lnnuqu.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317970110.png"
+        },
+        {
+          "channel_id": 34,
+          "channel_number": "016",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "TV9 Bharatvarsh",
+          "channel_slug": "tv9-bharatvarsh",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhgutv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316802078.png"
+        },
+        {
+          "channel_id": 231,
+          "channel_number": "017",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "India TV",
+          "channel_slug": "india-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/india-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322227927.png"
+        },
+        {
+          "channel_id": 196,
+          "channel_number": "018",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Times Now Navbharat",
+          "channel_slug": "times-now-navbharat",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/times-now-navbharat.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317008863.png"
+        },
+        {
+          "channel_id": 225,
+          "channel_number": "019",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "ABP News",
+          "channel_slug": "abp-news",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mphzpu.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326833388.png"
+        },
+        {
+          "channel_id": 13,
+          "channel_number": "020",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Zee News",
+          "channel_slug": "zee-news",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rhihqo.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736315748061.png"
+        },
+        {
+          "channel_id": 2,
+          "channel_number": "021",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "NDTV INDIA",
+          "channel_slug": "ndtv-india",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sltkhm.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320220913.png"
+        },
+        {
+          "channel_id": 250,
+          "channel_number": "022",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Good News Today",
+          "channel_slug": "good-news-today",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/czbixn.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 25,
+          "channel_number": "023",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Zee Hindustan",
+          "channel_slug": "zee-hindustan",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sdgosh.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736315771823.png"
+        },
+        {
+          "channel_id": 160,
+          "channel_number": "024",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Hindi Khabar",
+          "channel_slug": "hindi-khabar",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hindi-khabar.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322551927.png"
+        },
+        {
+          "channel_id": 138,
+          "channel_number": "025",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Sudarshan News",
+          "channel_slug": "sudarshan-news",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sudarshan-news.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317645240.png"
+        },
+        {
+          "channel_id": 38,
+          "channel_number": "026",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "NDTV MP",
+          "channel_slug": "ndtv-mp",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zhhvxq.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 30,
+          "channel_number": "027",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Zee Bihar Jharkhand",
+          "channel_slug": "zee-bihar-jharkhand",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zjjkih.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736315850849.png"
+        },
+        {
+          "channel_id": 31,
+          "channel_number": "028",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Zee Delhi NCR Haryana",
+          "channel_slug": "zee-delhi-ncr-haryana",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yiuolu.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736315827670.png"
+        },
+        {
+          "channel_id": 161,
+          "channel_number": "029",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "News 11 Bharat",
+          "channel_slug": "news-11-bharat",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-11-bharat.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736319551232.png"
+        },
+        {
+          "channel_id": 28,
+          "channel_number": "030",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Zee Madhya Pradesh Chhattisgarh",
+          "channel_slug": "zee-madhya-pradesh-chhattisgarh",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nniyqn.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736315802195.png"
+        },
+        {
+          "channel_id": 39,
+          "channel_number": "031",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "NDTV Rajasthan",
+          "channel_slug": "ndtv-rajasthan",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehlmdz.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320166011.png"
+        },
+        {
+          "channel_id": 29,
+          "channel_number": "032",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Zee UP UK",
+          "channel_slug": "zee-up-uk",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ipyfdr.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736315614668.png"
+        },
+        {
+          "channel_id": 26,
+          "channel_number": "033",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Zee Rajasthan News",
+          "channel_slug": "zee-rajasthan-news",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kvtdmj.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736315680724.png"
+        },
+        {
+          "channel_id": 155,
+          "channel_number": "034",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "INH 24X7",
+          "channel_slug": "inh-24x7",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gbrcig.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322112026.png"
+        },
+        {
+          "channel_id": 128,
+          "channel_number": "035",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Total TV",
+          "channel_slug": "total-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/total-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316986293.png"
+        },
+        {
+          "channel_id": 129,
+          "channel_number": "036",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "News 1 India",
+          "channel_slug": "news-1-india",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/eyfyem.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320041164.png"
+        },
+        {
+          "channel_id": 158,
+          "channel_number": "037",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Khabrain Abhi Tak",
+          "channel_slug": "khabrain-abhi-tak",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/qfurxt.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736321508831.png"
+        },
+        {
+          "channel_id": 159,
+          "channel_number": "038",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Bharat Samachar",
+          "channel_slug": "bharat-samachar",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/edjdac.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326153065.png"
+        },
+        {
+          "channel_id": 151,
+          "channel_number": "039",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Swaraj Express SMBC",
+          "channel_slug": "swaraj-express-smbc",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwtjzv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317547145.png"
+        },
+        {
+          "channel_id": 134,
+          "channel_number": "040",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "India Voice",
+          "channel_slug": "india-voice",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/erinhf.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322209317.png"
+        },
+        {
+          "channel_id": 127,
+          "channel_number": "041",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Jantantra TV",
+          "channel_slug": "jantantra-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xdmemv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736321890414.png"
+        },
+        {
+          "channel_id": 120,
+          "channel_number": "042",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Jan TV",
+          "channel_slug": "jan-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yjsmtt.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322092559.png"
+        },
+        {
+          "channel_id": 152,
+          "channel_number": "043",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "APN News",
+          "channel_slug": "apn-news",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/chfztu.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326935600.png"
+        },
+        {
+          "channel_id": 135,
+          "channel_number": "044",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Bansal News",
+          "channel_slug": "bansal-news",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bansal-news.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326384029.png"
+        },
+        {
+          "channel_id": 164,
+          "channel_number": "045",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Kashish News",
+          "channel_slug": "kashish-news",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kashish-news.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736321631550.png"
+        },
+        {
+          "channel_id": 118,
+          "channel_number": "046",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "A1 TV",
+          "channel_slug": "a1-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/a1-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326732312.png"
+        },
+        {
+          "channel_id": 157,
+          "channel_number": "047",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Network 10",
+          "channel_slug": "network-10",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/network-10.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 5,
+          "channel_number": "048",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Zee Business",
+          "channel_slug": "zee-business",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gmdzdx.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736315884350.png"
+        },
+        {
+          "channel_id": 227,
+          "channel_number": "049",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "ABP Majha",
+          "channel_slug": "abp-majha",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jhfmvj.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326808225.png"
+        },
+        {
+          "channel_id": 11,
+          "channel_number": "050",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "TV9 Marathi",
+          "channel_slug": "tv9-maharashtra",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/syutfx.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316550833.png"
+        },
+        {
+          "channel_id": 6,
+          "channel_number": "051",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "24 Taas",
+          "channel_slug": "24-taas",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ldybum.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326687234.png"
+        },
+        {
+          "channel_id": 162,
+          "channel_number": "052",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Jai Maharashtra",
+          "channel_slug": "jai-maharashtra",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jai-maharashtra.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736321936307.png"
+        },
+        {
+          "channel_id": 226,
+          "channel_number": "053",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "ABP Ananda",
+          "channel_slug": "abp-ananda",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wlyrmq.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 24,
+          "channel_number": "054",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Republic Bangla",
+          "channel_slug": "republic-bangla",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/awqywf.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317951531.png"
+        },
+        {
+          "channel_id": 7,
+          "channel_number": "055",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "24 Ghanta",
+          "channel_slug": "24-ghanta",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/uperuc.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326667575.png"
+        },
+        {
+          "channel_id": 35,
+          "channel_number": "056",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "TV9 Bangla",
+          "channel_slug": "tv9-bangla",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mnuwms.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316787989.png"
+        },
+        {
+          "channel_id": 115,
+          "channel_number": "057",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "News Time",
+          "channel_slug": "news-time",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-time.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736319496888.png"
+        },
+        {
+          "channel_id": 116,
+          "channel_number": "058",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Calcutta News",
+          "channel_slug": "calcutta-news",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/calcutta-news.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736323245324.png"
+        },
+        {
+          "channel_id": 9,
+          "channel_number": "059",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "TV9 News",
+          "channel_slug": "tv9-news",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cmwyio.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316505258.png"
+        },
+        {
+          "channel_id": 100,
+          "channel_number": "060",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "NTV",
+          "channel_slug": "ntv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ntv.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 121,
+          "channel_number": "061",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "V6 News",
+          "channel_slug": "v6-news",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wcxeyr.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316227464.png"
+        },
+        {
+          "channel_id": 105,
+          "channel_number": "062",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "TV5",
+          "channel_slug": "tv5",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cwlloq.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316830313.png"
+        },
+        {
+          "channel_id": 104,
+          "channel_number": "063",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Sakshi TV",
+          "channel_slug": "sakshi-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ykuyew.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317894188.png"
+        },
+        {
+          "channel_id": 108,
+          "channel_number": "064",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "T News",
+          "channel_slug": "t-news",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/t-news.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317513509.png"
+        },
+        {
+          "channel_id": 147,
+          "channel_number": "065",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "10TV",
+          "channel_slug": "10tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/10tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326583957.png"
+        },
+        {
+          "channel_id": 106,
+          "channel_number": "066",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Mahaa TV",
+          "channel_slug": "mahaa-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mahaa-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320604793.png"
+        },
+        {
+          "channel_id": 141,
+          "channel_number": "067",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "iNews",
+          "channel_slug": "inews",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/inews.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322188499.png"
+        },
+        {
+          "channel_id": 33,
+          "channel_number": "068",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Zee News Telugu",
+          "channel_slug": "zee-news-telugu",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aquwob.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736315718457.png"
+        },
+        {
+          "channel_id": 133,
+          "channel_number": "069",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "BIG TV",
+          "channel_slug": "big-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/big-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736323312532.png"
+        },
+        {
+          "channel_id": 102,
+          "channel_number": "070",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "HMTV",
+          "channel_slug": "hmtv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hmtv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322417129.png"
+        },
+        {
+          "channel_id": 139,
+          "channel_number": "071",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "CVR News",
+          "channel_slug": "cvr-news",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vncsik.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736323016931.png"
+        },
+        {
+          "channel_id": 148,
+          "channel_number": "072",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "6TV",
+          "channel_slug": "6tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/loonbb.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326564931.png"
+        },
+        {
+          "channel_id": 10,
+          "channel_number": "073",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "TV9 Kannada",
+          "channel_slug": "tv9-kannada",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ivzkvy.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316671094.png"
+        },
+        {
+          "channel_id": 230,
+          "channel_number": "074",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Republic Kannada",
+          "channel_slug": "republic-kannada",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ssufdl.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317863792.png"
+        },
+        {
+          "channel_id": 211,
+          "channel_number": "075",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "TV5 Kannada",
+          "channel_slug": "tv5-kannada",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tv5-kannada.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316871390.png"
+        },
+        {
+          "channel_id": 181,
+          "channel_number": "076",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "News 1st",
+          "channel_slug": "news-1st",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/news-1st.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320025034.png"
+        },
+        {
+          "channel_id": 12,
+          "channel_number": "077",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "TV9 Gujarati",
+          "channel_slug": "tv9-gujarati",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vcevdy.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316770827.png"
+        },
+        {
+          "channel_id": 228,
+          "channel_number": "078",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "ABP Asmita",
+          "channel_slug": "abp-asmita",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ymbgfv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326783558.png"
+        },
+        {
+          "channel_id": 32,
+          "channel_number": "079",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Zee 24 Kalak",
+          "channel_slug": "zee-24-kalak",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vbezgf.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316025640.png"
+        },
+        {
+          "channel_id": 103,
+          "channel_number": "080",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Mantavya News",
+          "channel_slug": "mantavya-news",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fnyvfg.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320484642.png"
+        },
+        {
+          "channel_id": 165,
+          "channel_number": "081",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "VTV Gujarati",
+          "channel_slug": "vtv-gujarati",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vtv-gujarati.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316166417.png"
+        },
+        {
+          "channel_id": 15,
+          "channel_number": "082",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Zee Punjab Haryana Himachal",
+          "channel_slug": "zee-punjab-haryana-himachal",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rkpgdq.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736315646208.png"
+        },
+        {
+          "channel_id": 27,
+          "channel_number": "083",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Zee Salaam",
+          "channel_slug": "zee-salaam",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/uudnpd.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736315548396.png"
+        },
+        {
+          "channel_id": 109,
+          "channel_number": "084",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Protidin Time",
+          "channel_slug": "protidin-time",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/protidin-time.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317988215.png"
+        },
+        {
+          "channel_id": 184,
+          "channel_number": "085",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Polimer News",
+          "channel_slug": "polimer-news",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/polimer-news.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 175,
+          "channel_number": "086",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Puthiya Thalaimurai",
+          "channel_slug": "puthiya-thalaimurai",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/puthiya-thalaimurai.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736318005706.png"
+        },
+        {
+          "channel_id": 119,
+          "channel_number": "087",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Seithigal TV",
+          "channel_slug": "seithigal-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/seithigal-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317845166.png"
+        },
+        {
+          "channel_id": 282,
+          "channel_number": "088",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Asianet News India",
+          "channel_slug": "asianet-news-india",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vmbjeu.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 218,
+          "channel_number": "089",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "24",
+          "channel_slug": "24",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/24.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326703412.png"
+        },
+        {
+          "channel_id": 140,
+          "channel_number": "090",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Reporter TV",
+          "channel_slug": "reporter-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/reporter-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317930857.png"
+        },
+        {
+          "channel_id": 170,
+          "channel_number": "091",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Manorama News",
+          "channel_slug": "manorama-news",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pnahka.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1752168631956.png"
+        },
+        {
+          "channel_id": 174,
+          "channel_number": "092",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Mathrubhumi News",
+          "channel_slug": "mathrubhumi-news",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mathrubhumi-news.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320438756.png"
+        },
+        {
+          "channel_id": 182,
+          "channel_number": "093",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Janam TV",
+          "channel_slug": "janam-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/janam-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736321868027.png"
+        },
+        {
+          "channel_id": 153,
+          "channel_number": "094",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Argus News",
+          "channel_slug": "argus-news",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ayrbqa.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326981223.png"
+        },
+        {
+          "channel_id": 185,
+          "channel_number": "095",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Nandighosha TV",
+          "channel_slug": "nandighosha-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nandighosha-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320307141.png"
+        },
+        {
+          "channel_id": 187,
+          "channel_number": "096",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Kalinga TV",
+          "channel_slug": "kalinga-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kalinga-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736321834744.png"
+        }
+      ]
+    },
+    {
+      "category_id": 102,
+      "category_name": "Entertainment",
+      "category_slug": "entertainment",
+      "category_description": "Entertainment Category",
+      "category_priority": 2,
+      "channels": [
+        {
+          "channel_id": 78,
+          "channel_number": "097",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Scifi World",
+          "channel_slug": "scifi-world",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/oxsgsi.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317829020.png"
+        },
+        {
+          "channel_id": 63,
+          "channel_number": "098",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Encore",
+          "channel_slug": "encore",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/twazqd.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322735350.png"
+        },
+        {
+          "channel_id": 53,
+          "channel_number": "099",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Danger Vision TV",
+          "channel_slug": "danger-vision-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/iktjkc.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322954865.png"
+        },
+        {
+          "channel_id": 95,
+          "channel_number": "100",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Mercury",
+          "channel_slug": "mercury",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wyuowl.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320381277.png"
+        },
+        {
+          "channel_id": 60,
+          "channel_number": "101",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Urban Action",
+          "channel_slug": "urban-action",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/urban-action.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316530413.png"
+        },
+        {
+          "channel_id": 88,
+          "channel_number": "102",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "The Explorers",
+          "channel_slug": "the-explorers1",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ggdzvt.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317064824.png"
+        },
+        {
+          "channel_id": 45,
+          "channel_number": "103",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Bang Bang TV",
+          "channel_slug": "bang-bang-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dxqsmq.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326216128.png"
+        },
+        {
+          "channel_id": 59,
+          "channel_number": "104",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Voyages",
+          "channel_slug": "voyages",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yfbcof.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316208326.png"
+        },
+        {
+          "channel_id": 90,
+          "channel_number": "105",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Lol TV",
+          "channel_slug": "lol-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lol-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320645989.png"
+        },
+        {
+          "channel_id": 71,
+          "channel_number": "106",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Heartfelt TV",
+          "channel_slug": "heartfelt-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/heartfelt-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322610998.png"
+        },
+        {
+          "channel_id": 62,
+          "channel_number": "107",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Trufa",
+          "channel_slug": "trufa",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/trufa.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316904387.png"
+        },
+        {
+          "channel_id": 93,
+          "channel_number": "108",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Love 2 Hate TV",
+          "channel_slug": "love-2-hate-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vfjgky.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320671824.png"
+        },
+        {
+          "channel_id": 94,
+          "channel_number": "109",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Mundo Series",
+          "channel_slug": "mundo-series",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mbhcva.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320328775.png"
+        },
+        {
+          "channel_id": 82,
+          "channel_number": "110",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Nitro TV",
+          "channel_slug": "nitro-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/uohdua.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736319438370.png"
+        },
+        {
+          "channel_id": 50,
+          "channel_number": "111",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Coeur Ocean TV",
+          "channel_slug": "coeur-ocean-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/coeur-ocean-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736323191022.png"
+        },
+        {
+          "channel_id": 89,
+          "channel_number": "112",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Latino Classic Channel",
+          "channel_slug": "latino-classic-channel",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/latino-classic-channel.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320623043.png"
+        },
+        {
+          "channel_id": 96,
+          "channel_number": "113",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Mama Benz TV",
+          "channel_slug": "mama-benz-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mama-benz-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320554082.png"
+        },
+        {
+          "channel_id": 51,
+          "channel_number": "114",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Colour Blind",
+          "channel_slug": "colour-blind",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/idvans.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736323095603.png"
+        },
+        {
+          "channel_id": 56,
+          "channel_number": "115",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Edgy TV",
+          "channel_slug": "edgy-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tlmbwv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322779339.png"
+        },
+        {
+          "channel_id": 81,
+          "channel_number": "116",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Outer Vision TV",
+          "channel_slug": "outer-vision-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ewwdxf.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736319385563.png"
+        },
+        {
+          "channel_id": 279,
+          "channel_number": "117",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "JUST FOR LAUGHS GAGS",
+          "channel_slug": "just-for-laughs-gags",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/inxhvg.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 255,
+          "channel_number": "118",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "AWE PLUS",
+          "channel_slug": "awe-plus",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xccrcr.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 261,
+          "channel_number": "119",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "BRAT TV",
+          "channel_slug": "brat-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aqzbzc.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 268,
+          "channel_number": "120",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "H2OTV",
+          "channel_slug": "h2otv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/eqiuvk.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 269,
+          "channel_number": "121",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "KARTOON CHANNEL WORLDWIDE",
+          "channel_slug": "kartoon-channel-worldwide",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wwlccy.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 288,
+          "channel_number": "122",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Chana Jor",
+          "channel_slug": "chana-jor",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/chana-jor.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 291,
+          "channel_number": "123",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Bollywood Masala",
+          "channel_slug": "bollywood-masala",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bollywood-masala.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1751288604898.jpeg"
+        },
+        {
+          "channel_id": 131,
+          "channel_number": "124",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Desi Play TV",
+          "channel_slug": "desi-play-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/desi-play-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322935935.png"
+        },
+        {
+          "channel_id": 47,
+          "channel_number": "125",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Bollywood 4U",
+          "channel_slug": "bollywood-4u",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sinxiy.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736323328663.png"
+        },
+        {
+          "channel_id": 262,
+          "channel_number": "126",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "COMEDY TADKA",
+          "channel_slug": "comedy-tadka",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tdkonc.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 265,
+          "channel_number": "127",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "DIY ART",
+          "channel_slug": "diy-art",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dayyvk.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 101,
+          "channel_number": "128",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "CTVN AKD Plus",
+          "channel_slug": "ctvn-akd-plus",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ctvn-akd-plus.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736323053223.png"
+        },
+        {
+          "channel_id": 216,
+          "channel_number": "129",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Mana TV International",
+          "channel_slug": "mana-tv-international",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mana-tv-international.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320570972.png"
+        },
+        {
+          "channel_id": 198,
+          "channel_number": "130",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "TANA Prapancha Sahitya Vedika",
+          "channel_slug": "tana-prapancha-sahitya-vedika",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tana-prapancha-sahitya-vedika.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317459910.png"
+        },
+        {
+          "channel_id": 235,
+          "channel_number": "131",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Pitaara Comedy",
+          "channel_slug": "pitaara-comedy",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wneior.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736318116759.png"
+        },
+        {
+          "channel_id": 200,
+          "channel_number": "132",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Parvasi TV HD",
+          "channel_slug": "parvasi-tv-hd",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/parvasi-tv-hd.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 169,
+          "channel_number": "133",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "PASAND",
+          "channel_slug": "pasand",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pasand.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736319329933.png"
+        },
+        {
+          "channel_id": 107,
+          "channel_number": "134",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Rengoni TV",
+          "channel_slug": "rengoni-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rengoni-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736318036382.png"
+        },
+        {
+          "channel_id": 205,
+          "channel_number": "135",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Athavan TV HD",
+          "channel_slug": "athavan-tv-hd",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/athavan-tv-hd.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326462471.png"
+        },
+        {
+          "channel_id": 167,
+          "channel_number": "136",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Moon TV",
+          "channel_slug": "moon-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/moon-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320345656.png"
+        },
+        {
+          "channel_id": 113,
+          "channel_number": "137",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Peppers TV",
+          "channel_slug": "peppers-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/peppers-tv.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 219,
+          "channel_number": "138",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "IBC Radio",
+          "channel_slug": "ibc-radio",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ibc-radio.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320002519.png"
+        },
+        {
+          "channel_id": 117,
+          "channel_number": "139",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Jaihind TV",
+          "channel_slug": "jaihind-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jaihind-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322075428.png"
+        },
+        {
+          "channel_id": 168,
+          "channel_number": "140",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Kerala Vision",
+          "channel_slug": "kerala-vision",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kerala-vision.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736321657986.png"
+        },
+        {
+          "channel_id": 183,
+          "channel_number": "141",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Nepal 1",
+          "channel_slug": "nepal-1",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nepal-1.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320064991.png"
+        }
+      ]
+    },
+    {
+      "category_id": 103,
+      "category_name": "Music",
+      "category_slug": "music",
+      "category_description": "Music Category",
+      "category_priority": 3,
+      "channels": [
+        {
+          "channel_id": 80,
+          "channel_number": "142",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "Jupiter TV",
+          "channel_slug": "jupiter-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jupiter-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736321678492.png"
+        },
+        {
+          "channel_id": 41,
+          "channel_number": "143",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "Wildest wish tv",
+          "channel_slug": "wildest-wish-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kawupc.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316071342.png"
+        },
+        {
+          "channel_id": 58,
+          "channel_number": "144",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "Edgy Urban",
+          "channel_slug": "edgy-urban",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/athpnb.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322794237.png"
+        },
+        {
+          "channel_id": 23,
+          "channel_number": "145",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "Mastiii",
+          "channel_slug": "mastiii",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xbhpwb.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320417561.png"
+        },
+        {
+          "channel_id": 137,
+          "channel_number": "146",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "Balle Balle",
+          "channel_slug": "balle-balle",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/balle-balle.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326401519.png"
+        },
+        {
+          "channel_id": 126,
+          "channel_number": "147",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "insync",
+          "channel_slug": "insync",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/insync.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322142669.png"
+        },
+        {
+          "channel_id": 192,
+          "channel_number": "148",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "Haryanvi Hits",
+          "channel_slug": "haryanvi-hits",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/haryanvi-hits.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322577899.png"
+        },
+        {
+          "channel_id": 214,
+          "channel_number": "149",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "Songdew",
+          "channel_slug": "songdew",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/songdew.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317714078.png"
+        },
+        {
+          "channel_id": 21,
+          "channel_number": "150",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "Maiboli",
+          "channel_slug": "maiboli",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dnjjkm.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320538440.png"
+        },
+        {
+          "channel_id": 199,
+          "channel_number": "151",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "Boogle Bollywood",
+          "channel_slug": "boogle-bollywood",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/boogle-bollywood.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736323266374.png"
+        },
+        {
+          "channel_id": 190,
+          "channel_number": "152",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "Wah Punjabi",
+          "channel_slug": "wah-punjabi",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wah-punjabi.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316111810.png"
+        },
+        {
+          "channel_id": 146,
+          "channel_number": "153",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "Murasu",
+          "channel_slug": "murasu",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/murasu.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 70,
+          "channel_number": "154",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "Thalaa TV",
+          "channel_slug": "thalaa-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317440037.png"
+        },
+        {
+          "channel_id": 166,
+          "channel_number": "155",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "Kappa TV",
+          "channel_slug": "kappa-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kappa-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736321852834.png"
+        }
+      ]
+    },
+    {
+      "category_id": 104,
+      "category_name": "Kids",
+      "category_slug": "kids",
+      "category_description": "Kids Category",
+      "category_priority": 4,
+      "channels": [
+        {
+          "channel_id": 289,
+          "channel_number": "156",
+          "channel_country": "IN",
+          "channel_category": "Kids",
+          "channel_name": "RIC Plus",
+          "channel_slug": "ric-plus",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ric-plus.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1751288913419.jpeg"
+        },
+        {
+          "channel_id": 83,
+          "channel_number": "157",
+          "channel_country": "IN",
+          "channel_category": "Kids",
+          "channel_name": "Kiddo",
+          "channel_slug": "kiddo",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kiddo.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736321526434.png"
+        },
+        {
+          "channel_id": 48,
+          "channel_number": "158",
+          "channel_country": "IN",
+          "channel_category": "Kids",
+          "channel_name": "Cartoon TV Classics",
+          "channel_slug": "cartoon-tv-classics",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ehuljr.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736323220330.png"
+        },
+        {
+          "channel_id": 281,
+          "channel_number": "159",
+          "channel_country": "IN",
+          "channel_category": "Kids",
+          "channel_name": "Green Gold TV",
+          "channel_slug": "green-gold-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/green-gold-tv.png",
+          "channel_poster": ""
+        }
+      ]
+    },
+    {
+      "category_id": 105,
+      "category_name": "Spiritual",
+      "category_slug": "spiritual",
+      "category_description": "Spiritual Category",
+      "category_priority": 5,
+      "channels": [
+        {
+          "channel_id": 176,
+          "channel_number": "160",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "God TV",
+          "channel_slug": "god-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jjhfoz.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322719723.png"
+        },
+        {
+          "channel_id": 266,
+          "channel_number": "161",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "DROOL",
+          "channel_slug": "drool",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wybgyr.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 197,
+          "channel_number": "162",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Hare Krishna TV",
+          "channel_slug": "hare-krishna-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hare-krishna-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322658460.png"
+        },
+        {
+          "channel_id": 8,
+          "channel_number": "163",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Divya TV",
+          "channel_slug": "divya-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dluhyb.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322892281.png"
+        },
+        {
+          "channel_id": 217,
+          "channel_number": "164",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Krishna Vani",
+          "channel_slug": "krishna-vani",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/krishna-vani.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320701461.png"
+        },
+        {
+          "channel_id": 136,
+          "channel_number": "165",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Santwani",
+          "channel_slug": "santwani",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/santwani.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317914270.png"
+        },
+        {
+          "channel_id": 124,
+          "channel_number": "166",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Sharnam TV",
+          "channel_slug": "sharnam-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sharnam-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317794840.png"
+        },
+        {
+          "channel_id": 189,
+          "channel_number": "167",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Brahma Kumaris",
+          "channel_slug": "brahma-kumaris",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brahma-kumaris.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736323296418.png"
+        },
+        {
+          "channel_id": 180,
+          "channel_number": "168",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Mangalmay TV",
+          "channel_slug": "mangalmay-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mangalmay-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320520046.png"
+        },
+        {
+          "channel_id": 125,
+          "channel_number": "169",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Disha TV",
+          "channel_slug": "disha-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/disha-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322866125.png"
+        },
+        {
+          "channel_id": 156,
+          "channel_number": "170",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Jinvani Channel",
+          "channel_slug": "jinvani-channel",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jinvani-channel.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736321910880.png"
+        },
+        {
+          "channel_id": 203,
+          "channel_number": "171",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Astroscience",
+          "channel_slug": "astroscience",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/astroscience.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 123,
+          "channel_number": "172",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Subharti TV",
+          "channel_slug": "subharti-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/subharti-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317628980.png"
+        },
+        {
+          "channel_id": 206,
+          "channel_number": "173",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Peace of Mind",
+          "channel_slug": "peace-of-mind",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/peace-of-mind.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736319349430.png"
+        },
+        {
+          "channel_id": 233,
+          "channel_number": "174",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "SVBC 4",
+          "channel_slug": "svbc-4",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vchaou.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317563195.png"
+        },
+        {
+          "channel_id": 236,
+          "channel_number": "175",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Divya Bhajan",
+          "channel_slug": "divya-bhajan",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/divya-bhajan.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1738765406905.png"
+        },
+        {
+          "channel_id": 280,
+          "channel_number": "176",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Hosanna TV Hindi",
+          "channel_slug": "hosanna-tv-hindi",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hosanna-tv-hindi.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 287,
+          "channel_number": "177",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Bhakti Play",
+          "channel_slug": "bhakti-play",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jnsfyb.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1747213068708.png"
+        },
+        {
+          "channel_id": 110,
+          "channel_number": "178",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Bhakti TV",
+          "channel_slug": "bhakti-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bhakti-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326195357.png"
+        },
+        {
+          "channel_id": 99,
+          "channel_number": "179",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "SVBC",
+          "channel_slug": "svbc",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/svbc.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317582750.png"
+        },
+        {
+          "channel_id": 207,
+          "channel_number": "180",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "YUPPTV VEDA",
+          "channel_slug": "yupptv-veda",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yupptv-veda.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736315905480.png"
+        },
+        {
+          "channel_id": 191,
+          "channel_number": "181",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Hindu Dharmam",
+          "channel_slug": "hindu-dharmam",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hindu-dharmam.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322462404.png"
+        },
+        {
+          "channel_id": 122,
+          "channel_number": "182",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Aradana TV",
+          "channel_slug": "aradana-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aradana-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326963964.png"
+        },
+        {
+          "channel_id": 149,
+          "channel_number": "183",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "OM CVR",
+          "channel_slug": "om-cvr",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/om-cvr.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736319420248.png"
+        },
+        {
+          "channel_id": 201,
+          "channel_number": "184",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "PMC",
+          "channel_slug": "pmc",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pmc.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736319212150.png"
+        },
+        {
+          "channel_id": 232,
+          "channel_number": "185",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "SVBC 3",
+          "channel_slug": "svbc-3",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/scfkep.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317597752.png"
+        },
+        {
+          "channel_id": 145,
+          "channel_number": "186",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Sri Sankara Kannada",
+          "channel_slug": "sri-sankara-kannada",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sri-sankara-kannada.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317680330.png"
+        },
+        {
+          "channel_id": 195,
+          "channel_number": "187",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "LakshyaTV",
+          "channel_slug": "lakshyatv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lakshyatv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736321482499.png"
+        },
+        {
+          "channel_id": 299,
+          "channel_number": "188",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Sri Naga Sai Mandir",
+          "channel_slug": "sri-naga-sai-mandir",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sri-naga-sai-mandir.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1751370372570.jpeg"
+        },
+        {
+          "channel_id": 144,
+          "channel_number": "189",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Sri Sankara Tamil",
+          "channel_slug": "sri-sankara-tamil",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sri-sankara-tamil.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317697404.png"
+        },
+        {
+          "channel_id": 215,
+          "channel_number": "190",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Madha TV",
+          "channel_slug": "madha-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/madha-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320587958.png"
+        },
+        {
+          "channel_id": 208,
+          "channel_number": "191",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Sivan Temple TV",
+          "channel_slug": "sivan-temple-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sivan-temple-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317812226.png"
+        },
+        {
+          "channel_id": 179,
+          "channel_number": "192",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "SVBC 2",
+          "channel_slug": "svbc-2",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/svbc-2.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317612345.png"
+        },
+        {
+          "channel_id": 177,
+          "channel_number": "193",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Angel TV",
+          "channel_slug": "angel-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/angel-tv.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 202,
+          "channel_number": "194",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Swasthik TV",
+          "channel_slug": "swasthik-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/swasthik-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317530440.png"
+        },
+        {
+          "channel_id": 212,
+          "channel_number": "195",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Hosanna",
+          "channel_slug": "hosanna",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hosanna.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322246794.png"
+        },
+        {
+          "channel_id": 209,
+          "channel_number": "196",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "HOLY GOD TV",
+          "channel_slug": "holy-god-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/holy-god-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322438609.png"
+        },
+        {
+          "channel_id": 285,
+          "channel_number": "197",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Nambikkai",
+          "channel_slug": "nambikkai",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nambikkai.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 142,
+          "channel_number": "198",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Shalom TV",
+          "channel_slug": "shalom-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/shalom-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317777684.png"
+        },
+        {
+          "channel_id": 143,
+          "channel_number": "199",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Power Vision TV",
+          "channel_slug": "power-vision-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/power-vision-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736318096565.png"
+        },
+        {
+          "channel_id": 173,
+          "channel_number": "200",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Goodness TV",
+          "channel_slug": "goodness-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/goodness-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322635898.png"
+        },
+        {
+          "channel_id": 74,
+          "channel_number": "201",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Star Vision",
+          "channel_slug": "star-vision",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/star-vision.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317660559.png"
+        },
+        {
+          "channel_id": 204,
+          "channel_number": "202",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "MarianTV",
+          "channel_slug": "mariantv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mariantv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320464248.png"
+        }
+      ]
+    },
+    {
+      "category_id": 106,
+      "category_name": "Movies",
+      "category_slug": "movies",
+      "category_description": "Movies Category",
+      "category_priority": 6,
+      "channels": [
+        {
+          "channel_id": 52,
+          "channel_number": "203",
+          "channel_country": "IN",
+          "channel_category": "Movies",
+          "channel_name": "Cowboy Movie Channel",
+          "channel_slug": "cowboy-movie-channel",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cowboy-movie-channel.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736323113044.png"
+        },
+        {
+          "channel_id": 77,
+          "channel_number": "204",
+          "channel_country": "IN",
+          "channel_category": "Movies",
+          "channel_name": "Horror TV",
+          "channel_slug": "horror-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/horror-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322392620.png"
+        },
+        {
+          "channel_id": 72,
+          "channel_number": "205",
+          "channel_country": "IN",
+          "channel_category": "Movies",
+          "channel_name": "Tensions TV",
+          "channel_slug": "tensions-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tensions-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317416713.png"
+        },
+        {
+          "channel_id": 55,
+          "channel_number": "206",
+          "channel_country": "IN",
+          "channel_category": "Movies",
+          "channel_name": "Drive In Movie Channel",
+          "channel_slug": "drive-in-movie-channel",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-in-movie-channel.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322828401.png"
+        },
+        {
+          "channel_id": 57,
+          "channel_number": "207",
+          "channel_country": "IN",
+          "channel_category": "Movies",
+          "channel_name": "Weshort",
+          "channel_slug": "weshort",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/weshort.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316137765.png"
+        },
+        {
+          "channel_id": 85,
+          "channel_number": "208",
+          "channel_country": "IN",
+          "channel_category": "Movies",
+          "channel_name": "Kung Fu",
+          "channel_slug": "kung-fu",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kung-fu.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320719856.png"
+        },
+        {
+          "channel_id": 256,
+          "channel_number": "209",
+          "channel_country": "IN",
+          "channel_category": "Movies",
+          "channel_name": "BEST ACTION TV",
+          "channel_slug": "best-action-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fjbfto.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 257,
+          "channel_number": "210",
+          "channel_country": "IN",
+          "channel_category": "Movies",
+          "channel_name": "  BEST DRAMA TV  ",
+          "channel_slug": "best-drama-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vuyumm.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 258,
+          "channel_number": "211",
+          "channel_country": "IN",
+          "channel_category": "Movies",
+          "channel_name": "BEST THRILLER TV",
+          "channel_slug": "best-thriller-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ewehpt.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 92,
+          "channel_number": "212",
+          "channel_country": "IN",
+          "channel_category": "Movies",
+          "channel_name": "Tolly TV",
+          "channel_slug": "tolly-tv1",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316970507.png"
+        },
+        {
+          "channel_id": 37,
+          "channel_number": "213",
+          "channel_country": "IN",
+          "channel_category": "Movies",
+          "channel_name": "Pitaara TV",
+          "channel_slug": "pitaara-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mbzkrr.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736319195500.png"
+        },
+        {
+          "channel_id": 22,
+          "channel_number": "214",
+          "channel_country": "IN",
+          "channel_category": "Movies",
+          "channel_name": "Dabangg",
+          "channel_slug": "dabangg",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/qovodm.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736323034394.png"
+        }
+      ]
+    },
+    {
+      "category_id": 107,
+      "category_name": "Lifestyle",
+      "category_slug": "lifestyle",
+      "category_description": "Lifestyle Category",
+      "category_priority": 7,
+      "channels": [
+        {
+          "channel_id": 4,
+          "channel_number": "215",
+          "channel_country": "IN",
+          "channel_category": "Lifestyle",
+          "channel_name": "NDTV GoodTimes",
+          "channel_slug": "ndtv-goodtimes",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mxzyyw.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320260662.png"
+        },
+        {
+          "channel_id": 264,
+          "channel_number": "216",
+          "channel_country": "IN",
+          "channel_category": "Lifestyle",
+          "channel_name": "DEFIANCE MEDIA",
+          "channel_slug": "defiance-media",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jocyub.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 267,
+          "channel_number": "217",
+          "channel_country": "IN",
+          "channel_category": "Lifestyle",
+          "channel_name": "ESCAPE TV",
+          "channel_slug": "escape-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bazmyr.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 271,
+          "channel_number": "218",
+          "channel_country": "IN",
+          "channel_category": "Lifestyle",
+          "channel_name": "LUXURY DREAMS TV",
+          "channel_slug": "luxury-dreams-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kuygkv.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 277,
+          "channel_number": "219",
+          "channel_country": "IN",
+          "channel_category": "Lifestyle",
+          "channel_name": "UNCHAINEDTV",
+          "channel_slug": "unchainedtv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/gjwmjv.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 114,
+          "channel_number": "220",
+          "channel_country": "IN",
+          "channel_category": "Lifestyle",
+          "channel_name": "Vanitha TV",
+          "channel_slug": "vanitha-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vanitha-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316189788.png"
+        },
+        {
+          "channel_id": 286,
+          "channel_number": "221",
+          "channel_country": "IN",
+          "channel_category": "Lifestyle",
+          "channel_name": "CVR Health",
+          "channel_slug": "cvr-health",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cvr-health.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1738662793182.png"
+        },
+        {
+          "channel_id": 234,
+          "channel_number": "222",
+          "channel_country": "IN",
+          "channel_category": "Lifestyle",
+          "channel_name": "Ayush TV",
+          "channel_slug": "ayush-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lrvzwz.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326477984.png"
+        }
+      ]
+    },
+    {
+      "category_id": 108,
+      "category_name": "Sports",
+      "category_slug": "sports",
+      "category_description": "Sports Category",
+      "category_priority": 8,
+      "channels": [
+        {
+          "channel_id": 284,
+          "channel_number": "223",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "Willow Sports",
+          "channel_slug": "willow-sports",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xzbzkm.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1737725799831.png"
+        },
+        {
+          "channel_id": 68,
+          "channel_number": "224",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "Fight TV",
+          "channel_slug": "fight-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fight-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322677623.png"
+        },
+        {
+          "channel_id": 84,
+          "channel_number": "225",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "Kozoom",
+          "channel_slug": "kozoom",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sqjspw.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736321549340.png"
+        },
+        {
+          "channel_id": 40,
+          "channel_number": "226",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "Xtrem sports",
+          "channel_slug": "xtrem-sports",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xtrem-sports.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316051306.png"
+        },
+        {
+          "channel_id": 76,
+          "channel_number": "227",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "Sport Fishing TV",
+          "channel_slug": "sport-fishing-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sport-fishing-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317758971.png"
+        },
+        {
+          "channel_id": 42,
+          "channel_number": "228",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "America Boating Channel",
+          "channel_slug": "america-boating-channel",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwfaja.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326859768.png"
+        },
+        {
+          "channel_id": 67,
+          "channel_number": "229",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "The Chukker Channel",
+          "channel_slug": "the-chukker-channel",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rrkxqp.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317037019.png"
+        },
+        {
+          "channel_id": 49,
+          "channel_number": "230",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "ChronoTV",
+          "channel_slug": "chronotv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/imwzux.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736323169083.png"
+        },
+        {
+          "channel_id": 79,
+          "channel_number": "231",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "ITSF",
+          "channel_slug": "itsf",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/itsf.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322161143.png"
+        },
+        {
+          "channel_id": 272,
+          "channel_number": "232",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "MMA TV",
+          "channel_slug": "mma-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lvwqlf.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 273,
+          "channel_number": "233",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "MOTOR RACING",
+          "channel_slug": "motor-racing",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cgrggj.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 253,
+          "channel_number": "234",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "ACE TV",
+          "channel_slug": "ace-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/whjmwm.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 290,
+          "channel_number": "235",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "Cricket Gold",
+          "channel_slug": "cricket-gold",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/cricket-gold.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 292,
+          "channel_number": "236",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "Adventure Sports TV",
+          "channel_slug": "adventure-sports-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/adventure-sports-tv.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 293,
+          "channel_number": "237",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "Drive+ Speed",
+          "channel_slug": "drive--speed",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/drive-speed.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1751288839963.jpeg"
+        },
+        {
+          "channel_id": 294,
+          "channel_number": "238",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "Hunt Fish TV",
+          "channel_slug": "hunt-fish-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hunt-fish-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1751288932411.jpeg"
+        },
+        {
+          "channel_id": 295,
+          "channel_number": "239",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "Nautical Channel",
+          "channel_slug": "nautical-channel",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nautical-channel.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 298,
+          "channel_number": "240",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "Absinthe TV",
+          "channel_slug": "absinthe-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwtils.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 296,
+          "channel_number": "241",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "Yachting TV",
+          "channel_slug": "yachting-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yachting-tv.png",
+          "channel_poster": ""
+        }
+      ]
+    },
+    {
+      "category_id": 109,
+      "category_name": "Educational",
+      "category_slug": "educational",
+      "category_description": "Educational Category",
+      "category_priority": 9,
+      "channels": [
+        {
+          "channel_id": 66,
+          "channel_number": "242",
+          "channel_country": "IN",
+          "channel_category": "Educational",
+          "channel_name": "English TV",
+          "channel_slug": "english-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/english-tv.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322753754.png"
+        },
+        {
+          "channel_id": 270,
+          "channel_number": "243",
+          "channel_country": "IN",
+          "channel_category": "Educational",
+          "channel_name": "LINGUA TV",
+          "channel_slug": "lingua-tv",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dlqwlb.png",
+          "channel_poster": ""
+        },
+        {
+          "channel_id": 251,
+          "channel_number": "244",
+          "channel_country": "IN",
+          "channel_category": "Educational",
+          "channel_name": "Turito IIT JEE",
+          "channel_slug": "turito-iit-jee",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zuqhea.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316951721.png"
+        },
+        {
+          "channel_id": 252,
+          "channel_number": "245",
+          "channel_country": "IN",
+          "channel_category": "Educational",
+          "channel_name": "Turito NEET",
+          "channel_slug": "turito-neet",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/shgwrd.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316854230.png"
+        },
+        {
+          "channel_id": 178,
+          "channel_number": "246",
+          "channel_country": "IN",
+          "channel_category": "Educational",
+          "channel_name": "T-SAT Nipuna",
+          "channel_slug": "t-sat-nipuna",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/crzalk.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317477641.png"
+        },
+        {
+          "channel_id": 193,
+          "channel_number": "247",
+          "channel_country": "IN",
+          "channel_category": "Educational",
+          "channel_name": "T-SAT Vidya",
+          "channel_slug": "t-sat-vidya",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/etmwbj.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317494732.png"
+        }
+      ]
+    },
+    {
+      "category_id": 110,
+      "category_name": "Others",
+      "category_slug": "others",
+      "category_description": "Others Category",
+      "category_priority": 10,
+      "channels": [
+        {
+          "channel_id": 276,
+          "channel_number": "248",
+          "channel_country": "IN",
+          "channel_category": "Others",
+          "channel_name": "SPACE SERIES",
+          "channel_slug": "space-series",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/epxndj.png",
+          "channel_poster": ""
+        }
+      ]
+    },
+    {
+      "category_id": 1,
+      "category_name": "News",
+      "category_slug": "news",
+      "category_description": "News Category",
+      "category_priority": 1,
+      "channels": [
+        {
+          "channel_id": 10541,
+          "channel_number": "249",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "DD News",
+          "channel_slug": "dd-news",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1323303185Frame_207.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1323303185Frame_207.webp"
+        },
+        {
+          "channel_id": 15306,
+          "channel_number": "250",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Bharat 24",
+          "channel_slug": "bharat-24",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/557200387Thumbnail_for_Web.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/557200387Thumbnail_for_Web.webp"
+        },
+        {
+          "channel_id": 14854,
+          "channel_number": "251",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "India TV News",
+          "channel_slug": "india-tv-news",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1483991994india_tv.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1483991994india_tv.webp"
+        },
+        {
+          "channel_id": 14582,
+          "channel_number": "252",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Zee News",
+          "channel_slug": "zee-news",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/225805045cropped-ZEE_NEWS_LOGO_NEW_CMYK.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/225805045cropped-ZEE_NEWS_LOGO_NEW_CMYK.webp"
+        },
+        {
+          "channel_id": 11022,
+          "channel_number": "253",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "SANSAD TV 1",
+          "channel_slug": "sansad-tv-1",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/338707128Sansad_TV__4_.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/338707128Sansad_TV__4_.webp"
+        },
+        {
+          "channel_id": 10539,
+          "channel_number": "254",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "DD INDIA",
+          "channel_slug": "dd-india",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1194248787Frame_1597877919.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1194248787Frame_1597877919.webp"
+        },
+        {
+          "channel_id": 11021,
+          "channel_number": "255",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "SANSAD TV 2",
+          "channel_slug": "sansad-tv-2",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/267469557Sansad_TV__5_.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/267469557Sansad_TV__5_.webp"
+        },
+        {
+          "channel_id": 10608,
+          "channel_number": "256",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "AAJ TAK",
+          "channel_slug": "aaj-tak",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/317045659DD_TRIPURA__2_.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/317045659DD_TRIPURA__2_.webp"
+        },
+        {
+          "channel_id": 10549,
+          "channel_number": "257",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "ABP NEWS",
+          "channel_slug": "abp-news",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/925545393ABP_NEWS.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/925545393ABP_NEWS.webp"
+        },
+        {
+          "channel_id": 10546,
+          "channel_number": "258",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "GOOD NEWS TODAY",
+          "channel_slug": "good-news-today",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1693877778Frame_1597877912.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1693877778Frame_1597877912.webp"
+        },
+        {
+          "channel_id": 10547,
+          "channel_number": "259",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "INDIA TODAY",
+          "channel_slug": "india-today",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/901321020INDIA_TODAY.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/901321020INDIA_TODAY.webp"
+        },
+        {
+          "channel_id": 10594,
+          "channel_number": "260",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "IBC24",
+          "channel_slug": "ibc24",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/682104833IBC_24.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/682104833IBC_24.webp"
+        },
+        {
+          "channel_id": 10585,
+          "channel_number": "261",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "NAVBHARAT",
+          "channel_slug": "navbharat",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/921001071Navbharat.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/921001071Navbharat.webp"
+        },
+        {
+          "channel_id": 10593,
+          "channel_number": "262",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "NDTV INDIA",
+          "channel_slug": "ndtv-india",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/192194567NDTV_INDIA.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/192194567NDTV_INDIA.webp"
+        },
+        {
+          "channel_id": 10554,
+          "channel_number": "263",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "NEWS 24 THINK FIRST",
+          "channel_slug": "news-24-think-first",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1862093768NEWS24_THINK_FIRST.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1862093768NEWS24_THINK_FIRST.webp"
+        },
+        {
+          "channel_id": 10552,
+          "channel_number": "264",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "NEWS NATION",
+          "channel_slug": "news-nation",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1518387989NEWS_NATION.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1518387989NEWS_NATION.webp"
+        },
+        {
+          "channel_id": 10590,
+          "channel_number": "265",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "NEWS 18 INDIA",
+          "channel_slug": "news-18-india",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1431023118News_18_india.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1431023118News_18_india.webp"
+        },
+        {
+          "channel_id": 10645,
+          "channel_number": "266",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "RAJ TV",
+          "channel_slug": "raj-tv",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1032708131RAJ_TV.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1032708131RAJ_TV.webp"
+        },
+        {
+          "channel_id": 10827,
+          "channel_number": "267",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Republic TV Bharat",
+          "channel_slug": "republic-tv-bharat",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2122233949download__6_.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/2122233949download__6_.webp"
+        },
+        {
+          "channel_id": 10551,
+          "channel_number": "268",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "R Republic",
+          "channel_slug": "r-republic",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/332387229REPUBLIC_TV.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/332387229REPUBLIC_TV.webp"
+        },
+        {
+          "channel_id": 10595,
+          "channel_number": "269",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "TV9 BHARATVARSH",
+          "channel_slug": "tv9-bharatvarsh",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/896613924Tv9_bharatvarsha.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/896613924Tv9_bharatvarsha.webp"
+        }
+      ]
+    },
+    {
+      "category_id": 2,
+      "category_name": "Entertainment",
+      "category_slug": "entertainment",
+      "category_description": "Entertainment Category",
+      "category_priority": 2,
+      "channels": [
+        {
+          "channel_id": 10648,
+          "channel_number": "270",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "ABZY DHAKAD",
+          "channel_slug": "abzy-dhakad",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1782238670ABZY_DHAKAD.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1782238670ABZY_DHAKAD.webp"
+        },
+        {
+          "channel_id": 10647,
+          "channel_number": "271",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "ABZY Movies",
+          "channel_slug": "abzy-movies",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/651929306ABZY_MOVIES.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/651929306ABZY_MOVIES.webp"
+        },
+        {
+          "channel_id": 10543,
+          "channel_number": "272",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "B4U Bhojpuri",
+          "channel_slug": "b4u-bhojpuri",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1799055944B4U_BHOJPURI.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1799055944B4U_BHOJPURI.webp"
+        },
+        {
+          "channel_id": 10544,
+          "channel_number": "273",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "B4U KADAK",
+          "channel_slug": "b4u-kadak",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/64260670Frame_1597877910.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/64260670Frame_1597877910.webp"
+        },
+        {
+          "channel_id": 10548,
+          "channel_number": "274",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "B4U Movies",
+          "channel_slug": "b4u-movies",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1777577447Frame_1597877909.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1777577447Frame_1597877909.webp"
+        },
+        {
+          "channel_id": 10598,
+          "channel_number": "275",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "DABANNG",
+          "channel_slug": "dabanng",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/888970933Dabangg_Logo_-_1920x1080.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/888970933Dabangg_Logo_-_1920x1080.webp"
+        },
+        {
+          "channel_id": 10542,
+          "channel_number": "276",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "DD Bharati",
+          "channel_slug": "dd-bharati",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1372479421Frame_1597877905.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1372479421Frame_1597877905.webp"
+        },
+        {
+          "channel_id": 10574,
+          "channel_number": "277",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "DD National HD",
+          "channel_slug": "dd-national-hd",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2101175623577172936ImportedPhoto_1728501517286.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/2101175623577172936ImportedPhoto_1728501517286.webp"
+        },
+        {
+          "channel_id": 10596,
+          "channel_number": "278",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "E24",
+          "channel_slug": "e24",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/659096870E_24.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/659096870E_24.webp"
+        },
+        {
+          "channel_id": 10932,
+          "channel_number": "279",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Gangaur",
+          "channel_slug": "gangaur",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/179172006Gangaur_webp.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/179172006Gangaur_webp.webp"
+        },
+        {
+          "channel_id": 10649,
+          "channel_number": "280",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "MAIBOLI",
+          "channel_slug": "maiboli",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1063894804Maiboli_Logo_-_1920x1080.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1063894804Maiboli_Logo_-_1920x1080.webp"
+        },
+        {
+          "channel_id": 10553,
+          "channel_number": "281",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "PITAARA MOVIES",
+          "channel_slug": "pitaara-movies",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1082937311814700969PITAARA-MOVIES.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1082937311814700969PITAARA-MOVIES.webp"
+        },
+        {
+          "channel_id": 10556,
+          "channel_number": "282",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "PTC PUNJABI",
+          "channel_slug": "ptc-punjabi",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1461582026PTC_PUNJABI.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1461582026PTC_PUNJABI.webp"
+        },
+        {
+          "channel_id": 10555,
+          "channel_number": "283",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "PTC PUNJABI GOLD",
+          "channel_slug": "ptc-punjabi-gold",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1468124252PTC_PUNJABI_GOLD.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1468124252PTC_PUNJABI_GOLD.webp"
+        }
+      ]
+    },
+    {
+      "category_id": 3,
+      "category_name": "Music",
+      "category_slug": "music",
+      "category_description": "Music Category",
+      "category_priority": 3,
+      "channels": [
+        {
+          "channel_id": 10605,
+          "channel_number": "284",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "9X JALWA",
+          "channel_slug": "9x-jalwa",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1001652520DD_TRIPURA__1_.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1001652520DD_TRIPURA__1_.webp"
+        },
+        {
+          "channel_id": 15037,
+          "channel_number": "285",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "PTC MUSIC",
+          "channel_slug": "ptc-music",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2073643161PTC-Music.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/2073643161PTC-Music.webp"
+        },
+        {
+          "channel_id": 10606,
+          "channel_number": "286",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "9X JHAKAS",
+          "channel_slug": "9x-jhakas",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/19506022848783082819X_JHAKAS.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/19506022848783082819X_JHAKAS.webp"
+        },
+        {
+          "channel_id": 10591,
+          "channel_number": "287",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "9XM",
+          "channel_slug": "9xm",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/6041427509XM.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/6041427509XM.webp"
+        },
+        {
+          "channel_id": 10607,
+          "channel_number": "288",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "9X TASHAN",
+          "channel_slug": "9x-tashan",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/107294214421349077939X_TASHAN.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/107294214421349077939X_TASHAN.webp"
+        },
+        {
+          "channel_id": 10545,
+          "channel_number": "289",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "B4U Music",
+          "channel_slug": "b4u-music",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/269746116Frame_1597877911.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/269746116Frame_1597877911.webp"
+        },
+        {
+          "channel_id": 10651,
+          "channel_number": "290",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "MASTI",
+          "channel_slug": "masti",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1546759719Mastiii_Logo_-_1920x1080.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1546759719Mastiii_Logo_-_1920x1080.webp"
+        }
+      ]
+    },
+    {
+      "category_id": 5,
+      "category_name": "Spiritual",
+      "category_slug": "spiritual",
+      "category_description": "Spiritual Category",
+      "category_priority": 5,
+      "channels": [
+        {
+          "channel_id": 10550,
+          "channel_number": "291",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "DIVYA",
+          "channel_slug": "divya",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1874629704DIVYA.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1874629704DIVYA.webp"
+        },
+        {
+          "channel_id": 10610,
+          "channel_number": "292",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Sanskar",
+          "channel_slug": "sanskar",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/111206065DD_TRIPURA-4.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/111206065DD_TRIPURA-4.webp"
+        },
+        {
+          "channel_id": 10611,
+          "channel_number": "293",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "SATSANG",
+          "channel_slug": "satsang",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/896293492DD_TRIPURA-5.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/896293492DD_TRIPURA-5.webp"
+        }
+      ]
+    },
+    {
+      "category_id": 11,
+      "category_name": "DD National",
+      "category_slug": "dd-national",
+      "category_description": "Doordarshan National Channels",
+      "category_priority": 11,
+      "channels": [
+        {
+          "channel_id": 10574,
+          "channel_number": "294",
+          "channel_country": "IN",
+          "channel_category": "DD National",
+          "channel_name": "DD National HD",
+          "channel_slug": "dd-national-hd",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2101175623577172936ImportedPhoto_1728501517286.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/2101175623577172936ImportedPhoto_1728501517286.webp"
+        },
+        {
+          "channel_id": 10541,
+          "channel_number": "295",
+          "channel_country": "IN",
+          "channel_category": "DD National",
+          "channel_name": "DD News",
+          "channel_slug": "dd-news",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1323303185Frame_207.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1323303185Frame_207.webp"
+        },
+        {
+          "channel_id": 10539,
+          "channel_number": "296",
+          "channel_country": "IN",
+          "channel_category": "DD National",
+          "channel_name": "DD INDIA",
+          "channel_slug": "dd-india",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1194248787Frame_1597877919.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1194248787Frame_1597877919.webp"
+        },
+        {
+          "channel_id": 10542,
+          "channel_number": "297",
+          "channel_country": "IN",
+          "channel_category": "DD National",
+          "channel_name": "DD Bharati",
+          "channel_slug": "dd-bharati",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1372479421Frame_1597877905.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1372479421Frame_1597877905.webp"
+        },
+        {
+          "channel_id": 10569,
+          "channel_number": "298",
+          "channel_country": "IN",
+          "channel_category": "DD National",
+          "channel_name": "DD SPORTS",
+          "channel_slug": "dd-sports",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1580369536PNG_image.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1580369536PNG_image.webp"
+        },
+        {
+          "channel_id": 10540,
+          "channel_number": "299",
+          "channel_country": "IN",
+          "channel_category": "DD National",
+          "channel_name": "DD KISAN",
+          "channel_slug": "dd-kisan",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/831973165Frame_1597877904.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/831973165Frame_1597877904.webp"
+        },
+        {
+          "channel_id": 10570,
+          "channel_number": "300",
+          "channel_country": "IN",
+          "channel_category": "DD National",
+          "channel_name": "DD URDU",
+          "channel_slug": "dd-urdu",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/651127723DD_URDU.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/651127723DD_URDU.webp"
+        }
+      ]
+    },
+    {
+      "category_id": 12,
+      "category_name": "DD Regional",
+      "category_slug": "dd-regional",
+      "category_description": "Doordarshan Regional Channels",
+      "category_priority": 12,
+      "channels": [
+        {
+          "channel_id": 10583,
+          "channel_number": "301",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD MADHYAPRADESH",
+          "channel_slug": "dd-madhyapradesh",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/569510685DD_TRIPURA-6__1_.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/569510685DD_TRIPURA-6__1_.webp"
+        },
+        {
+          "channel_id": 10557,
+          "channel_number": "302",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD Arunprabha",
+          "channel_slug": "dd-arunprabha",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/507508336DD_ARUNPRABHA.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/507508336DD_ARUNPRABHA.webp"
+        },
+        {
+          "channel_id": 10579,
+          "channel_number": "303",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD YADGIRI",
+          "channel_slug": "dd-yadgiri",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/729644538DD_YADAGIRI.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/729644538DD_YADAGIRI.webp"
+        },
+        {
+          "channel_id": 10592,
+          "channel_number": "304",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD GOA",
+          "channel_slug": "dd-goa",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/125118494DD_TRIPURA-1.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/125118494DD_TRIPURA-1.webp"
+        },
+        {
+          "channel_id": 10580,
+          "channel_number": "305",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD HARYANA",
+          "channel_slug": "dd-haryana",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/756814886hissar_720x405.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/756814886hissar_720x405.webp"
+        },
+        {
+          "channel_id": 10835,
+          "channel_number": "306",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD Rajasthan",
+          "channel_slug": "dd-rajasthan",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/798231352129179468Dd-rajasthan-in.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/798231352129179468Dd-rajasthan-in.webp"
+        },
+        {
+          "channel_id": 10604,
+          "channel_number": "307",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD ASSAM",
+          "channel_slug": "dd-assam",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/67253725DD_ASSAM.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/67253725DD_ASSAM.webp"
+        },
+        {
+          "channel_id": 10603,
+          "channel_number": "308",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD NAGALAND",
+          "channel_slug": "dd-nagaland",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/272878572nagala.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/272878572nagala.webp"
+        },
+        {
+          "channel_id": 10600,
+          "channel_number": "309",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD SAPTAGIRI",
+          "channel_slug": "dd-saptagiri",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1150594073Dd_saptgiri.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1150594073Dd_saptgiri.webp"
+        },
+        {
+          "channel_id": 10599,
+          "channel_number": "310",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD MEGHALAYA",
+          "channel_slug": "dd-meghalaya",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2120874491megha.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/2120874491megha.webp"
+        },
+        {
+          "channel_id": 10589,
+          "channel_number": "311",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD Jharkhand",
+          "channel_slug": "dd-jharkhand",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/76646365Dd_jharkhan.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/76646365Dd_jharkhan.webp"
+        },
+        {
+          "channel_id": 10588,
+          "channel_number": "312",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD BIHAR",
+          "channel_slug": "dd-bihar",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1565141068Dd_bihar.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1565141068Dd_bihar.webp"
+        },
+        {
+          "channel_id": 10587,
+          "channel_number": "313",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD UP",
+          "channel_slug": "dd-up",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1960626856Uttar_Pradesh.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1960626856Uttar_Pradesh.webp"
+        },
+        {
+          "channel_id": 10586,
+          "channel_number": "314",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD HIMANCHAL",
+          "channel_slug": "dd-himanchal",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/926769901DD_himanchal.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/926769901DD_himanchal.webp"
+        },
+        {
+          "channel_id": 10558,
+          "channel_number": "315",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD BANGLA",
+          "channel_slug": "dd-bangla",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2065815638bang.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/2065815638bang.webp"
+        },
+        {
+          "channel_id": 10581,
+          "channel_number": "316",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD UTTRAKHAND",
+          "channel_slug": "dd-uttrakhand",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/371061248Uttarrakhand.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/371061248Uttarrakhand.webp"
+        },
+        {
+          "channel_id": 10578,
+          "channel_number": "317",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD Tripura",
+          "channel_slug": "dd-tripura",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/825234471DD_TRIPURA.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/825234471DD_TRIPURA.webp"
+        },
+        {
+          "channel_id": 10582,
+          "channel_number": "318",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD MALAYALAM",
+          "channel_slug": "dd-malayalam",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1010799992DD_TRIPURA.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1010799992DD_TRIPURA.webp"
+        },
+        {
+          "channel_id": 10576,
+          "channel_number": "319",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD SHAYADRI",
+          "channel_slug": "dd-shayadri",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/72497220DD_SAHYADRI_New_Logo_1600X900.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/72497220DD_SAHYADRI_New_Logo_1600X900.webp"
+        },
+        {
+          "channel_id": 10575,
+          "channel_number": "320",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD PUNJABI",
+          "channel_slug": "dd-punjabi",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2092344537Dd_Punjabi.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/2092344537Dd_Punjabi.webp"
+        },
+        {
+          "channel_id": 10573,
+          "channel_number": "321",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD GIRNAR",
+          "channel_slug": "dd-girnar",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1761185944DD_Girnar.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1761185944DD_Girnar.webp"
+        },
+        {
+          "channel_id": 10571,
+          "channel_number": "322",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD CHHATISGARH",
+          "channel_slug": "dd-chhatisgarh",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1577670363DD_CHHATISGARH.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1577670363DD_CHHATISGARH.webp"
+        },
+        {
+          "channel_id": 10601,
+          "channel_number": "323",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD CHANDANA",
+          "channel_slug": "dd-chandana",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/355252557DD_TRIPURA-3.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/355252557DD_TRIPURA-3.webp"
+        },
+        {
+          "channel_id": 10577,
+          "channel_number": "324",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD TAMIL",
+          "channel_slug": "dd-tamil",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1484942573541929497WhatsApp_Image_2024-11-25_at_16.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1484942573541929497WhatsApp_Image_2024-11-25_at_16.webp"
+        },
+        {
+          "channel_id": 10562,
+          "channel_number": "325",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD ODIA",
+          "channel_slug": "dd-odia",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/820017522odia.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/820017522odia.webp"
+        },
+        {
+          "channel_id": 10561,
+          "channel_number": "326",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD MIZORAM",
+          "channel_slug": "dd-mizoram",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1657530361mizoram.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1657530361mizoram.webp"
+        },
+        {
+          "channel_id": 10560,
+          "channel_number": "327",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD MANIPUR",
+          "channel_slug": "dd-manipur",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2042630736manipur_720x405.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/2042630736manipur_720x405.webp"
+        },
+        {
+          "channel_id": 10559,
+          "channel_number": "328",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD KASHIR",
+          "channel_slug": "dd-kashir",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1113622373DD_KASHIR.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1113622373DD_KASHIR.webp"
+        }
+      ]
+    }
+  ]
+}
