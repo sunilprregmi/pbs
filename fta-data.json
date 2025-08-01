@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-31 10:36:46",
+  "date": "2025-08-01 10:45:02",
   "feeds": [
     {
       "category_id": 1,
@@ -2589,18 +2589,8 @@
           "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1323303185Frame_207.webp"
         },
         {
-          "channel_id": 15306,
-          "channel_number": "250",
-          "channel_country": "IN",
-          "channel_category": "News",
-          "channel_name": "Bharat 24",
-          "channel_slug": "bharat-24",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/557200387Thumbnail_for_Web.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/557200387Thumbnail_for_Web.webp"
-        },
-        {
           "channel_id": 14854,
-          "channel_number": "251",
+          "channel_number": "250",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "India TV News",
@@ -2610,7 +2600,7 @@
         },
         {
           "channel_id": 14582,
-          "channel_number": "252",
+          "channel_number": "251",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "Zee News",
@@ -2620,7 +2610,7 @@
         },
         {
           "channel_id": 11022,
-          "channel_number": "253",
+          "channel_number": "252",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "SANSAD TV 1",
@@ -2630,7 +2620,7 @@
         },
         {
           "channel_id": 10539,
-          "channel_number": "254",
+          "channel_number": "253",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "DD INDIA",
@@ -2640,7 +2630,7 @@
         },
         {
           "channel_id": 11021,
-          "channel_number": "255",
+          "channel_number": "254",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "SANSAD TV 2",
@@ -2650,7 +2640,7 @@
         },
         {
           "channel_id": 10608,
-          "channel_number": "256",
+          "channel_number": "255",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "AAJ TAK",
@@ -2660,7 +2650,7 @@
         },
         {
           "channel_id": 10549,
-          "channel_number": "257",
+          "channel_number": "256",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "ABP NEWS",
@@ -2670,7 +2660,7 @@
         },
         {
           "channel_id": 10546,
-          "channel_number": "258",
+          "channel_number": "257",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "GOOD NEWS TODAY",
@@ -2680,13 +2670,23 @@
         },
         {
           "channel_id": 10547,
-          "channel_number": "259",
+          "channel_number": "258",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "INDIA TODAY",
           "channel_slug": "india-today",
           "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/901321020INDIA_TODAY.webp",
           "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/901321020INDIA_TODAY.webp"
+        },
+        {
+          "channel_id": 10594,
+          "channel_number": "259",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "IBC24",
+          "channel_slug": "ibc24",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/682104833IBC_24.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/682104833IBC_24.webp"
         },
         {
           "channel_id": 10585,
@@ -3384,18 +3384,8 @@
           "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/820017522odia.webp"
         },
         {
-          "channel_id": 10561,
-          "channel_number": "325",
-          "channel_country": "IN",
-          "channel_category": "DD Regional",
-          "channel_name": "DD MIZORAM",
-          "channel_slug": "dd-mizoram",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1657530361mizoram.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1657530361mizoram.webp"
-        },
-        {
           "channel_id": 10560,
-          "channel_number": "326",
+          "channel_number": "325",
           "channel_country": "IN",
           "channel_category": "DD Regional",
           "channel_name": "DD MANIPUR",
@@ -3405,7 +3395,7 @@
         },
         {
           "channel_id": 10559,
-          "channel_number": "327",
+          "channel_number": "326",
           "channel_country": "IN",
           "channel_category": "DD Regional",
           "channel_name": "DD KASHIR",
@@ -3424,7 +3414,7 @@
       "channels": [
         {
           "channel_id": 2001,
-          "channel_number": "328",
+          "channel_number": "327",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "NTV",
@@ -3435,7 +3425,7 @@
         },
         {
           "channel_id": 2002,
-          "channel_number": "329",
+          "channel_number": "328",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "NTV Plus",
@@ -3446,7 +3436,7 @@
         },
         {
           "channel_id": 2003,
-          "channel_number": "330",
+          "channel_number": "329",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "NTV News",
@@ -3457,7 +3447,7 @@
         },
         {
           "channel_id": 2004,
-          "channel_number": "331",
+          "channel_number": "330",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "NTV Kohalpur",
@@ -3468,7 +3458,7 @@
         },
         {
           "channel_id": 2005,
-          "channel_number": "332",
+          "channel_number": "331",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "NTV Itahari",
@@ -3479,7 +3469,7 @@
         },
         {
           "channel_id": 2006,
-          "channel_number": "333",
+          "channel_number": "332",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "Kantipur SD",
