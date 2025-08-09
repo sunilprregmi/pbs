@@ -1,7 +1,7 @@
 #EXTM3U
 # Only Free-To-Air Streams
 # Scrapped by @sunilprregmi
-# Scrapped on 2025-08-08 10:39:39
+# Scrapped on 2025-08-09 10:25:13
 # Relay server is for playback
 
 #EXTINF:-1 tvg-id="249" tvg-chno="001" tvg-name="india-today" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fkszrn.png" group-title="News", India Today
@@ -1948,49 +1948,55 @@ https://in1.sunilprasad.com.np/wavespb/10577/master.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10562/master.m3u8
 
-#EXTINF:-1 tvg-id="10560" tvg-chno="325" tvg-name="dd-manipur" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2042630736manipur_720x405.webp" group-title="DD Regional", DD MANIPUR
+#EXTINF:-1 tvg-id="10561" tvg-chno="325" tvg-name="dd-mizoram" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1657530361mizoram.webp" group-title="DD Regional", DD MIZORAM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+https://in1.sunilprasad.com.np/wavespb/10561/master.m3u8
+
+#EXTINF:-1 tvg-id="10560" tvg-chno="326" tvg-name="dd-manipur" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2042630736manipur_720x405.webp" group-title="DD Regional", DD MANIPUR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10560/master.m3u8
 
-#EXTINF:-1 tvg-id="10559" tvg-chno="326" tvg-name="dd-kashir" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1113622373DD_KASHIR.webp" group-title="DD Regional", DD KASHIR
+#EXTINF:-1 tvg-id="10559" tvg-chno="327" tvg-name="dd-kashir" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1113622373DD_KASHIR.webp" group-title="DD Regional", DD KASHIR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10559/master.m3u8
 
-#EXTINF:-1 tvg-id="2001" tvg-chno="327" tvg-name="ntv" tvg-logo="https://ntv.newitventure.com//images/channel_logos/1.png" group-title="Nepalese", NTV
+#EXTINF:-1 tvg-id="2001" tvg-chno="328" tvg-name="ntv" tvg-logo="https://ntv.newitventure.com//images/channel_logos/1.png" group-title="Nepalese", NTV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/ntvLive/ntv/master.m3u8
 
-#EXTINF:-1 tvg-id="2002" tvg-chno="328" tvg-name="ntv-plus" tvg-logo="https://ntv.newitventure.com//images/channel_logos/2.png" group-title="Nepalese", NTV Plus
+#EXTINF:-1 tvg-id="2002" tvg-chno="329" tvg-name="ntv-plus" tvg-logo="https://ntv.newitventure.com//images/channel_logos/2.png" group-title="Nepalese", NTV Plus
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/ntvLive/ntv-plus/master.m3u8
 
-#EXTINF:-1 tvg-id="2003" tvg-chno="329" tvg-name="ntv-news" tvg-logo="https://ntv.newitventure.com//images/channel_logos/3.png" group-title="Nepalese", NTV News
+#EXTINF:-1 tvg-id="2003" tvg-chno="330" tvg-name="ntv-news" tvg-logo="https://ntv.newitventure.com//images/channel_logos/3.png" group-title="Nepalese", NTV News
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/ntvLive/ntv-news/master.m3u8
 
-#EXTINF:-1 tvg-id="2004" tvg-chno="330" tvg-name="ntv-kohalpur" tvg-logo="https://ntv.newitventure.com//images/channel_logos/4.png" group-title="Nepalese", NTV Kohalpur
+#EXTINF:-1 tvg-id="2004" tvg-chno="331" tvg-name="ntv-kohalpur" tvg-logo="https://ntv.newitventure.com//images/channel_logos/4.png" group-title="Nepalese", NTV Kohalpur
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/ntvLive/ntv-kohalpur/master.m3u8
 
-#EXTINF:-1 tvg-id="2005" tvg-chno="331" tvg-name="ntv-itahari" tvg-logo="https://ntv.newitventure.com//images/channel_logos/600.png" group-title="Nepalese", NTV Itahari
+#EXTINF:-1 tvg-id="2005" tvg-chno="332" tvg-name="ntv-itahari" tvg-logo="https://ntv.newitventure.com//images/channel_logos/600.png" group-title="Nepalese", NTV Itahari
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/ntvLive/ntv-itahari/master.m3u8
 
-#EXTINF:-1 tvg-id="2006" tvg-chno="332" tvg-name="kantipur-sd" tvg-logo="https://play-lh.googleusercontent.com/CQSmPpi6-l-S44IER_44ytPqQ-V4CbCPWspMJGNp3rYcD6VIEdiBenpMBB0DAi2Vow" group-title="Nepalese", Kantipur SD
+#EXTINF:-1 tvg-id="2006" tvg-chno="333" tvg-name="kantipur-sd" tvg-logo="https://play-lh.googleusercontent.com/CQSmPpi6-l-S44IER_44ytPqQ-V4CbCPWspMJGNp3rYcD6VIEdiBenpMBB0DAi2Vow" group-title="Nepalese", Kantipur SD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)

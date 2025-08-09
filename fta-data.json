@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-08 10:39:39",
+  "date": "2025-08-09 10:25:13",
   "feeds": [
     {
       "category_id": 1,
@@ -3384,8 +3384,18 @@
           "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/820017522odia.webp"
         },
         {
-          "channel_id": 10560,
+          "channel_id": 10561,
           "channel_number": "325",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD MIZORAM",
+          "channel_slug": "dd-mizoram",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1657530361mizoram.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1657530361mizoram.webp"
+        },
+        {
+          "channel_id": 10560,
+          "channel_number": "326",
           "channel_country": "IN",
           "channel_category": "DD Regional",
           "channel_name": "DD MANIPUR",
@@ -3395,7 +3405,7 @@
         },
         {
           "channel_id": 10559,
-          "channel_number": "326",
+          "channel_number": "327",
           "channel_country": "IN",
           "channel_category": "DD Regional",
           "channel_name": "DD KASHIR",
@@ -3414,7 +3424,7 @@
       "channels": [
         {
           "channel_id": 2001,
-          "channel_number": "327",
+          "channel_number": "328",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "NTV",
@@ -3425,7 +3435,7 @@
         },
         {
           "channel_id": 2002,
-          "channel_number": "328",
+          "channel_number": "329",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "NTV Plus",
@@ -3436,7 +3446,7 @@
         },
         {
           "channel_id": 2003,
-          "channel_number": "329",
+          "channel_number": "330",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "NTV News",
@@ -3447,7 +3457,7 @@
         },
         {
           "channel_id": 2004,
-          "channel_number": "330",
+          "channel_number": "331",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "NTV Kohalpur",
@@ -3458,7 +3468,7 @@
         },
         {
           "channel_id": 2005,
-          "channel_number": "331",
+          "channel_number": "332",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "NTV Itahari",
@@ -3469,7 +3479,7 @@
         },
         {
           "channel_id": 2006,
-          "channel_number": "332",
+          "channel_number": "333",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "Kantipur SD",
