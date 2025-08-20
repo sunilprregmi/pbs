@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-19 10:19:11",
+  "date": "2025-08-20 10:19:26",
   "feeds": [
     {
       "category_id": 1,
@@ -2589,58 +2589,8 @@
           "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1323303185Frame_207.webp"
         },
         {
-          "channel_id": 14854,
-          "channel_number": "250",
-          "channel_country": "IN",
-          "channel_category": "News",
-          "channel_name": "India TV News",
-          "channel_slug": "india-tv-news",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1483991994india_tv.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1483991994india_tv.webp"
-        },
-        {
-          "channel_id": 14582,
-          "channel_number": "251",
-          "channel_country": "IN",
-          "channel_category": "News",
-          "channel_name": "Zee News",
-          "channel_slug": "zee-news",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/225805045cropped-ZEE_NEWS_LOGO_NEW_CMYK.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/225805045cropped-ZEE_NEWS_LOGO_NEW_CMYK.webp"
-        },
-        {
-          "channel_id": 11022,
-          "channel_number": "252",
-          "channel_country": "IN",
-          "channel_category": "News",
-          "channel_name": "SANSAD TV 1",
-          "channel_slug": "sansad-tv-1",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/338707128Sansad_TV__4_.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/338707128Sansad_TV__4_.webp"
-        },
-        {
-          "channel_id": 10539,
-          "channel_number": "253",
-          "channel_country": "IN",
-          "channel_category": "News",
-          "channel_name": "DD INDIA",
-          "channel_slug": "dd-india",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1194248787Frame_1597877919.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1194248787Frame_1597877919.webp"
-        },
-        {
-          "channel_id": 11021,
-          "channel_number": "254",
-          "channel_country": "IN",
-          "channel_category": "News",
-          "channel_name": "SANSAD TV 2",
-          "channel_slug": "sansad-tv-2",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/267469557Sansad_TV__5_.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/267469557Sansad_TV__5_.webp"
-        },
-        {
           "channel_id": 10608,
-          "channel_number": "255",
+          "channel_number": "250",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "AAJ TAK",
@@ -2650,7 +2600,7 @@
         },
         {
           "channel_id": 10549,
-          "channel_number": "256",
+          "channel_number": "251",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "ABP NEWS",
@@ -2659,8 +2609,18 @@
           "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/925545393ABP_NEWS.webp"
         },
         {
+          "channel_id": 10539,
+          "channel_number": "252",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "DD INDIA",
+          "channel_slug": "dd-india",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1194248787Frame_1597877919.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1194248787Frame_1597877919.webp"
+        },
+        {
           "channel_id": 10546,
-          "channel_number": "257",
+          "channel_number": "253",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "GOOD NEWS TODAY",
@@ -2669,18 +2629,8 @@
           "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1693877778Frame_1597877912.webp"
         },
         {
-          "channel_id": 10547,
-          "channel_number": "258",
-          "channel_country": "IN",
-          "channel_category": "News",
-          "channel_name": "INDIA TODAY",
-          "channel_slug": "india-today",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/901321020INDIA_TODAY.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/901321020INDIA_TODAY.webp"
-        },
-        {
           "channel_id": 10594,
-          "channel_number": "259",
+          "channel_number": "254",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "IBC24",
@@ -2689,8 +2639,28 @@
           "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/682104833IBC_24.webp"
         },
         {
+          "channel_id": 10547,
+          "channel_number": "255",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "INDIA TODAY",
+          "channel_slug": "india-today",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/901321020INDIA_TODAY.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/901321020INDIA_TODAY.webp"
+        },
+        {
+          "channel_id": 14854,
+          "channel_number": "256",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "India TV News",
+          "channel_slug": "india-tv-news",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1483991994india_tv.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1483991994india_tv.webp"
+        },
+        {
           "channel_id": 10585,
-          "channel_number": "260",
+          "channel_number": "257",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "NAVBHARAT",
@@ -2700,7 +2670,7 @@
         },
         {
           "channel_id": 10593,
-          "channel_number": "261",
+          "channel_number": "258",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "NDTV INDIA",
@@ -2709,18 +2679,8 @@
           "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/192194567NDTV_INDIA.webp"
         },
         {
-          "channel_id": 10554,
-          "channel_number": "262",
-          "channel_country": "IN",
-          "channel_category": "News",
-          "channel_name": "NEWS 24 THINK FIRST",
-          "channel_slug": "news-24-think-first",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1862093768NEWS24_THINK_FIRST.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1862093768NEWS24_THINK_FIRST.webp"
-        },
-        {
           "channel_id": 10552,
-          "channel_number": "263",
+          "channel_number": "259",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "NEWS NATION",
@@ -2730,7 +2690,7 @@
         },
         {
           "channel_id": 10590,
-          "channel_number": "264",
+          "channel_number": "260",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "NEWS 18 INDIA",
@@ -2739,8 +2699,28 @@
           "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1431023118News_18_india.webp"
         },
         {
+          "channel_id": 10554,
+          "channel_number": "261",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "NEWS 24 THINK FIRST",
+          "channel_slug": "news-24-think-first",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1862093768NEWS24_THINK_FIRST.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1862093768NEWS24_THINK_FIRST.webp"
+        },
+        {
+          "channel_id": 10551,
+          "channel_number": "262",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "R Republic",
+          "channel_slug": "r-republic",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/332387229REPUBLIC_TV.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/332387229REPUBLIC_TV.webp"
+        },
+        {
           "channel_id": 10645,
-          "channel_number": "265",
+          "channel_number": "263",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "RAJ TV",
@@ -2750,7 +2730,7 @@
         },
         {
           "channel_id": 10827,
-          "channel_number": "266",
+          "channel_number": "264",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "Republic TV Bharat",
@@ -2759,24 +2739,44 @@
           "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/2122233949download__6_.webp"
         },
         {
-          "channel_id": 10551,
-          "channel_number": "267",
+          "channel_id": 11022,
+          "channel_number": "265",
           "channel_country": "IN",
           "channel_category": "News",
-          "channel_name": "R Republic",
-          "channel_slug": "r-republic",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/332387229REPUBLIC_TV.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/332387229REPUBLIC_TV.webp"
+          "channel_name": "SANSAD TV 1",
+          "channel_slug": "sansad-tv-1",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/338707128Sansad_TV__4_.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/338707128Sansad_TV__4_.webp"
+        },
+        {
+          "channel_id": 11021,
+          "channel_number": "266",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "SANSAD TV 2",
+          "channel_slug": "sansad-tv-2",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/267469557Sansad_TV__5_.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/267469557Sansad_TV__5_.webp"
         },
         {
           "channel_id": 10595,
-          "channel_number": "268",
+          "channel_number": "267",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "TV9 BHARATVARSH",
           "channel_slug": "tv9-bharatvarsh",
           "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/896613924Tv9_bharatvarsha.webp",
           "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/896613924Tv9_bharatvarsha.webp"
+        },
+        {
+          "channel_id": 14582,
+          "channel_number": "268",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "Zee News",
+          "channel_slug": "zee-news",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/225805045cropped-ZEE_NEWS_LOGO_NEW_CMYK.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/225805045cropped-ZEE_NEWS_LOGO_NEW_CMYK.webp"
         }
       ]
     },
@@ -2937,58 +2937,8 @@
       "category_priority": 3,
       "channels": [
         {
-          "channel_id": 10605,
-          "channel_number": "283",
-          "channel_country": "IN",
-          "channel_category": "Music",
-          "channel_name": "9X JALWA",
-          "channel_slug": "9x-jalwa",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1001652520DD_TRIPURA__1_.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1001652520DD_TRIPURA__1_.webp"
-        },
-        {
-          "channel_id": 15037,
-          "channel_number": "284",
-          "channel_country": "IN",
-          "channel_category": "Music",
-          "channel_name": "PTC MUSIC",
-          "channel_slug": "ptc-music",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2073643161PTC-Music.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/2073643161PTC-Music.webp"
-        },
-        {
-          "channel_id": 10606,
-          "channel_number": "285",
-          "channel_country": "IN",
-          "channel_category": "Music",
-          "channel_name": "9X JHAKAS",
-          "channel_slug": "9x-jhakas",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/19506022848783082819X_JHAKAS.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/19506022848783082819X_JHAKAS.webp"
-        },
-        {
-          "channel_id": 10591,
-          "channel_number": "286",
-          "channel_country": "IN",
-          "channel_category": "Music",
-          "channel_name": "9XM",
-          "channel_slug": "9xm",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/6041427509XM.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/6041427509XM.webp"
-        },
-        {
-          "channel_id": 10607,
-          "channel_number": "287",
-          "channel_country": "IN",
-          "channel_category": "Music",
-          "channel_name": "9X TASHAN",
-          "channel_slug": "9x-tashan",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/107294214421349077939X_TASHAN.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/107294214421349077939X_TASHAN.webp"
-        },
-        {
           "channel_id": 10545,
-          "channel_number": "288",
+          "channel_number": "283",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "B4U Music",
@@ -2998,13 +2948,63 @@
         },
         {
           "channel_id": 10651,
-          "channel_number": "289",
+          "channel_number": "284",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "MASTI",
           "channel_slug": "masti",
           "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1546759719Mastiii_Logo_-_1920x1080.webp",
           "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1546759719Mastiii_Logo_-_1920x1080.webp"
+        },
+        {
+          "channel_id": 15037,
+          "channel_number": "285",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "PTC MUSIC",
+          "channel_slug": "ptc-music",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2073643161PTC-Music.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/2073643161PTC-Music.webp"
+        },
+        {
+          "channel_id": 10605,
+          "channel_number": "286",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "9X JALWA",
+          "channel_slug": "9x-jalwa",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1001652520DD_TRIPURA__1_.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1001652520DD_TRIPURA__1_.webp"
+        },
+        {
+          "channel_id": 10606,
+          "channel_number": "287",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "9X JHAKAS",
+          "channel_slug": "9x-jhakas",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/19506022848783082819X_JHAKAS.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/19506022848783082819X_JHAKAS.webp"
+        },
+        {
+          "channel_id": 10607,
+          "channel_number": "288",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "9X TASHAN",
+          "channel_slug": "9x-tashan",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/107294214421349077939X_TASHAN.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/107294214421349077939X_TASHAN.webp"
+        },
+        {
+          "channel_id": 10591,
+          "channel_number": "289",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "9XM",
+          "channel_slug": "9xm",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/6041427509XM.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/6041427509XM.webp"
         }
       ]
     },

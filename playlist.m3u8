@@ -1,7 +1,7 @@
 #EXTM3U
 # Only Free-To-Air Streams
 # Scrapped by @sunilprregmi
-# Scrapped on 2025-08-19 10:19:11
+# Scrapped on 2025-08-20 10:19:26
 # Relay server is for playback
 
 #EXTINF:-1 tvg-id="249" tvg-chno="001" tvg-name="india-today" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fkszrn.png" group-title="News", India Today
@@ -1498,119 +1498,119 @@ https://in1.sunilprasad.com.np/yuppLive/space-series/master.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10541/master.m3u8
 
-#EXTINF:-1 tvg-id="14854" tvg-chno="250" tvg-name="india-tv-news" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1483991994india_tv.webp" group-title="News", India TV News
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
-https://in1.sunilprasad.com.np/wavespb/14854/master.m3u8
-
-#EXTINF:-1 tvg-id="14582" tvg-chno="251" tvg-name="zee-news" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/225805045cropped-ZEE_NEWS_LOGO_NEW_CMYK.webp" group-title="News", Zee News
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
-https://in1.sunilprasad.com.np/wavespb/14582/master.m3u8
-
-#EXTINF:-1 tvg-id="11022" tvg-chno="252" tvg-name="sansad-tv-1" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/338707128Sansad_TV__4_.webp" group-title="News", SANSAD TV 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
-https://in1.sunilprasad.com.np/wavespb/11022/master.m3u8
-
-#EXTINF:-1 tvg-id="10539" tvg-chno="253" tvg-name="dd-india" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1194248787Frame_1597877919.webp" group-title="News", DD INDIA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
-https://in1.sunilprasad.com.np/wavespb/10539/master.m3u8
-
-#EXTINF:-1 tvg-id="11021" tvg-chno="254" tvg-name="sansad-tv-2" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/267469557Sansad_TV__5_.webp" group-title="News", SANSAD TV 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
-https://in1.sunilprasad.com.np/wavespb/11021/master.m3u8
-
-#EXTINF:-1 tvg-id="10608" tvg-chno="255" tvg-name="aaj-tak" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/317045659DD_TRIPURA__2_.webp" group-title="News", AAJ TAK
+#EXTINF:-1 tvg-id="10608" tvg-chno="250" tvg-name="aaj-tak" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/317045659DD_TRIPURA__2_.webp" group-title="News", AAJ TAK
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10608/master.m3u8
 
-#EXTINF:-1 tvg-id="10549" tvg-chno="256" tvg-name="abp-news" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/925545393ABP_NEWS.webp" group-title="News", ABP NEWS
+#EXTINF:-1 tvg-id="10549" tvg-chno="251" tvg-name="abp-news" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/925545393ABP_NEWS.webp" group-title="News", ABP NEWS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10549/master.m3u8
 
-#EXTINF:-1 tvg-id="10546" tvg-chno="257" tvg-name="good-news-today" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1693877778Frame_1597877912.webp" group-title="News", GOOD NEWS TODAY
+#EXTINF:-1 tvg-id="10539" tvg-chno="252" tvg-name="dd-india" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1194248787Frame_1597877919.webp" group-title="News", DD INDIA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+https://in1.sunilprasad.com.np/wavespb/10539/master.m3u8
+
+#EXTINF:-1 tvg-id="10546" tvg-chno="253" tvg-name="good-news-today" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1693877778Frame_1597877912.webp" group-title="News", GOOD NEWS TODAY
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10546/master.m3u8
 
-#EXTINF:-1 tvg-id="10547" tvg-chno="258" tvg-name="india-today" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/901321020INDIA_TODAY.webp" group-title="News", INDIA TODAY
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
-https://in1.sunilprasad.com.np/wavespb/10547/master.m3u8
-
-#EXTINF:-1 tvg-id="10594" tvg-chno="259" tvg-name="ibc24" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/682104833IBC_24.webp" group-title="News", IBC24
+#EXTINF:-1 tvg-id="10594" tvg-chno="254" tvg-name="ibc24" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/682104833IBC_24.webp" group-title="News", IBC24
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10594/master.m3u8
 
-#EXTINF:-1 tvg-id="10585" tvg-chno="260" tvg-name="navbharat" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/921001071Navbharat.webp" group-title="News", NAVBHARAT
+#EXTINF:-1 tvg-id="10547" tvg-chno="255" tvg-name="india-today" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/901321020INDIA_TODAY.webp" group-title="News", INDIA TODAY
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+https://in1.sunilprasad.com.np/wavespb/10547/master.m3u8
+
+#EXTINF:-1 tvg-id="14854" tvg-chno="256" tvg-name="india-tv-news" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1483991994india_tv.webp" group-title="News", India TV News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+https://in1.sunilprasad.com.np/wavespb/14854/master.m3u8
+
+#EXTINF:-1 tvg-id="10585" tvg-chno="257" tvg-name="navbharat" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/921001071Navbharat.webp" group-title="News", NAVBHARAT
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10585/master.m3u8
 
-#EXTINF:-1 tvg-id="10593" tvg-chno="261" tvg-name="ndtv-india" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/192194567NDTV_INDIA.webp" group-title="News", NDTV INDIA
+#EXTINF:-1 tvg-id="10593" tvg-chno="258" tvg-name="ndtv-india" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/192194567NDTV_INDIA.webp" group-title="News", NDTV INDIA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10593/master.m3u8
 
-#EXTINF:-1 tvg-id="10554" tvg-chno="262" tvg-name="news-24-think-first" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1862093768NEWS24_THINK_FIRST.webp" group-title="News", NEWS 24 THINK FIRST
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
-https://in1.sunilprasad.com.np/wavespb/10554/master.m3u8
-
-#EXTINF:-1 tvg-id="10552" tvg-chno="263" tvg-name="news-nation" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1518387989NEWS_NATION.webp" group-title="News", NEWS NATION
+#EXTINF:-1 tvg-id="10552" tvg-chno="259" tvg-name="news-nation" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1518387989NEWS_NATION.webp" group-title="News", NEWS NATION
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10552/master.m3u8
 
-#EXTINF:-1 tvg-id="10590" tvg-chno="264" tvg-name="news-18-india" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1431023118News_18_india.webp" group-title="News", NEWS 18 INDIA
+#EXTINF:-1 tvg-id="10590" tvg-chno="260" tvg-name="news-18-india" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1431023118News_18_india.webp" group-title="News", NEWS 18 INDIA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10590/master.m3u8
 
-#EXTINF:-1 tvg-id="10645" tvg-chno="265" tvg-name="raj-tv" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1032708131RAJ_TV.webp" group-title="News", RAJ TV
+#EXTINF:-1 tvg-id="10554" tvg-chno="261" tvg-name="news-24-think-first" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1862093768NEWS24_THINK_FIRST.webp" group-title="News", NEWS 24 THINK FIRST
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
-https://in1.sunilprasad.com.np/wavespb/10645/master.m3u8
+https://in1.sunilprasad.com.np/wavespb/10554/master.m3u8
 
-#EXTINF:-1 tvg-id="10827" tvg-chno="266" tvg-name="republic-tv-bharat" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2122233949download__6_.webp" group-title="News", Republic TV Bharat
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
-https://in1.sunilprasad.com.np/wavespb/10827/master.m3u8
-
-#EXTINF:-1 tvg-id="10551" tvg-chno="267" tvg-name="r-republic" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/332387229REPUBLIC_TV.webp" group-title="News", R Republic
+#EXTINF:-1 tvg-id="10551" tvg-chno="262" tvg-name="r-republic" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/332387229REPUBLIC_TV.webp" group-title="News", R Republic
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10551/master.m3u8
 
-#EXTINF:-1 tvg-id="10595" tvg-chno="268" tvg-name="tv9-bharatvarsh" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/896613924Tv9_bharatvarsha.webp" group-title="News", TV9 BHARATVARSH
+#EXTINF:-1 tvg-id="10645" tvg-chno="263" tvg-name="raj-tv" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1032708131RAJ_TV.webp" group-title="News", RAJ TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+https://in1.sunilprasad.com.np/wavespb/10645/master.m3u8
+
+#EXTINF:-1 tvg-id="10827" tvg-chno="264" tvg-name="republic-tv-bharat" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2122233949download__6_.webp" group-title="News", Republic TV Bharat
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+https://in1.sunilprasad.com.np/wavespb/10827/master.m3u8
+
+#EXTINF:-1 tvg-id="11022" tvg-chno="265" tvg-name="sansad-tv-1" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/338707128Sansad_TV__4_.webp" group-title="News", SANSAD TV 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+https://in1.sunilprasad.com.np/wavespb/11022/master.m3u8
+
+#EXTINF:-1 tvg-id="11021" tvg-chno="266" tvg-name="sansad-tv-2" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/267469557Sansad_TV__5_.webp" group-title="News", SANSAD TV 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+https://in1.sunilprasad.com.np/wavespb/11021/master.m3u8
+
+#EXTINF:-1 tvg-id="10595" tvg-chno="267" tvg-name="tv9-bharatvarsh" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/896613924Tv9_bharatvarsha.webp" group-title="News", TV9 BHARATVARSH
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10595/master.m3u8
+
+#EXTINF:-1 tvg-id="14582" tvg-chno="268" tvg-name="zee-news" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/225805045cropped-ZEE_NEWS_LOGO_NEW_CMYK.webp" group-title="News", Zee News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+https://in1.sunilprasad.com.np/wavespb/14582/master.m3u8
 
 #EXTINF:-1 tvg-id="10648" tvg-chno="269" tvg-name="abzy-dhakad" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1782238670ABZY_DHAKAD.webp" group-title="Entertainment", ABZY DHAKAD
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1696,47 +1696,47 @@ https://in1.sunilprasad.com.np/wavespb/10556/master.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10555/master.m3u8
 
-#EXTINF:-1 tvg-id="10605" tvg-chno="283" tvg-name="9x-jalwa" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1001652520DD_TRIPURA__1_.webp" group-title="Music", 9X JALWA
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
-https://in1.sunilprasad.com.np/wavespb/10605/master.m3u8
-
-#EXTINF:-1 tvg-id="15037" tvg-chno="284" tvg-name="ptc-music" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2073643161PTC-Music.webp" group-title="Music", PTC MUSIC
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
-https://in1.sunilprasad.com.np/wavespb/15037/master.m3u8
-
-#EXTINF:-1 tvg-id="10606" tvg-chno="285" tvg-name="9x-jhakas" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/19506022848783082819X_JHAKAS.webp" group-title="Music", 9X JHAKAS
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
-https://in1.sunilprasad.com.np/wavespb/10606/master.m3u8
-
-#EXTINF:-1 tvg-id="10591" tvg-chno="286" tvg-name="9xm" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/6041427509XM.webp" group-title="Music", 9XM
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
-https://in1.sunilprasad.com.np/wavespb/10591/master.m3u8
-
-#EXTINF:-1 tvg-id="10607" tvg-chno="287" tvg-name="9x-tashan" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/107294214421349077939X_TASHAN.webp" group-title="Music", 9X TASHAN
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
-https://in1.sunilprasad.com.np/wavespb/10607/master.m3u8
-
-#EXTINF:-1 tvg-id="10545" tvg-chno="288" tvg-name="b4u-music" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/269746116Frame_1597877911.webp" group-title="Music", B4U Music
+#EXTINF:-1 tvg-id="10545" tvg-chno="283" tvg-name="b4u-music" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/269746116Frame_1597877911.webp" group-title="Music", B4U Music
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10545/master.m3u8
 
-#EXTINF:-1 tvg-id="10651" tvg-chno="289" tvg-name="masti" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1546759719Mastiii_Logo_-_1920x1080.webp" group-title="Music", MASTI
+#EXTINF:-1 tvg-id="10651" tvg-chno="284" tvg-name="masti" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1546759719Mastiii_Logo_-_1920x1080.webp" group-title="Music", MASTI
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10651/master.m3u8
+
+#EXTINF:-1 tvg-id="15037" tvg-chno="285" tvg-name="ptc-music" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2073643161PTC-Music.webp" group-title="Music", PTC MUSIC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+https://in1.sunilprasad.com.np/wavespb/15037/master.m3u8
+
+#EXTINF:-1 tvg-id="10605" tvg-chno="286" tvg-name="9x-jalwa" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1001652520DD_TRIPURA__1_.webp" group-title="Music", 9X JALWA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+https://in1.sunilprasad.com.np/wavespb/10605/master.m3u8
+
+#EXTINF:-1 tvg-id="10606" tvg-chno="287" tvg-name="9x-jhakas" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/19506022848783082819X_JHAKAS.webp" group-title="Music", 9X JHAKAS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+https://in1.sunilprasad.com.np/wavespb/10606/master.m3u8
+
+#EXTINF:-1 tvg-id="10607" tvg-chno="288" tvg-name="9x-tashan" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/107294214421349077939X_TASHAN.webp" group-title="Music", 9X TASHAN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+https://in1.sunilprasad.com.np/wavespb/10607/master.m3u8
+
+#EXTINF:-1 tvg-id="10591" tvg-chno="289" tvg-name="9xm" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/6041427509XM.webp" group-title="Music", 9XM
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
+https://in1.sunilprasad.com.np/wavespb/10591/master.m3u8
 
 #EXTINF:-1 tvg-id="10550" tvg-chno="290" tvg-name="divya" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1874629704DIVYA.webp" group-title="Spiritual", DIVYA
 #KODIPROP:inputstream=inputstream.adaptive
