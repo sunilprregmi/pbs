@@ -1,7 +1,7 @@
 #EXTM3U
 # Only Free-To-Air Streams
 # Scrapped by @sunilprregmi
-# Scrapped on 2025-09-04 10:16:27
+# Scrapped on 2025-09-05 10:17:19
 # Relay server is for playback
 
 #EXTINF:-1 tvg-id="249" tvg-chno="001" tvg-name="india-today" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fkszrn.png" group-title="News", India Today
@@ -1468,7 +1468,7 @@ https://in1.sunilprasad.com.np/yuppLive/hunt-fish-tv/master.m3u8
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
 https://in1.sunilprasad.com.np/yuppLive/nautical-channel/master.m3u8
 
-#EXTINF:-1 tvg-id="298" tvg-chno="245" tvg-name="absinthe-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/rwtils.png" group-title="Sports", Absinthe TV
+#EXTINF:-1 tvg-id="298" tvg-chno="245" tvg-name="absinthe-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/badjix.png" group-title="Sports", Absinthe TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
@@ -1618,7 +1618,7 @@ https://in1.sunilprasad.com.np/wavespb/10551/master.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10645/master.m3u8
 
-#EXTINF:-1 tvg-id="10827" tvg-chno="270" tvg-name="republic-tv-bharat" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2122233949download__6_.webp" group-title="News", Republic TV Bharat
+#EXTINF:-1 tvg-id="10827" tvg-chno="270" tvg-name="republic-tv-bharat" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/2008251569R_bharat____TV___TVW______720x405.webp" group-title="News", Republic TV Bharat
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
