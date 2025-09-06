@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 from typing import Dict, List
 
-### ----- COMMON SETUP -----
+# ----- COMMON SETUP -----
 now_str = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 combined_json = {
     "date": now_str,
@@ -20,8 +20,9 @@ m3u_lines = [
 ]
 channel_counter = 1
 
-### ----- YUPPTV SECTION -----
-def format_url(url):
+
+# ----- YUPPTV SECTION -----
+def format_url(url: str) -> str:
     if not url:
         return ""
     cdn_base = "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/"
@@ -30,8 +31,10 @@ def format_url(url):
     path = url.replace(',', '/')
     return cdn_base + path
 
-def format_slug(slug):
+
+def format_slug(slug: str) -> str:
     return slug.split('/')[0]
+
 
 def get_yupp_headers() -> Dict:
     return {
@@ -46,6 +49,7 @@ def get_yupp_headers() -> Dict:
         "accept-language": "en-US,en;q=0.9"
     }
 
+
 def fetch_yupp_channels(genre: str) -> List:
     base_url = "https://yuppfast-api.revlet.net/service/api/v1/tvguide/channels"
     params = f"filter=genreCode:{genre};langCode:ENG,HIN,MAR,BEN,TEL,KAN,GUA,PUN,BHO,URD,ASS,TAM,MAL,ORI,NEP"
@@ -53,13 +57,17 @@ def fetch_yupp_channels(genre: str) -> List:
     response = requests.get(url, headers=get_yupp_headers())
     return response.json()["response"]["data"]
 
+
 def process_yupp():
     global channel_counter
-    genres = ["news", "entertainment", "music", "kids", "spiritual", "movies", "lifestyle", "sports", "educational", "others"]
+    genres = [
+        "news", "entertainment", "music", "kids", "spiritual", "movies",
+        "lifestyle", "sports", "educational", "others"
+    ]
 
     for index, genre in enumerate(genres, 1):
         category = {
-            "category_id": 0 + index,
+            "category_id": index,
             "category_name": genre.title(),
             "category_slug": genre,
             "category_description": f"{genre.title()} Category",
@@ -81,6 +89,7 @@ def process_yupp():
                     "channel_category": genre.title(),
                     "channel_name": ch["display"]["title"],
                     "channel_slug": format_slug(slug),
+                    "channel_app": "yuppLive",
                     "channel_logo": format_url(ch["display"]["imageUrl"]),
                     "channel_poster": format_url(ch["display"]["loadingImageUrl"])
                 }
@@ -98,9 +107,11 @@ def process_yupp():
                 ])
         except Exception as e:
             print(f"❌ Failed to fetch YuppTV {genre}: {e}")
+
         combined_json["feeds"].append(category)
 
-### ----- WAVES SECTION -----
+
+# ----- WAVES SECTION -----
 def process_waves():
     global channel_counter
     headers = {
@@ -122,12 +133,36 @@ def process_waves():
     }
 
     categories = [
-        {"id": 1, "name": "News", "slug": "news", "description": "News Category", "priority": 1, "url": "https://api.wavespb.com/api/V1/getLiveChannelsV2/0/0/70"},
-        {"id": 2, "name": "Entertainment", "slug": "entertainment", "description": "Entertainment Category", "priority": 2, "url": "https://api.wavespb.com/api/V1/getLiveChannelsV2/0/0/71"},
-        {"id": 3, "name": "Music", "slug": "music", "description": "Music Category", "priority": 3, "url": "https://api.wavespb.com/api/V1/getLiveChannelsV2/0/0/73"},
-        {"id": 5, "name": "Spiritual", "slug": "spiritual", "description": "Spiritual Category", "priority": 5, "url": "https://api.wavespb.com/api/V1/getLiveChannelsV2/0/0/72"},
-        {"id": 11, "name": "DD National", "slug": "dd-national", "description": "Doordarshan National Channels", "priority": 11, "url": "https://api.wavespb.com/api/V1/getLiveChannelsV2/0/0/76"},
-        {"id": 12, "name": "DD Regional", "slug": "dd-regional", "description": "Doordarshan Regional Channels", "priority": 12, "url": "https://api.wavespb.com/api/V1/getLiveChannelsV2/0/0/77"},
+        {
+            "id": 1, "name": "News", "slug": "news",
+            "description": "News Category", "priority": 1,
+            "url": "https://api.wavespb.com/api/V1/getLiveChannelsV2/0/0/70"
+        },
+        {
+            "id": 2, "name": "Entertainment", "slug": "entertainment",
+            "description": "Entertainment Category", "priority": 2,
+            "url": "https://api.wavespb.com/api/V1/getLiveChannelsV2/0/0/71"
+        },
+        {
+            "id": 3, "name": "Music", "slug": "music",
+            "description": "Music Category", "priority": 3,
+            "url": "https://api.wavespb.com/api/V1/getLiveChannelsV2/0/0/73"
+        },
+        {
+            "id": 5, "name": "Spiritual", "slug": "spiritual",
+            "description": "Spiritual Category", "priority": 5,
+            "url": "https://api.wavespb.com/api/V1/getLiveChannelsV2/0/0/72"
+        },
+        {
+            "id": 11, "name": "DD National", "slug": "dd-national",
+            "description": "Doordarshan National Channels", "priority": 11,
+            "url": "https://api.wavespb.com/api/V1/getLiveChannelsV2/0/0/76"
+        },
+        {
+            "id": 12, "name": "DD Regional", "slug": "dd-regional",
+            "description": "Doordarshan Regional Channels", "priority": 12,
+            "url": "https://api.wavespb.com/api/V1/getLiveChannelsV2/0/0/77"
+        },
     ]
 
     for cat in categories:
@@ -148,6 +183,7 @@ def process_waves():
                     "channel_category": cat["name"],
                     "channel_name": ch["title"],
                     "channel_slug": ch["title"].lower().replace(" ", "-"),
+                    "channel_app": "wavespb",
                     "channel_logo": ch["thumbnail"],
                     "channel_poster": ch["poster_url"]
                 }
@@ -177,7 +213,7 @@ def process_waves():
             print(f"❌ Failed to fetch {cat['name']}: {e}")
 
 
-### ----- LINEAR ADDON SECTION -----
+# ----- LINEAR ADDON SECTION -----
 def process_linear_addon():
     global channel_counter
     try:
@@ -203,7 +239,8 @@ def process_linear_addon():
     except Exception as e:
         print(f"❌ Failed to load linear addon: {e}")
 
-### ----- MAIN COMBINER -----
+
+# ----- MAIN COMBINER -----
 if __name__ == "__main__":
     if os.path.exists("fta-data.json"):
         os.remove("fta-data.json")
