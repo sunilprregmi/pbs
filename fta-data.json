@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-15 10:18:15",
+  "date": "2025-09-16 10:16:13",
   "feeds": [
     {
       "category_id": 1,
@@ -3325,8 +3325,8 @@
           "channel_name": "9X JALWA",
           "channel_slug": "9x-jalwa",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1001652520DD_TRIPURA__1_.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1001652520DD_TRIPURA__1_.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/7812127779x_jalwa__mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/7812127779x_jalwa__TVW______720x405.webp"
         },
         {
           "channel_id": 10606,
@@ -3358,8 +3358,8 @@
           "channel_name": "9XM",
           "channel_slug": "9xm",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/6041427509XM.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/6041427509XM.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/11112553419xm___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/11112553419xm___720x405.webp"
         }
       ]
     },

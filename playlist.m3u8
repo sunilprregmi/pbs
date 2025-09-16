@@ -1,7 +1,7 @@
 #EXTM3U
 # Only Free-To-Air Streams
 # Scrapped by @sunilprregmi
-# Scrapped on 2025-09-15 10:18:15
+# Scrapped on 2025-09-16 10:16:13
 # Relay server is for playback
 
 #EXTINF:-1 tvg-id="249" tvg-chno="001" tvg-name="india-today" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/fkszrn.png" group-title="News", India Today
@@ -1750,7 +1750,7 @@ https://in1.sunilprasad.com.np/wavespb/10651/master.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/15037/master.m3u8
 
-#EXTINF:-1 tvg-id="10605" tvg-chno="292" tvg-name="9x-jalwa" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1001652520DD_TRIPURA__1_.webp" group-title="Music", 9X JALWA
+#EXTINF:-1 tvg-id="10605" tvg-chno="292" tvg-name="9x-jalwa" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/7812127779x_jalwa__mob___384x512.webp" group-title="Music", 9X JALWA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
@@ -1768,7 +1768,7 @@ https://in1.sunilprasad.com.np/wavespb/10606/master.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
 https://in1.sunilprasad.com.np/wavespb/10607/master.m3u8
 
-#EXTINF:-1 tvg-id="10591" tvg-chno="295" tvg-name="9xm" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/6041427509XM.webp" group-title="Music", 9XM
+#EXTINF:-1 tvg-id="10591" tvg-chno="295" tvg-name="9xm" tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/11112553419xm___384x512.webp" group-title="Music", 9XM
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; RMX3261 Build/ace2873.0)
