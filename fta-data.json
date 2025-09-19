@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-18 10:16:42",
+  "date": "2025-09-19 10:17:12",
   "feeds": [
     {
       "category_id": 1,
@@ -2955,8 +2955,8 @@
           "channel_name": "IBC24",
           "channel_slug": "ibc24",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/682104833IBC_24.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/682104833IBC_24.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1883776933IBC24___TV____720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1883776933IBC24_____TV__TVW______720x405.webp"
         },
         {
           "channel_id": 10547,
@@ -2977,8 +2977,8 @@
           "channel_name": "India TV News",
           "channel_slug": "india-tv-news",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1483991994india_tv.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1483991994india_tv.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1506549014India_TV_News____720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1506549014India_TV_News__TVW______720x405.webp"
         },
         {
           "channel_id": 10585,
@@ -2999,8 +2999,8 @@
           "channel_name": "NDTV INDIA",
           "channel_slug": "ndtv-india",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/192194567NDTV_INDIA.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/192194567NDTV_INDIA.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1172695391NDTV_INDIA_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1172695391NDTV_INDIA_TVW_720x405.webp"
         },
         {
           "channel_id": 10552,
@@ -3129,8 +3129,8 @@
           "channel_name": "ABZY DHAKAD",
           "channel_slug": "abzy-dhakad",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1782238670ABZY_DHAKAD.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1782238670ABZY_DHAKAD.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1200604348ABZY_DHAKAD_TV____720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1200604348ABZY_DHAKAD___TV__TVW______720x405.webp"
         },
         {
           "channel_id": 10647,
@@ -3140,8 +3140,8 @@
           "channel_name": "ABZY Movies",
           "channel_slug": "abzy-movies",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/651929306ABZY_MOVIES.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/651929306ABZY_MOVIES.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/434886526ABZY_Movies__TV____720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/434886526ABZY_Movies____TV__TVW______720x405.webp"
         },
         {
           "channel_id": 10543,
@@ -3151,8 +3151,8 @@
           "channel_name": "B4U Bhojpuri",
           "channel_slug": "b4u-bhojpuri",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1799055944B4U_BHOJPURI.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1799055944B4U_BHOJPURI.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1075363785B4UBHOJPURI_TVSETS_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1075363785B4UBHOJPURI_TVSETS_TVW_720x405.webp"
         },
         {
           "channel_id": 10544,
@@ -3162,8 +3162,8 @@
           "channel_name": "B4U KADAK",
           "channel_slug": "b4u-kadak",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/64260670Frame_1597877910.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/64260670Frame_1597877910.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1769340356KADAK_TVSETS_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1769340356KADAK_TVSETS_TVW_720x405.webp"
         },
         {
           "channel_id": 10548,
@@ -3173,8 +3173,8 @@
           "channel_name": "B4U Movies",
           "channel_slug": "b4u-movies",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1777577447Frame_1597877909.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1777577447Frame_1597877909.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1487466742B4UMOVIES_TVSETS_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1487466742B4UMOVIES_TVSETS_TVW_720x405.webp"
         },
         {
           "channel_id": 10598,
@@ -3228,8 +3228,8 @@
           "channel_name": "Gangaur",
           "channel_slug": "gangaur",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/179172006Gangaur_webp.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/179172006Gangaur_webp.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1615915601Gangaur_TV____720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1615915601Gangaur_TV__TVW______720x405.webp"
         },
         {
           "channel_id": 10649,
@@ -3239,8 +3239,8 @@
           "channel_name": "MAIBOLI",
           "channel_slug": "maiboli",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1063894804Maiboli_Logo_-_1920x1080.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1063894804Maiboli_Logo_-_1920x1080.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/2121823942MAIBOLI_TV____720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/2121823942MAIBOLI__TV__TVW______720x405.webp"
         },
         {
           "channel_id": 10553,
@@ -3250,8 +3250,8 @@
           "channel_name": "PITAARA MOVIES",
           "channel_slug": "pitaara-movies",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1082937311814700969PITAARA-MOVIES.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1082937311814700969PITAARA-MOVIES.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1406677642PITARAMOVIES_TVSETS_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1406677642PITARAMOVIES_TVSETS_TVW_720x405.webp"
         },
         {
           "channel_id": 10556,
@@ -3261,8 +3261,8 @@
           "channel_name": "PTC PUNJABI",
           "channel_slug": "ptc-punjabi",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1461582026PTC_PUNJABI.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1461582026PTC_PUNJABI.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1414934314PTCPUNJABI_TVSETS_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1414934314PTCPUNJABI_TVSETS_TVW_720x405.webp"
         },
         {
           "channel_id": 10555,
@@ -3272,8 +3272,8 @@
           "channel_name": "PTC PUNJABI GOLD",
           "channel_slug": "ptc-punjabi-gold",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1468124252PTC_PUNJABI_GOLD.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1468124252PTC_PUNJABI_GOLD.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1276523660PTCPUNJABIGOLD_TVSETS_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1276523660PTCPUNJABIGOLD_TVSETS_TVW_720x405.webp"
         }
       ]
     },
@@ -3314,8 +3314,8 @@
           "channel_name": "PTC MUSIC",
           "channel_slug": "ptc-music",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2073643161PTC-Music.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/2073643161PTC-Music.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1674728606PTC_MUSIC______720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1674728606PTC_MUSIC___TVW______720x405.webp"
         },
         {
           "channel_id": 10605,
@@ -3378,8 +3378,8 @@
           "channel_name": "DIVYA",
           "channel_slug": "divya",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1874629704DIVYA.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1874629704DIVYA.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1014643382DIVYA_TVSETS_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1014643382DIVYA_TVSETS_TVW_720x405.webp"
         },
         {
           "channel_id": 10610,
@@ -3475,8 +3475,8 @@
           "channel_name": "DD KISAN",
           "channel_slug": "dd-kisan",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/831973165Frame_1597877904.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/831973165Frame_1597877904.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/2138456152KISSAN_TVSETS_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/2138456152KISSAN_TVSETS_TVW_720x405.webp"
         },
         {
           "channel_id": 10570,
@@ -3528,8 +3528,8 @@
           "channel_name": "DD YADGIRI",
           "channel_slug": "dd-yadgiri",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/729644538DD_YADAGIRI.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/729644538DD_YADAGIRI.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/319452459DD_YADGIRI_____TV____720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/319452459DD_YADGIRI___TV__TVW______720x405.webp"
         },
         {
           "channel_id": 10592,
@@ -3660,8 +3660,8 @@
           "channel_name": "DD BANGLA",
           "channel_slug": "dd-bangla",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2065815638bang.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/2065815638bang.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/547734520DD_BANGLA_TVSETS_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/547734520%7FDD_BANGLA_TVSETS_TVW_720x405.webp"
         },
         {
           "channel_id": 10581,
@@ -3704,8 +3704,8 @@
           "channel_name": "DD SHAYADRI",
           "channel_slug": "dd-shayadri",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/72497220DD_SAHYADRI_New_Logo_1600X900.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/72497220DD_SAHYADRI_New_Logo_1600X900.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/415330353DD_SHAYADRI_____TV____720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/415330353DD_SHAYADRI___TV__TVW______720x405.webp"
         },
         {
           "channel_id": 10575,
@@ -3715,8 +3715,8 @@
           "channel_name": "DD PUNJABI",
           "channel_slug": "dd-punjabi",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/2092344537Dd_Punjabi.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/2092344537Dd_Punjabi.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1001788609DD_punjabi_TVSETS_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1001788609%7FDD_punjabi_TVSETS_TVW_720x405.webp"
         },
         {
           "channel_id": 10573,
@@ -3748,8 +3748,8 @@
           "channel_name": "DD CHANDANA",
           "channel_slug": "dd-chandana",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/355252557DD_TRIPURA-3.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/355252557DD_TRIPURA-3.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/562233073DD_CHANDANA___TV____720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/562233073DD_CHANDANA____TV__TVW______720x405.webp"
         },
         {
           "channel_id": 10577,
@@ -3759,8 +3759,8 @@
           "channel_name": "DD TAMIL",
           "channel_slug": "dd-tamil",
           "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/thumbnail/1484942573541929497WhatsApp_Image_2024-11-25_at_16.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1484942573541929497WhatsApp_Image_2024-11-25_at_16.webp"
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/351929532DD_TAMIL____TV____720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/351929532DD_TAMIL____TV__TVW______720x405.webp"
         },
         {
           "channel_id": 10562,
