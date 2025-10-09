@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-08 10:17:01",
+  "date": "2025-10-09 10:18:06",
   "feeds": [
     {
       "category_id": 1,
@@ -3800,8 +3800,8 @@
           "channel_number": "333",
           "channel_country": "IN",
           "channel_category": "DD Regional",
-          "channel_name": "DD SHAYADRI",
-          "channel_slug": "dd-shayadri",
+          "channel_name": "DD Sahyadri",
+          "channel_slug": "dd-sahyadri",
           "channel_app": "wavespb",
           "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/415330353DD_SHAYADRI_____TV____720x960.webp",
           "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/415330353DD_SHAYADRI___TV__TVW______720x405.webp"
