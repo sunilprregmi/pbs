@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-10 10:17:45",
+  "date": "2025-10-11 10:15:53",
   "feeds": [
     {
       "category_id": 1,
@@ -3025,8 +3025,19 @@
           "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1055584017ABP_TVW______720x405.webp"
         },
         {
-          "channel_id": 15306,
+          "channel_id": 10595,
           "channel_number": "267",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "TV9 BHARATVARSH",
+          "channel_slug": "tv9-bharatvarsh",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1787540310TV_9__mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1787540310TV_9__TVW______720x405.webp"
+        },
+        {
+          "channel_id": 15306,
+          "channel_number": "268",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "Bharat 24",
@@ -3037,7 +3048,7 @@
         },
         {
           "channel_id": 10539,
-          "channel_number": "268",
+          "channel_number": "269",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "DD INDIA",
@@ -3048,7 +3059,7 @@
         },
         {
           "channel_id": 10546,
-          "channel_number": "269",
+          "channel_number": "270",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "GOOD NEWS TODAY",
@@ -3059,7 +3070,7 @@
         },
         {
           "channel_id": 10594,
-          "channel_number": "270",
+          "channel_number": "271",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "IBC24",
@@ -3070,7 +3081,7 @@
         },
         {
           "channel_id": 10547,
-          "channel_number": "271",
+          "channel_number": "272",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "INDIA TODAY",
@@ -3081,7 +3092,7 @@
         },
         {
           "channel_id": 14854,
-          "channel_number": "272",
+          "channel_number": "273",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "India TV News",
@@ -3092,7 +3103,7 @@
         },
         {
           "channel_id": 10585,
-          "channel_number": "273",
+          "channel_number": "274",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "NAVBHARAT",
@@ -3103,7 +3114,7 @@
         },
         {
           "channel_id": 10593,
-          "channel_number": "274",
+          "channel_number": "275",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "NDTV INDIA",
@@ -3114,7 +3125,7 @@
         },
         {
           "channel_id": 10552,
-          "channel_number": "275",
+          "channel_number": "276",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "NEWS NATION",
@@ -3125,7 +3136,7 @@
         },
         {
           "channel_id": 10590,
-          "channel_number": "276",
+          "channel_number": "277",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "NEWS 18 INDIA",
@@ -3136,7 +3147,7 @@
         },
         {
           "channel_id": 10554,
-          "channel_number": "277",
+          "channel_number": "278",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "NEWS 24 THINK FIRST",
@@ -3147,7 +3158,7 @@
         },
         {
           "channel_id": 10551,
-          "channel_number": "278",
+          "channel_number": "279",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "R Republic",
@@ -3158,7 +3169,7 @@
         },
         {
           "channel_id": 10827,
-          "channel_number": "279",
+          "channel_number": "280",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "Republic TV Bharat",
@@ -3169,7 +3180,7 @@
         },
         {
           "channel_id": 11022,
-          "channel_number": "280",
+          "channel_number": "281",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "SANSAD TV 1",
@@ -3180,7 +3191,7 @@
         },
         {
           "channel_id": 11021,
-          "channel_number": "281",
+          "channel_number": "282",
           "channel_country": "IN",
           "channel_category": "News",
           "channel_name": "SANSAD TV 2",
@@ -3188,17 +3199,6 @@
           "channel_app": "wavespb",
           "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/952763056sansad_tv_2HD___384x512.webp",
           "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/952763056sansad_tv_2HD___720x405.webp"
-        },
-        {
-          "channel_id": 10595,
-          "channel_number": "282",
-          "channel_country": "IN",
-          "channel_category": "News",
-          "channel_name": "TV9 BHARATVARSH",
-          "channel_slug": "tv9-bharatvarsh",
-          "channel_app": "wavespb",
-          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1787540310TV_9__mob___384x512.webp",
-          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1787540310TV_9__TVW______720x405.webp"
         },
         {
           "channel_id": 14582,
