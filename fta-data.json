@@ -1,5 +1,5 @@
 {
-  "date": "2025-10-17 10:18:16",
+  "date": "2025-10-18 10:16:26",
   "feeds": [
     {
       "category_id": 1,
@@ -1715,7 +1715,7 @@
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Jupiter TV",
-          "channel_slug": "",
+          "channel_slug": "jupiter-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jupiter-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736321678492.png"
@@ -1726,7 +1726,7 @@
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Wildest wish tv",
-          "channel_slug": "",
+          "channel_slug": "wildest-wish-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kawupc.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316071342.png"
@@ -1737,7 +1737,7 @@
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Edgy Urban",
-          "channel_slug": "",
+          "channel_slug": "edgy-urban",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/athpnb.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322794237.png"
@@ -1748,7 +1748,7 @@
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Mastiii",
-          "channel_slug": "",
+          "channel_slug": "mastiii",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xbhpwb.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320417561.png"
@@ -1759,7 +1759,7 @@
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Balle Balle",
-          "channel_slug": "",
+          "channel_slug": "balle-balle",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/balle-balle.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326401519.png"
@@ -1770,7 +1770,7 @@
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "insync",
-          "channel_slug": "",
+          "channel_slug": "insync",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/insync.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322142669.png"
@@ -1781,7 +1781,7 @@
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Haryanvi Hits",
-          "channel_slug": "",
+          "channel_slug": "haryanvi-hits",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/haryanvi-hits.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322577899.png"
@@ -1792,7 +1792,7 @@
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Songdew",
-          "channel_slug": "",
+          "channel_slug": "songdew",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/songdew.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317714078.png"
@@ -1803,7 +1803,7 @@
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Maiboli",
-          "channel_slug": "",
+          "channel_slug": "maiboli",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dnjjkm.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320538440.png"
@@ -1814,7 +1814,7 @@
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Punjabi Hits",
-          "channel_slug": "",
+          "channel_slug": "punjabi-hits",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zqbwbs.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1752668166067.jpeg"
@@ -1825,7 +1825,7 @@
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Boogle Bollywood",
-          "channel_slug": "",
+          "channel_slug": "boogle-bollywood",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/boogle-bollywood.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736323266374.png"
@@ -1836,7 +1836,7 @@
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Wah Punjabi",
-          "channel_slug": "",
+          "channel_slug": "wah-punjabi",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wah-punjabi.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316111810.png"
@@ -1847,7 +1847,7 @@
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Murasu",
-          "channel_slug": "",
+          "channel_slug": "murasu",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/murasu.png",
           "channel_poster": ""
@@ -1858,7 +1858,7 @@
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Thalaa TV",
-          "channel_slug": "",
+          "channel_slug": "thalaa-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317440037.png"
@@ -1869,7 +1869,7 @@
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Kappa TV",
-          "channel_slug": "",
+          "channel_slug": "kappa-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kappa-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736321852834.png"
@@ -1942,7 +1942,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "God TV",
-          "channel_slug": "",
+          "channel_slug": "god-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jjhfoz.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322719723.png"
@@ -1953,7 +1953,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "DROOL",
-          "channel_slug": "",
+          "channel_slug": "drool",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/wybgyr.png",
           "channel_poster": ""
@@ -1964,7 +1964,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Hare Krishna TV",
-          "channel_slug": "",
+          "channel_slug": "hare-krishna-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hare-krishna-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322658460.png"
@@ -1975,7 +1975,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Divya TV",
-          "channel_slug": "",
+          "channel_slug": "divya-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dluhyb.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322892281.png"
@@ -1986,7 +1986,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Krishna Vani",
-          "channel_slug": "",
+          "channel_slug": "krishna-vani",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/krishna-vani.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320701461.png"
@@ -1997,7 +1997,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Santwani",
-          "channel_slug": "",
+          "channel_slug": "santwani",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/santwani.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317914270.png"
@@ -2008,7 +2008,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Sharnam TV",
-          "channel_slug": "",
+          "channel_slug": "sharnam-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sharnam-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317794840.png"
@@ -2019,7 +2019,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Brahma Kumaris",
-          "channel_slug": "",
+          "channel_slug": "brahma-kumaris",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brahma-kumaris.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736323296418.png"
@@ -2030,7 +2030,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Mangalmay TV",
-          "channel_slug": "",
+          "channel_slug": "mangalmay-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mangalmay-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320520046.png"
@@ -2041,7 +2041,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Disha TV",
-          "channel_slug": "",
+          "channel_slug": "disha-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/disha-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322866125.png"
@@ -2052,7 +2052,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Jinvani Channel",
-          "channel_slug": "",
+          "channel_slug": "jinvani-channel",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jinvani-channel.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736321910880.png"
@@ -2063,7 +2063,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Astroscience",
-          "channel_slug": "",
+          "channel_slug": "astroscience",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/astroscience.png",
           "channel_poster": ""
@@ -2074,7 +2074,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Subharti TV",
-          "channel_slug": "",
+          "channel_slug": "subharti-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/subharti-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317628980.png"
@@ -2085,7 +2085,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Peace of Mind",
-          "channel_slug": "",
+          "channel_slug": "peace-of-mind",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/peace-of-mind.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736319349430.png"
@@ -2096,7 +2096,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "SVBC 4",
-          "channel_slug": "",
+          "channel_slug": "svbc-4",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/vchaou.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317563195.png"
@@ -2107,7 +2107,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Divya Bhajan",
-          "channel_slug": "",
+          "channel_slug": "divya-bhajan",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/divya-bhajan.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1738765406905.png"
@@ -2118,7 +2118,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Hosanna TV Hindi",
-          "channel_slug": "",
+          "channel_slug": "hosanna-tv-hindi",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hosanna-tv-hindi.png",
           "channel_poster": ""
@@ -2129,7 +2129,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Aadinath TV",
-          "channel_slug": "",
+          "channel_slug": "aadinath-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aadinath-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1759502687964.jpeg"
@@ -2140,7 +2140,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Awakening TV",
-          "channel_slug": "",
+          "channel_slug": "awakening-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/awakening-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1759503595227.jpeg"
@@ -2151,7 +2151,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Bhakti Play",
-          "channel_slug": "",
+          "channel_slug": "bhakti-play",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/jnsfyb.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1747213068708.png"
@@ -2162,7 +2162,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Mahaa Bhakti",
-          "channel_slug": "",
+          "channel_slug": "mahaa-bhakti",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/tzvxai.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1756463791467.jpeg"
@@ -2173,7 +2173,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Bhakti TV",
-          "channel_slug": "",
+          "channel_slug": "bhakti-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/bhakti-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326195357.png"
@@ -2184,7 +2184,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "SVBC",
-          "channel_slug": "",
+          "channel_slug": "svbc",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/svbc.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317582750.png"
@@ -2195,7 +2195,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "YUPPTV VEDA",
-          "channel_slug": "",
+          "channel_slug": "yupptv-veda",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yupptv-veda.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736315905480.png"
@@ -2206,7 +2206,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Hindu Dharmam",
-          "channel_slug": "",
+          "channel_slug": "hindu-dharmam",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hindu-dharmam.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322462404.png"
@@ -2217,7 +2217,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Aradana TV",
-          "channel_slug": "",
+          "channel_slug": "aradana-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aradana-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736326963964.png"
@@ -2228,7 +2228,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "OM CVR",
-          "channel_slug": "",
+          "channel_slug": "om-cvr",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/om-cvr.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736319420248.png"
@@ -2239,7 +2239,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "PMC",
-          "channel_slug": "",
+          "channel_slug": "pmc",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/pmc.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736319212150.png"
@@ -2250,7 +2250,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "SVBC 3",
-          "channel_slug": "",
+          "channel_slug": "svbc-3",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/scfkep.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317597752.png"
@@ -2261,7 +2261,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Sri Sankara Kannada",
-          "channel_slug": "",
+          "channel_slug": "sri-sankara-kannada",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sri-sankara-kannada.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317680330.png"
@@ -2272,7 +2272,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "LakshyaTV",
-          "channel_slug": "",
+          "channel_slug": "lakshyatv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/lakshyatv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736321482499.png"
@@ -2283,7 +2283,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Sri Naga Sai Mandir",
-          "channel_slug": "",
+          "channel_slug": "sri-naga-sai-mandir",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sri-naga-sai-mandir.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1751370372570.jpeg"
@@ -2294,7 +2294,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Sri Sankara Tamil",
-          "channel_slug": "",
+          "channel_slug": "sri-sankara-tamil",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sri-sankara-tamil.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317697404.png"
@@ -2305,7 +2305,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Madha TV",
-          "channel_slug": "",
+          "channel_slug": "madha-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/madha-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320587958.png"
@@ -2316,7 +2316,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Sivan Temple TV",
-          "channel_slug": "",
+          "channel_slug": "sivan-temple-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/sivan-temple-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317812226.png"
@@ -2327,7 +2327,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "SVBC 2",
-          "channel_slug": "",
+          "channel_slug": "svbc-2",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/svbc-2.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317612345.png"
@@ -2338,7 +2338,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Angel TV",
-          "channel_slug": "",
+          "channel_slug": "angel-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/angel-tv.png",
           "channel_poster": ""
@@ -2349,7 +2349,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Swasthik TV",
-          "channel_slug": "",
+          "channel_slug": "swasthik-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/swasthik-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317530440.png"
@@ -2360,7 +2360,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Hosanna",
-          "channel_slug": "",
+          "channel_slug": "hosanna",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/hosanna.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322246794.png"
@@ -2371,7 +2371,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "HOLY GOD TV",
-          "channel_slug": "",
+          "channel_slug": "holy-god-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/holy-god-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322438609.png"
@@ -2382,7 +2382,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Nambikkai",
-          "channel_slug": "",
+          "channel_slug": "nambikkai",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/nambikkai.png",
           "channel_poster": ""
@@ -2393,7 +2393,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Shalom TV",
-          "channel_slug": "",
+          "channel_slug": "shalom-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/shalom-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317777684.png"
@@ -2404,7 +2404,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Power Vision TV",
-          "channel_slug": "",
+          "channel_slug": "power-vision-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/power-vision-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736318096565.png"
@@ -2415,7 +2415,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Goodness TV",
-          "channel_slug": "",
+          "channel_slug": "goodness-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/goodness-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322635898.png"
@@ -2426,7 +2426,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Star Vision",
-          "channel_slug": "",
+          "channel_slug": "star-vision",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/star-vision.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317660559.png"
@@ -2437,7 +2437,7 @@
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "MarianTV",
-          "channel_slug": "",
+          "channel_slug": "mariantv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/mariantv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736320464248.png"
@@ -2935,7 +2935,7 @@
           "channel_country": "IN",
           "channel_category": "Educational",
           "channel_name": "English TV",
-          "channel_slug": "",
+          "channel_slug": "english-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/english-tv.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736322753754.png"
@@ -2946,7 +2946,7 @@
           "channel_country": "IN",
           "channel_category": "Educational",
           "channel_name": "LINGUA TV",
-          "channel_slug": "",
+          "channel_slug": "lingua-tv",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/dlqwlb.png",
           "channel_poster": ""
@@ -2957,7 +2957,7 @@
           "channel_country": "IN",
           "channel_category": "Educational",
           "channel_name": "Turito IIT JEE",
-          "channel_slug": "",
+          "channel_slug": "turito-iit-jee",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/zuqhea.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316951721.png"
@@ -2968,7 +2968,7 @@
           "channel_country": "IN",
           "channel_category": "Educational",
           "channel_name": "Turito NEET",
-          "channel_slug": "",
+          "channel_slug": "turito-neet",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/shgwrd.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736316854230.png"
@@ -2979,7 +2979,7 @@
           "channel_country": "IN",
           "channel_category": "Educational",
           "channel_name": "T-SAT Nipuna",
-          "channel_slug": "",
+          "channel_slug": "t-sat-nipuna",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/crzalk.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317477641.png"
@@ -2990,7 +2990,7 @@
           "channel_country": "IN",
           "channel_category": "Educational",
           "channel_name": "T-SAT Vidya",
-          "channel_slug": "",
+          "channel_slug": "t-sat-vidya",
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/etmwbj.png",
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317494732.png"
