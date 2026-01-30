@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-29 10:56:20",
+  "date": "2026-01-30 10:58:33",
   "feeds": [
     {
       "category_id": 1,
@@ -1558,8 +1558,19 @@
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1761932334917.jpeg"
         },
         {
-          "channel_id": 101,
+          "channel_id": 331,
           "channel_number": "141",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Atrangii",
+          "channel_slug": "atrangii",
+          "channel_app": "yuppLive",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/atrangii.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1769694778974.jpeg"
+        },
+        {
+          "channel_id": 101,
+          "channel_number": "142",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "CTVN AKD Plus",
@@ -1570,7 +1581,7 @@
         },
         {
           "channel_id": 305,
-          "channel_number": "142",
+          "channel_number": "143",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "Mahaa Max",
@@ -1581,7 +1592,7 @@
         },
         {
           "channel_id": 216,
-          "channel_number": "143",
+          "channel_number": "144",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "Mana TV International",
@@ -1592,7 +1603,7 @@
         },
         {
           "channel_id": 198,
-          "channel_number": "144",
+          "channel_number": "145",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "TANA Prapancha Sahitya Vedika",
@@ -1603,7 +1614,7 @@
         },
         {
           "channel_id": 320,
-          "channel_number": "145",
+          "channel_number": "146",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "Studio Yuva",
@@ -1613,8 +1624,19 @@
           "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1761314026248.jpeg"
         },
         {
+          "channel_id": 330,
+          "channel_number": "147",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Telugu One",
+          "channel_slug": "telugu-one",
+          "channel_app": "yuppLive",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/telugu-one.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1769684765875.jpeg"
+        },
+        {
           "channel_id": 327,
-          "channel_number": "146",
+          "channel_number": "148",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "GTC Punjabi",
@@ -1625,7 +1647,7 @@
         },
         {
           "channel_id": 328,
-          "channel_number": "147",
+          "channel_number": "149",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "Punjabi Shorts",
@@ -1636,7 +1658,7 @@
         },
         {
           "channel_id": 235,
-          "channel_number": "148",
+          "channel_number": "150",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "Pitaara Comedy",
@@ -1647,7 +1669,7 @@
         },
         {
           "channel_id": 200,
-          "channel_number": "149",
+          "channel_number": "151",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "Parvasi TV HD",
@@ -1658,7 +1680,7 @@
         },
         {
           "channel_id": 169,
-          "channel_number": "150",
+          "channel_number": "152",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "PASAND",
@@ -1669,7 +1691,7 @@
         },
         {
           "channel_id": 107,
-          "channel_number": "151",
+          "channel_number": "153",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "Rengoni TV",
@@ -1680,7 +1702,7 @@
         },
         {
           "channel_id": 205,
-          "channel_number": "152",
+          "channel_number": "154",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "Athavan TV HD",
@@ -1691,7 +1713,7 @@
         },
         {
           "channel_id": 167,
-          "channel_number": "153",
+          "channel_number": "155",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "Moon TV",
@@ -1702,7 +1724,7 @@
         },
         {
           "channel_id": 113,
-          "channel_number": "154",
+          "channel_number": "156",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "Peppers TV",
@@ -1713,7 +1735,7 @@
         },
         {
           "channel_id": 219,
-          "channel_number": "155",
+          "channel_number": "157",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "IBC Radio",
@@ -1724,7 +1746,7 @@
         },
         {
           "channel_id": 117,
-          "channel_number": "156",
+          "channel_number": "158",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "Jaihind TV",
@@ -1735,7 +1757,7 @@
         },
         {
           "channel_id": 168,
-          "channel_number": "157",
+          "channel_number": "159",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "Kerala Vision",
@@ -1746,7 +1768,7 @@
         },
         {
           "channel_id": 183,
-          "channel_number": "158",
+          "channel_number": "160",
           "channel_country": "IN",
           "channel_category": "Entertainment",
           "channel_name": "Nepal 1",
@@ -1766,7 +1788,7 @@
       "channels": [
         {
           "channel_id": 80,
-          "channel_number": "159",
+          "channel_number": "161",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Jupiter TV",
@@ -1777,7 +1799,7 @@
         },
         {
           "channel_id": 41,
-          "channel_number": "160",
+          "channel_number": "162",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Wildest wish tv",
@@ -1788,7 +1810,7 @@
         },
         {
           "channel_id": 58,
-          "channel_number": "161",
+          "channel_number": "163",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Edgy Urban",
@@ -1799,7 +1821,7 @@
         },
         {
           "channel_id": 23,
-          "channel_number": "162",
+          "channel_number": "164",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Mastiii",
@@ -1810,7 +1832,7 @@
         },
         {
           "channel_id": 137,
-          "channel_number": "163",
+          "channel_number": "165",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Balle Balle",
@@ -1821,7 +1843,7 @@
         },
         {
           "channel_id": 126,
-          "channel_number": "164",
+          "channel_number": "166",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "insync",
@@ -1832,7 +1854,7 @@
         },
         {
           "channel_id": 192,
-          "channel_number": "165",
+          "channel_number": "167",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Haryanvi Hits",
@@ -1843,7 +1865,7 @@
         },
         {
           "channel_id": 214,
-          "channel_number": "166",
+          "channel_number": "168",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Songdew",
@@ -1854,7 +1876,7 @@
         },
         {
           "channel_id": 21,
-          "channel_number": "167",
+          "channel_number": "169",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Maiboli",
@@ -1865,7 +1887,7 @@
         },
         {
           "channel_id": 300,
-          "channel_number": "168",
+          "channel_number": "170",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Punjabi Hits",
@@ -1876,7 +1898,7 @@
         },
         {
           "channel_id": 199,
-          "channel_number": "169",
+          "channel_number": "171",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Boogle Bollywood",
@@ -1887,7 +1909,7 @@
         },
         {
           "channel_id": 190,
-          "channel_number": "170",
+          "channel_number": "172",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Wah Punjabi",
@@ -1898,7 +1920,7 @@
         },
         {
           "channel_id": 146,
-          "channel_number": "171",
+          "channel_number": "173",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Murasu",
@@ -1909,7 +1931,7 @@
         },
         {
           "channel_id": 70,
-          "channel_number": "172",
+          "channel_number": "174",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Thalaa TV",
@@ -1920,7 +1942,7 @@
         },
         {
           "channel_id": 166,
-          "channel_number": "173",
+          "channel_number": "175",
           "channel_country": "IN",
           "channel_category": "Music",
           "channel_name": "Kappa TV",
@@ -1940,7 +1962,7 @@
       "channels": [
         {
           "channel_id": 83,
-          "channel_number": "174",
+          "channel_number": "176",
           "channel_country": "IN",
           "channel_category": "Kids",
           "channel_name": "Kiddo",
@@ -1951,7 +1973,7 @@
         },
         {
           "channel_id": 48,
-          "channel_number": "175",
+          "channel_number": "177",
           "channel_country": "IN",
           "channel_category": "Kids",
           "channel_name": "Cartoon TV Classics",
@@ -1962,7 +1984,7 @@
         },
         {
           "channel_id": 323,
-          "channel_number": "176",
+          "channel_number": "178",
           "channel_country": "IN",
           "channel_category": "Kids",
           "channel_name": "Hooray Rhymes",
@@ -1973,7 +1995,7 @@
         },
         {
           "channel_id": 326,
-          "channel_number": "177",
+          "channel_number": "179",
           "channel_country": "IN",
           "channel_category": "Kids",
           "channel_name": "Green Gold TV India",
@@ -1984,7 +2006,7 @@
         },
         {
           "channel_id": 281,
-          "channel_number": "178",
+          "channel_number": "180",
           "channel_country": "IN",
           "channel_category": "Kids",
           "channel_name": "Green Gold TV",
@@ -2004,7 +2026,7 @@
       "channels": [
         {
           "channel_id": 176,
-          "channel_number": "179",
+          "channel_number": "181",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "God TV",
@@ -2015,7 +2037,7 @@
         },
         {
           "channel_id": 266,
-          "channel_number": "180",
+          "channel_number": "182",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "DROOL",
@@ -2026,7 +2048,7 @@
         },
         {
           "channel_id": 197,
-          "channel_number": "181",
+          "channel_number": "183",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Hare Krishna TV",
@@ -2037,7 +2059,7 @@
         },
         {
           "channel_id": 8,
-          "channel_number": "182",
+          "channel_number": "184",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Divya TV",
@@ -2048,7 +2070,7 @@
         },
         {
           "channel_id": 217,
-          "channel_number": "183",
+          "channel_number": "185",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Krishna Vani",
@@ -2059,7 +2081,7 @@
         },
         {
           "channel_id": 136,
-          "channel_number": "184",
+          "channel_number": "186",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Santwani",
@@ -2070,7 +2092,7 @@
         },
         {
           "channel_id": 124,
-          "channel_number": "185",
+          "channel_number": "187",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Sharnam TV",
@@ -2081,7 +2103,7 @@
         },
         {
           "channel_id": 189,
-          "channel_number": "186",
+          "channel_number": "188",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Brahma Kumaris",
@@ -2092,7 +2114,7 @@
         },
         {
           "channel_id": 180,
-          "channel_number": "187",
+          "channel_number": "189",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Mangalmay TV",
@@ -2103,7 +2125,7 @@
         },
         {
           "channel_id": 125,
-          "channel_number": "188",
+          "channel_number": "190",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Disha TV",
@@ -2114,7 +2136,7 @@
         },
         {
           "channel_id": 156,
-          "channel_number": "189",
+          "channel_number": "191",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Jinvani Channel",
@@ -2125,7 +2147,7 @@
         },
         {
           "channel_id": 203,
-          "channel_number": "190",
+          "channel_number": "192",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Astroscience",
@@ -2136,7 +2158,7 @@
         },
         {
           "channel_id": 123,
-          "channel_number": "191",
+          "channel_number": "193",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Subharti TV",
@@ -2147,7 +2169,7 @@
         },
         {
           "channel_id": 206,
-          "channel_number": "192",
+          "channel_number": "194",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Peace of Mind",
@@ -2158,7 +2180,7 @@
         },
         {
           "channel_id": 233,
-          "channel_number": "193",
+          "channel_number": "195",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "SVBC 4",
@@ -2169,7 +2191,7 @@
         },
         {
           "channel_id": 236,
-          "channel_number": "194",
+          "channel_number": "196",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Divya Bhajan",
@@ -2180,7 +2202,7 @@
         },
         {
           "channel_id": 280,
-          "channel_number": "195",
+          "channel_number": "197",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Hosanna TV Hindi",
@@ -2191,7 +2213,7 @@
         },
         {
           "channel_id": 314,
-          "channel_number": "196",
+          "channel_number": "198",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Aadinath TV",
@@ -2202,7 +2224,7 @@
         },
         {
           "channel_id": 315,
-          "channel_number": "197",
+          "channel_number": "199",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Awakening TV",
@@ -2213,7 +2235,7 @@
         },
         {
           "channel_id": 287,
-          "channel_number": "198",
+          "channel_number": "200",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Bhakti Play",
@@ -2224,7 +2246,7 @@
         },
         {
           "channel_id": 304,
-          "channel_number": "199",
+          "channel_number": "201",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Mahaa Bhakti",
@@ -2235,7 +2257,7 @@
         },
         {
           "channel_id": 110,
-          "channel_number": "200",
+          "channel_number": "202",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Bhakti TV",
@@ -2246,7 +2268,7 @@
         },
         {
           "channel_id": 99,
-          "channel_number": "201",
+          "channel_number": "203",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "SVBC",
@@ -2257,7 +2279,7 @@
         },
         {
           "channel_id": 207,
-          "channel_number": "202",
+          "channel_number": "204",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "YUPPTV VEDA",
@@ -2268,7 +2290,7 @@
         },
         {
           "channel_id": 191,
-          "channel_number": "203",
+          "channel_number": "205",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Hindu Dharmam",
@@ -2279,7 +2301,7 @@
         },
         {
           "channel_id": 122,
-          "channel_number": "204",
+          "channel_number": "206",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Aradana TV",
@@ -2290,7 +2312,7 @@
         },
         {
           "channel_id": 149,
-          "channel_number": "205",
+          "channel_number": "207",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "OM CVR",
@@ -2301,7 +2323,7 @@
         },
         {
           "channel_id": 201,
-          "channel_number": "206",
+          "channel_number": "208",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "PMC",
@@ -2312,7 +2334,7 @@
         },
         {
           "channel_id": 232,
-          "channel_number": "207",
+          "channel_number": "209",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "SVBC 3",
@@ -2323,7 +2345,7 @@
         },
         {
           "channel_id": 145,
-          "channel_number": "208",
+          "channel_number": "210",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Sri Sankara Kannada",
@@ -2334,7 +2356,7 @@
         },
         {
           "channel_id": 195,
-          "channel_number": "209",
+          "channel_number": "211",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "LakshyaTV",
@@ -2345,7 +2367,7 @@
         },
         {
           "channel_id": 299,
-          "channel_number": "210",
+          "channel_number": "212",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Sri Naga Sai Mandir",
@@ -2356,7 +2378,7 @@
         },
         {
           "channel_id": 144,
-          "channel_number": "211",
+          "channel_number": "213",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Sri Sankara Tamil",
@@ -2367,7 +2389,7 @@
         },
         {
           "channel_id": 215,
-          "channel_number": "212",
+          "channel_number": "214",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Madha TV",
@@ -2378,7 +2400,7 @@
         },
         {
           "channel_id": 208,
-          "channel_number": "213",
+          "channel_number": "215",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Sivan Temple TV",
@@ -2389,7 +2411,7 @@
         },
         {
           "channel_id": 179,
-          "channel_number": "214",
+          "channel_number": "216",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "SVBC 2",
@@ -2400,7 +2422,7 @@
         },
         {
           "channel_id": 177,
-          "channel_number": "215",
+          "channel_number": "217",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Angel TV",
@@ -2411,7 +2433,7 @@
         },
         {
           "channel_id": 202,
-          "channel_number": "216",
+          "channel_number": "218",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Swasthik TV",
@@ -2422,7 +2444,7 @@
         },
         {
           "channel_id": 212,
-          "channel_number": "217",
+          "channel_number": "219",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Hosanna",
@@ -2433,7 +2455,7 @@
         },
         {
           "channel_id": 209,
-          "channel_number": "218",
+          "channel_number": "220",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "HOLY GOD TV",
@@ -2444,7 +2466,7 @@
         },
         {
           "channel_id": 285,
-          "channel_number": "219",
+          "channel_number": "221",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Nambikkai",
@@ -2455,7 +2477,7 @@
         },
         {
           "channel_id": 142,
-          "channel_number": "220",
+          "channel_number": "222",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Shalom TV",
@@ -2466,7 +2488,7 @@
         },
         {
           "channel_id": 143,
-          "channel_number": "221",
+          "channel_number": "223",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Power Vision TV",
@@ -2477,7 +2499,7 @@
         },
         {
           "channel_id": 173,
-          "channel_number": "222",
+          "channel_number": "224",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Goodness TV",
@@ -2488,7 +2510,7 @@
         },
         {
           "channel_id": 74,
-          "channel_number": "223",
+          "channel_number": "225",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "Star Vision",
@@ -2499,7 +2521,7 @@
         },
         {
           "channel_id": 204,
-          "channel_number": "224",
+          "channel_number": "226",
           "channel_country": "IN",
           "channel_category": "Spiritual",
           "channel_name": "MarianTV",
@@ -2519,7 +2541,7 @@
       "channels": [
         {
           "channel_id": 52,
-          "channel_number": "225",
+          "channel_number": "227",
           "channel_country": "IN",
           "channel_category": "Movies",
           "channel_name": "Cowboy Movie Channel",
@@ -2530,7 +2552,7 @@
         },
         {
           "channel_id": 77,
-          "channel_number": "226",
+          "channel_number": "228",
           "channel_country": "IN",
           "channel_category": "Movies",
           "channel_name": "Horror TV",
@@ -2541,7 +2563,7 @@
         },
         {
           "channel_id": 72,
-          "channel_number": "227",
+          "channel_number": "229",
           "channel_country": "IN",
           "channel_category": "Movies",
           "channel_name": "Tensions TV",
@@ -2552,7 +2574,7 @@
         },
         {
           "channel_id": 55,
-          "channel_number": "228",
+          "channel_number": "230",
           "channel_country": "IN",
           "channel_category": "Movies",
           "channel_name": "Drive In Movie Channel",
@@ -2563,7 +2585,7 @@
         },
         {
           "channel_id": 57,
-          "channel_number": "229",
+          "channel_number": "231",
           "channel_country": "IN",
           "channel_category": "Movies",
           "channel_name": "Weshort",
@@ -2574,7 +2596,7 @@
         },
         {
           "channel_id": 85,
-          "channel_number": "230",
+          "channel_number": "232",
           "channel_country": "IN",
           "channel_category": "Movies",
           "channel_name": "Kung Fu",
@@ -2585,7 +2607,7 @@
         },
         {
           "channel_id": 256,
-          "channel_number": "231",
+          "channel_number": "233",
           "channel_country": "IN",
           "channel_category": "Movies",
           "channel_name": "BEST ACTION TV",
@@ -2596,7 +2618,7 @@
         },
         {
           "channel_id": 257,
-          "channel_number": "232",
+          "channel_number": "234",
           "channel_country": "IN",
           "channel_category": "Movies",
           "channel_name": "  BEST DRAMA TV  ",
@@ -2607,7 +2629,7 @@
         },
         {
           "channel_id": 258,
-          "channel_number": "233",
+          "channel_number": "235",
           "channel_country": "IN",
           "channel_category": "Movies",
           "channel_name": "BEST THRILLER TV",
@@ -2618,7 +2640,7 @@
         },
         {
           "channel_id": 318,
-          "channel_number": "234",
+          "channel_number": "236",
           "channel_country": "IN",
           "channel_category": "Movies",
           "channel_name": "Pocket Films",
@@ -2629,7 +2651,7 @@
         },
         {
           "channel_id": 92,
-          "channel_number": "235",
+          "channel_number": "237",
           "channel_country": "IN",
           "channel_category": "Movies",
           "channel_name": "Tolly TV",
@@ -2640,7 +2662,7 @@
         },
         {
           "channel_id": 301,
-          "channel_number": "236",
+          "channel_number": "238",
           "channel_country": "IN",
           "channel_category": "Movies",
           "channel_name": "Tabbar Hits",
@@ -2651,7 +2673,7 @@
         },
         {
           "channel_id": 37,
-          "channel_number": "237",
+          "channel_number": "239",
           "channel_country": "IN",
           "channel_category": "Movies",
           "channel_name": "Pitaara TV",
@@ -2662,7 +2684,7 @@
         },
         {
           "channel_id": 22,
-          "channel_number": "238",
+          "channel_number": "240",
           "channel_country": "IN",
           "channel_category": "Movies",
           "channel_name": "Dabangg",
@@ -2673,7 +2695,7 @@
         },
         {
           "channel_id": 329,
-          "channel_number": "239",
+          "channel_number": "241",
           "channel_country": "IN",
           "channel_category": "Movies",
           "channel_name": "Sana TV",
@@ -2693,7 +2715,7 @@
       "channels": [
         {
           "channel_id": 4,
-          "channel_number": "240",
+          "channel_number": "242",
           "channel_country": "IN",
           "channel_category": "Lifestyle",
           "channel_name": "NDTV GoodTimes",
@@ -2704,7 +2726,7 @@
         },
         {
           "channel_id": 264,
-          "channel_number": "241",
+          "channel_number": "243",
           "channel_country": "IN",
           "channel_category": "Lifestyle",
           "channel_name": "DEFIANCE MEDIA",
@@ -2715,7 +2737,7 @@
         },
         {
           "channel_id": 267,
-          "channel_number": "242",
+          "channel_number": "244",
           "channel_country": "IN",
           "channel_category": "Lifestyle",
           "channel_name": "ESCAPE TV",
@@ -2726,7 +2748,7 @@
         },
         {
           "channel_id": 271,
-          "channel_number": "243",
+          "channel_number": "245",
           "channel_country": "IN",
           "channel_category": "Lifestyle",
           "channel_name": "LUXURY DREAMS TV",
@@ -2737,7 +2759,7 @@
         },
         {
           "channel_id": 277,
-          "channel_number": "244",
+          "channel_number": "246",
           "channel_country": "IN",
           "channel_category": "Lifestyle",
           "channel_name": "UNCHAINEDTV",
@@ -2748,7 +2770,7 @@
         },
         {
           "channel_id": 114,
-          "channel_number": "245",
+          "channel_number": "247",
           "channel_country": "IN",
           "channel_category": "Lifestyle",
           "channel_name": "Vanitha TV",
@@ -2759,7 +2781,7 @@
         },
         {
           "channel_id": 286,
-          "channel_number": "246",
+          "channel_number": "248",
           "channel_country": "IN",
           "channel_category": "Lifestyle",
           "channel_name": "CVR Health",
@@ -2770,7 +2792,7 @@
         },
         {
           "channel_id": 234,
-          "channel_number": "247",
+          "channel_number": "249",
           "channel_country": "IN",
           "channel_category": "Lifestyle",
           "channel_name": "Ayush TV",
@@ -2790,7 +2812,7 @@
       "channels": [
         {
           "channel_id": 284,
-          "channel_number": "248",
+          "channel_number": "250",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Willow Sports",
@@ -2801,7 +2823,7 @@
         },
         {
           "channel_id": 68,
-          "channel_number": "249",
+          "channel_number": "251",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Fight TV",
@@ -2812,7 +2834,7 @@
         },
         {
           "channel_id": 84,
-          "channel_number": "250",
+          "channel_number": "252",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Kozoom",
@@ -2823,7 +2845,7 @@
         },
         {
           "channel_id": 40,
-          "channel_number": "251",
+          "channel_number": "253",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Xtrem sports",
@@ -2834,7 +2856,7 @@
         },
         {
           "channel_id": 76,
-          "channel_number": "252",
+          "channel_number": "254",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Sport Fishing TV",
@@ -2845,7 +2867,7 @@
         },
         {
           "channel_id": 42,
-          "channel_number": "253",
+          "channel_number": "255",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "America Boating Channel",
@@ -2856,7 +2878,7 @@
         },
         {
           "channel_id": 67,
-          "channel_number": "254",
+          "channel_number": "256",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "The Chukker Channel",
@@ -2867,7 +2889,7 @@
         },
         {
           "channel_id": 49,
-          "channel_number": "255",
+          "channel_number": "257",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "ChronoTV",
@@ -2878,7 +2900,7 @@
         },
         {
           "channel_id": 79,
-          "channel_number": "256",
+          "channel_number": "258",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "ITSF",
@@ -2889,7 +2911,7 @@
         },
         {
           "channel_id": 272,
-          "channel_number": "257",
+          "channel_number": "259",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "MMA TV",
@@ -2900,7 +2922,7 @@
         },
         {
           "channel_id": 273,
-          "channel_number": "258",
+          "channel_number": "260",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "MOTOR RACING",
@@ -2911,7 +2933,7 @@
         },
         {
           "channel_id": 253,
-          "channel_number": "259",
+          "channel_number": "261",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "ACE TV",
@@ -2922,7 +2944,7 @@
         },
         {
           "channel_id": 290,
-          "channel_number": "260",
+          "channel_number": "262",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Cricket Gold",
@@ -2933,7 +2955,7 @@
         },
         {
           "channel_id": 292,
-          "channel_number": "261",
+          "channel_number": "263",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Adventure Sports TV",
@@ -2944,7 +2966,7 @@
         },
         {
           "channel_id": 293,
-          "channel_number": "262",
+          "channel_number": "264",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Drive+ Speed",
@@ -2955,7 +2977,7 @@
         },
         {
           "channel_id": 294,
-          "channel_number": "263",
+          "channel_number": "265",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Hunt Fish TV",
@@ -2966,7 +2988,7 @@
         },
         {
           "channel_id": 295,
-          "channel_number": "264",
+          "channel_number": "266",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Nautical Channel",
@@ -2977,7 +2999,7 @@
         },
         {
           "channel_id": 298,
-          "channel_number": "265",
+          "channel_number": "267",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Absinthe TV",
@@ -2988,7 +3010,7 @@
         },
         {
           "channel_id": 296,
-          "channel_number": "266",
+          "channel_number": "268",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Yachting TV",
@@ -2999,7 +3021,7 @@
         },
         {
           "channel_id": 325,
-          "channel_number": "267",
+          "channel_number": "269",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "PickleBall Now",
@@ -3019,7 +3041,7 @@
       "channels": [
         {
           "channel_id": 66,
-          "channel_number": "268",
+          "channel_number": "270",
           "channel_country": "IN",
           "channel_category": "Educational",
           "channel_name": "English TV",
@@ -3030,7 +3052,7 @@
         },
         {
           "channel_id": 270,
-          "channel_number": "269",
+          "channel_number": "271",
           "channel_country": "IN",
           "channel_category": "Educational",
           "channel_name": "LINGUA TV",
@@ -3041,7 +3063,7 @@
         },
         {
           "channel_id": 251,
-          "channel_number": "270",
+          "channel_number": "272",
           "channel_country": "IN",
           "channel_category": "Educational",
           "channel_name": "Turito IIT JEE",
@@ -3052,7 +3074,7 @@
         },
         {
           "channel_id": 252,
-          "channel_number": "271",
+          "channel_number": "273",
           "channel_country": "IN",
           "channel_category": "Educational",
           "channel_name": "Turito NEET",
@@ -3063,7 +3085,7 @@
         },
         {
           "channel_id": 178,
-          "channel_number": "272",
+          "channel_number": "274",
           "channel_country": "IN",
           "channel_category": "Educational",
           "channel_name": "T-SAT Nipuna",
@@ -3074,7 +3096,7 @@
         },
         {
           "channel_id": 193,
-          "channel_number": "273",
+          "channel_number": "275",
           "channel_country": "IN",
           "channel_category": "Educational",
           "channel_name": "T-SAT Vidya",
@@ -3094,7 +3116,7 @@
       "channels": [
         {
           "channel_id": 276,
-          "channel_number": "274",
+          "channel_number": "276",
           "channel_country": "IN",
           "channel_category": "Others",
           "channel_name": "SPACE SERIES",
@@ -3114,7 +3136,7 @@
       "channels": [
         {
           "channel_id": 2001,
-          "channel_number": "275",
+          "channel_number": "277",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "NTV",
@@ -3125,7 +3147,7 @@
         },
         {
           "channel_id": 2002,
-          "channel_number": "276",
+          "channel_number": "278",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "NTV Plus",
@@ -3136,7 +3158,7 @@
         },
         {
           "channel_id": 2003,
-          "channel_number": "277",
+          "channel_number": "279",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "NTV News",
@@ -3147,7 +3169,7 @@
         },
         {
           "channel_id": 2004,
-          "channel_number": "278",
+          "channel_number": "280",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "NTV Kohalpur",
@@ -3158,7 +3180,7 @@
         },
         {
           "channel_id": 2005,
-          "channel_number": "279",
+          "channel_number": "281",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "NTV Itahari",
@@ -3169,7 +3191,7 @@
         },
         {
           "channel_id": 2006,
-          "channel_number": "280",
+          "channel_number": "282",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "Kantipur SD",
