@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-09 11:27:39",
+  "date": "2026-02-10 11:30:13",
   "feeds": [
     {
       "category_id": 1,
@@ -3128,6 +3128,863 @@
       ]
     },
     {
+      "category_id": 1,
+      "category_name": "News",
+      "category_slug": "news",
+      "category_description": "News Category",
+      "category_priority": 1,
+      "channels": [
+        {
+          "channel_id": 10539,
+          "channel_number": "277",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "DD INDIA",
+          "channel_slug": "dd-india",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/543398583DD_INDIA_Mob_384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/543398583DD_INDIA_TVW_720x405.webp"
+        },
+        {
+          "channel_id": 11022,
+          "channel_number": "278",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "SANSAD TV 1",
+          "channel_slug": "sansad-tv-1",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/737787656sansad_tv_1_HD___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/737787656sansad_tv_1_HD___720x405.webp"
+        },
+        {
+          "channel_id": 11021,
+          "channel_number": "279",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "SANSAD TV 2",
+          "channel_slug": "sansad-tv-2",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/952763056sansad_tv_2HD___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/952763056sansad_tv_2HD___720x405.webp"
+        },
+        {
+          "channel_id": 10547,
+          "channel_number": "280",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "INDIA TODAY",
+          "channel_slug": "india-today",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1245247643INDIA_TODAY_TV____384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1245247643INDIA_TODAY_TV______720x405.webp"
+        },
+        {
+          "channel_id": 17959,
+          "channel_number": "281",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "NEWS9",
+          "channel_slug": "news9",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1256803319News9.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1256803319News9.webp"
+        },
+        {
+          "channel_id": 10551,
+          "channel_number": "282",
+          "channel_country": "IN",
+          "channel_category": "News",
+          "channel_name": "R Republic",
+          "channel_slug": "r-republic",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/482795018R_REPUBLIC__mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/482795018R_REPUBLIC_TVW______720x405.webp"
+        }
+      ]
+    },
+    {
+      "category_id": 2,
+      "category_name": "Entertainment",
+      "category_slug": "entertainment",
+      "category_description": "Entertainment Category",
+      "category_priority": 2,
+      "channels": [
+        {
+          "channel_id": 10648,
+          "channel_number": "283",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "ABZY DHAKAD",
+          "channel_slug": "abzy-dhakad",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1200604348ABZY_DHAKAD_TV____720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1200604348ABZY_DHAKAD___TV__TVW______720x405.webp"
+        },
+        {
+          "channel_id": 17727,
+          "channel_number": "284",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Punjab HIts",
+          "channel_slug": "punjab-hits",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/756167842Punjab_HIts_576x720_3.4_cropped_processed_by_imagy",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/756167842Punjab_HIts_1920x1080_16.9%20"
+        },
+        {
+          "channel_id": 17726,
+          "channel_number": "285",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Tabbar Hits",
+          "channel_slug": "tabbar-hits",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1065989006Tabbar_HIts_576x720_3.4%20_cropped_processed_by_imagy",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1065989006Tabbar_HIts_1920x1080_19.6%20"
+        },
+        {
+          "channel_id": 10647,
+          "channel_number": "286",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "ABZY Movies",
+          "channel_slug": "abzy-movies",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/434886526ABZY_Movies__TV____720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/434886526ABZY_Movies____TV__TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10543,
+          "channel_number": "287",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "B4U Bhojpuri",
+          "channel_slug": "b4u-bhojpuri",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1075363785B4UBHOJPURI_TVSETS_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1075363785B4UBHOJPURI_TVSETS_TVW_720x405.webp"
+        },
+        {
+          "channel_id": 10544,
+          "channel_number": "288",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "B4U KADAK",
+          "channel_slug": "b4u-kadak",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1769340356KADAK_TVSETS_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1769340356KADAK_TVSETS_TVW_720x405.webp"
+        },
+        {
+          "channel_id": 10548,
+          "channel_number": "289",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "B4U Movies",
+          "channel_slug": "b4u-movies",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1487466742B4UMOVIES_TVSETS_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1487466742B4UMOVIES_TVSETS_TVW_720x405.webp"
+        },
+        {
+          "channel_id": 10542,
+          "channel_number": "290",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "DD Bharati",
+          "channel_slug": "dd-bharati",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/261265808DD_BHARTI_______720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/261265808DD_BHARTI____TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10574,
+          "channel_number": "291",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "DD National HD",
+          "channel_slug": "dd-national-hd",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/310398427DD_national__mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/310398427DD_national__720x405.webp"
+        },
+        {
+          "channel_id": 10596,
+          "channel_number": "292",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "E24",
+          "channel_slug": "e24",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1715950932E24_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1715950932E24_TVW_720x405.webp"
+        },
+        {
+          "channel_id": 10932,
+          "channel_number": "293",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "Gangaur",
+          "channel_slug": "gangaur",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1615915601Gangaur_TV____720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1615915601Gangaur_TV__TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10553,
+          "channel_number": "294",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "PITAARA MOVIES",
+          "channel_slug": "pitaara-movies",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1406677642PITARAMOVIES_TVSETS_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1406677642PITARAMOVIES_TVSETS_TVW_720x405.webp"
+        },
+        {
+          "channel_id": 10556,
+          "channel_number": "295",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "PTC PUNJABI",
+          "channel_slug": "ptc-punjabi",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1414934314PTCPUNJABI_TVSETS_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1414934314PTCPUNJABI_TVSETS_TVW_720x405.webp"
+        },
+        {
+          "channel_id": 10555,
+          "channel_number": "296",
+          "channel_country": "IN",
+          "channel_category": "Entertainment",
+          "channel_name": "PTC PUNJABI GOLD",
+          "channel_slug": "ptc-punjabi-gold",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1276523660PTCPUNJABIGOLD_TVSETS_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1276523660PTCPUNJABIGOLD_TVSETS_TVW_720x405.webp"
+        }
+      ]
+    },
+    {
+      "category_id": 3,
+      "category_name": "Music",
+      "category_slug": "music",
+      "category_description": "Music Category",
+      "category_priority": 3,
+      "channels": [
+        {
+          "channel_id": 10545,
+          "channel_number": "297",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "B4U Music",
+          "channel_slug": "b4u-music",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1133093497B4U_Music_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1133093497B4U_Music_TVW_720x405.webp"
+        },
+        {
+          "channel_id": 17727,
+          "channel_number": "298",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "Punjab HIts",
+          "channel_slug": "punjab-hits",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/756167842Punjab_HIts_576x720_3.4_cropped_processed_by_imagy",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/756167842Punjab_HIts_1920x1080_16.9%20"
+        },
+        {
+          "channel_id": 17726,
+          "channel_number": "299",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "Tabbar Hits",
+          "channel_slug": "tabbar-hits",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1065989006Tabbar_HIts_576x720_3.4%20_cropped_processed_by_imagy",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1065989006Tabbar_HIts_1920x1080_19.6%20"
+        },
+        {
+          "channel_id": 15037,
+          "channel_number": "300",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "PTC MUSIC",
+          "channel_slug": "ptc-music",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1674728606PTC_MUSIC______720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1674728606PTC_MUSIC___TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10605,
+          "channel_number": "301",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "9X JALWA",
+          "channel_slug": "9x-jalwa",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/7812127779x_jalwa__mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/7812127779x_jalwa__TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10606,
+          "channel_number": "302",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "9X JHAKAAS",
+          "channel_slug": "9x-jhakaas",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/18845391659x_JHAKAAS__mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/18845391659x_JHAKAAS__TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10607,
+          "channel_number": "303",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "9X TASHAN",
+          "channel_slug": "9x-tashan",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/14041644189x_Tashan__mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/14041644189x_Tashan__TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10591,
+          "channel_number": "304",
+          "channel_country": "IN",
+          "channel_category": "Music",
+          "channel_name": "9XM",
+          "channel_slug": "9xm",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/11112553419xm___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/11112553419xm___720x405.webp"
+        }
+      ]
+    },
+    {
+      "category_id": 5,
+      "category_name": "Spiritual",
+      "category_slug": "spiritual",
+      "category_description": "Spiritual Category",
+      "category_priority": 5,
+      "channels": [
+        {
+          "channel_id": 17738,
+          "channel_number": "305",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Aastha",
+          "channel_slug": "aastha",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/405834672AASTHA_HD___720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1196765075AASTHA_HD_LOGO_16_ratio_9_1920x1080.webp"
+        },
+        {
+          "channel_id": 17741,
+          "channel_number": "306",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Aastha Bhajan",
+          "channel_slug": "aastha-bhajan",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/193291636AASTHA_BHAJAN____720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/352211233AASTHA_BHAJAN_LOGO_16_ratio_9_1920x1080.webp"
+        },
+        {
+          "channel_id": 17889,
+          "channel_number": "307",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Aastha Gujarati",
+          "channel_slug": "aastha-gujarati",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/940911051AASTHA_GUJARATI___720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/940911051AASTHA_GUJARATI_LOGO_16_ratio_9_1920x1080.webp"
+        },
+        {
+          "channel_id": 17891,
+          "channel_number": "308",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Aastha Kannada",
+          "channel_slug": "aastha-kannada",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1586643922AASTHA_KANNADA___720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1586643922AASTHA_KANNADA_LOGO_16_ratio_9_1920x1080.webp"
+        },
+        {
+          "channel_id": 17890,
+          "channel_number": "309",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Aastha Telugu",
+          "channel_slug": "aastha-telugu",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/784843904AASTHA_TELUGU___720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/784843904TELUGU_LOGO_16_ratio_9_1920x1080.webp"
+        },
+        {
+          "channel_id": 17740,
+          "channel_number": "310",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Dharm Sandesh",
+          "channel_slug": "dharm-sandesh",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/711917969DHARAM_SANDESH___384_x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/711917969DHARAM_SANDESH_LOGO_16_ratio_9_1920x1080.webp"
+        },
+        {
+          "channel_id": 10550,
+          "channel_number": "311",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "DIVYA",
+          "channel_slug": "divya",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1014643382DIVYA_TVSETS_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1014643382DIVYA_TVSETS_TVW_720x405.webp"
+        },
+        {
+          "channel_id": 10610,
+          "channel_number": "312",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Sanskar",
+          "channel_slug": "sanskar",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1596768461sanskar__mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1596768461sanskar_TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10611,
+          "channel_number": "313",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "SATSANG",
+          "channel_slug": "satsang",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1682838178satsang______720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1682838178satsang_TV_720x405.webp"
+        },
+        {
+          "channel_id": 17739,
+          "channel_number": "314",
+          "channel_country": "IN",
+          "channel_category": "Spiritual",
+          "channel_name": "Vedic",
+          "channel_slug": "vedic",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/154988001VEDIC___720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/154988001VEDIC_LOGO_16_ratio_9_1920x1080.webp"
+        }
+      ]
+    },
+    {
+      "category_id": 11,
+      "category_name": "DD National",
+      "category_slug": "dd-national",
+      "category_description": "Doordarshan National Channels",
+      "category_priority": 11,
+      "channels": [
+        {
+          "channel_id": 10574,
+          "channel_number": "315",
+          "channel_country": "IN",
+          "channel_category": "DD National",
+          "channel_name": "DD National HD",
+          "channel_slug": "dd-national-hd",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/310398427DD_national__mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/310398427DD_national__720x405.webp"
+        },
+        {
+          "channel_id": 10541,
+          "channel_number": "316",
+          "channel_country": "IN",
+          "channel_category": "DD National",
+          "channel_name": "DD News",
+          "channel_slug": "dd-news",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1923634031DD_NEWS__mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1923634031DD_NEWS_TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10539,
+          "channel_number": "317",
+          "channel_country": "IN",
+          "channel_category": "DD National",
+          "channel_name": "DD INDIA",
+          "channel_slug": "dd-india",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/543398583DD_INDIA_Mob_384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/543398583DD_INDIA_TVW_720x405.webp"
+        },
+        {
+          "channel_id": 10542,
+          "channel_number": "318",
+          "channel_country": "IN",
+          "channel_category": "DD National",
+          "channel_name": "DD Bharati",
+          "channel_slug": "dd-bharati",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/261265808DD_BHARTI_______720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/261265808DD_BHARTI____TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10569,
+          "channel_number": "319",
+          "channel_country": "IN",
+          "channel_category": "DD National",
+          "channel_name": "DD SPORTS",
+          "channel_slug": "dd-sports",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/978964831DD_SPORTS__mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/978964831DD_SPORTS_TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10540,
+          "channel_number": "320",
+          "channel_country": "IN",
+          "channel_category": "DD National",
+          "channel_name": "DD KISAN",
+          "channel_slug": "dd-kisan",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/2138456152KISSAN_TVSETS_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/2138456152KISSAN_TVSETS_TVW_720x405.webp"
+        },
+        {
+          "channel_id": 10570,
+          "channel_number": "321",
+          "channel_country": "IN",
+          "channel_category": "DD National",
+          "channel_name": "DD URDU",
+          "channel_slug": "dd-urdu",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1423354137DD_URDU______720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1423354137DD_URDU___TVW______720x405.webp"
+        }
+      ]
+    },
+    {
+      "category_id": 12,
+      "category_name": "DD Regional",
+      "category_slug": "dd-regional",
+      "category_description": "Doordarshan Regional Channels",
+      "category_priority": 12,
+      "channels": [
+        {
+          "channel_id": 10583,
+          "channel_number": "322",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD MADHYAPRADESH",
+          "channel_slug": "dd-madhyapradesh",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/584732940DD_MADHYAPRADESH__TV___mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/584732940DD_MADHYAPRADESH___TV___TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10557,
+          "channel_number": "323",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD Arunprabha",
+          "channel_slug": "dd-arunprabha",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/362822384DD_ARUNPRABHA___mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/362822384DD_ARUNPRABHA___TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10579,
+          "channel_number": "324",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD YADGIRI",
+          "channel_slug": "dd-yadgiri",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/319452459DD_YADGIRI_____TV____720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/319452459DD_YADGIRI___TV__TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10592,
+          "channel_number": "325",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD GOA",
+          "channel_slug": "dd-goa",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1266576310DD_GOA_____mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1266576310DD_GOA___TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10580,
+          "channel_number": "326",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD HARYANA",
+          "channel_slug": "dd-haryana",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/127887391DD_HARYANA__TV___mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/127887391DD_HARYANA__TV___TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10835,
+          "channel_number": "327",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD Rajasthan",
+          "channel_slug": "dd-rajasthan",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1424331982DD_RAJASTHAN____TV___mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1424331982DD_RAJASTHAN____TV___TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10604,
+          "channel_number": "328",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD ASSAM",
+          "channel_slug": "dd-assam",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/23822241dd_assam__720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/23822241dd_assam_____720x405.webp"
+        },
+        {
+          "channel_id": 10603,
+          "channel_number": "329",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD NAGALAND",
+          "channel_slug": "dd-nagaland",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1288453584DD_nagaland__mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1288453584DD_nagaland__TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10600,
+          "channel_number": "330",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD SAPTAGIRI",
+          "channel_slug": "dd-saptagiri",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1184556042dd_saptagiri___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1184556042dd_saptagiri______720x405.webp"
+        },
+        {
+          "channel_id": 10599,
+          "channel_number": "331",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD MEGHALAYA",
+          "channel_slug": "dd-meghalaya",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1984938843dd_meghalaya___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1984938843dd_meghalaya_____720x405.webp"
+        },
+        {
+          "channel_id": 10589,
+          "channel_number": "332",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD Jharkhand",
+          "channel_slug": "dd-jharkhand",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1262770871DD_jharkhand____TV___mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1262770871DD_jharkhand_____TV___TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10588,
+          "channel_number": "333",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD BIHAR",
+          "channel_slug": "dd-bihar",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1707481475DD_BIHAR__mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1707481475DD_BIHAR__TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10587,
+          "channel_number": "334",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD UP",
+          "channel_slug": "dd-up",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1433342199DD_uttar_pradesh_mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1433342199DD_uttar_pradesh_TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10586,
+          "channel_number": "335",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD HIMANCHAL",
+          "channel_slug": "dd-himanchal",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/780314109DD_HIMACHAL__mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/780314109DD_HIMACHAL___TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10558,
+          "channel_number": "336",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD BANGLA",
+          "channel_slug": "dd-bangla",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/547734520DD_BANGLA_TVSETS_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/547734520%7FDD_BANGLA_TVSETS_TVW_720x405.webp"
+        },
+        {
+          "channel_id": 10581,
+          "channel_number": "337",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD UTTRAKHAND",
+          "channel_slug": "dd-uttrakhand",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/251956268DD_uttarakhand___720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/251956268DD_uttarakhand_____720x405.webp"
+        },
+        {
+          "channel_id": 10578,
+          "channel_number": "338",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD Tripura",
+          "channel_slug": "dd-tripura",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/17163527DD_TRIPURA____720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/17163527DD_TRIPURA_______720x405.webp"
+        },
+        {
+          "channel_id": 10582,
+          "channel_number": "339",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD MALAYALAM",
+          "channel_slug": "dd-malayalam",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1443058650DD_malayalam_______384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1443058650DD_malayalam________720x405.webp"
+        },
+        {
+          "channel_id": 10576,
+          "channel_number": "340",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD Sahyadri",
+          "channel_slug": "dd-sahyadri",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/415330353DD_SHAYADRI_____TV____720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/415330353DD_SHAYADRI___TV__TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10575,
+          "channel_number": "341",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD PUNJABI",
+          "channel_slug": "dd-punjabi",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1001788609DD_punjabi_TVSETS_TVW_720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1001788609%7FDD_punjabi_TVSETS_TVW_720x405.webp"
+        },
+        {
+          "channel_id": 10573,
+          "channel_number": "342",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD GIRNAR",
+          "channel_slug": "dd-girnar",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/868969999DD_girnar________384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/868969999DD_girnar_________720x405.webp"
+        },
+        {
+          "channel_id": 10571,
+          "channel_number": "343",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD CHHATTISGARH",
+          "channel_slug": "dd-chhattisgarh",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/518137715DD_CHHATTISGARH___mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/518137715DD_CHHATTISGARH__TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10601,
+          "channel_number": "344",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD CHANDANA",
+          "channel_slug": "dd-chandana",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/562233073DD_CHANDANA___TV____720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/562233073DD_CHANDANA____TV__TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10577,
+          "channel_number": "345",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD TAMIL",
+          "channel_slug": "dd-tamil",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/351929532DD_TAMIL____TV____720x960.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/351929532DD_TAMIL____TV__TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10562,
+          "channel_number": "346",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD ODIA",
+          "channel_slug": "dd-odia",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1279237758DD_ODIA____mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1279237758DD_ODIA___TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10561,
+          "channel_number": "347",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD MIZORAM",
+          "channel_slug": "dd-mizoram",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/92830746DD_MIZORAM____mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/92830746DD_MIZORAM___TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10560,
+          "channel_number": "348",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD MANIPUR",
+          "channel_slug": "dd-manipur",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/746617482DD_MANIPUR____mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/746617482DD_MANIPUR__TVW______720x405.webp"
+        },
+        {
+          "channel_id": 10559,
+          "channel_number": "349",
+          "channel_country": "IN",
+          "channel_category": "DD Regional",
+          "channel_name": "DD KASHIR",
+          "channel_slug": "dd-kashir",
+          "channel_app": "wavespb",
+          "channel_logo": "https://prodcdn1.wavespb.com/shows/poster_url/1742238721DD_kashir_____mob___384x512.webp",
+          "channel_poster": "https://prodcdn1.wavespb.com/shows/thumbnail/1742238721DD_kashir___TVW______720x405.webp"
+        }
+      ]
+    },
+    {
       "category_id": 13,
       "category_name": "Nepalese",
       "category_slug": "nepalese",
@@ -3136,7 +3993,7 @@
       "channels": [
         {
           "channel_id": 2001,
-          "channel_number": "277",
+          "channel_number": "350",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "NTV",
@@ -3147,7 +4004,7 @@
         },
         {
           "channel_id": 2002,
-          "channel_number": "278",
+          "channel_number": "351",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "NTV Plus",
@@ -3158,7 +4015,7 @@
         },
         {
           "channel_id": 2003,
-          "channel_number": "279",
+          "channel_number": "352",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "NTV News",
@@ -3169,7 +4026,7 @@
         },
         {
           "channel_id": 2004,
-          "channel_number": "280",
+          "channel_number": "353",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "NTV Kohalpur",
@@ -3180,7 +4037,7 @@
         },
         {
           "channel_id": 2005,
-          "channel_number": "281",
+          "channel_number": "354",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "NTV Itahari",
@@ -3191,7 +4048,7 @@
         },
         {
           "channel_id": 2006,
-          "channel_number": "282",
+          "channel_number": "355",
           "channel_country": "NP",
           "channel_category": "Nepalese",
           "channel_name": "Kantipur SD",
