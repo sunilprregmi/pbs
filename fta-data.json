@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-16 11:27:31",
+  "date": "2026-02-17 11:20:15",
   "feeds": [
     {
       "category_id": 1,
@@ -2087,8 +2087,8 @@
           "channel_name": "Santwani",
           "channel_slug": "santwani",
           "channel_app": "yuppLive",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/santwani.png",
-          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1736317914270.png"
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/ipesag.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1771253003661.png"
         },
         {
           "channel_id": 124,
@@ -2811,8 +2811,19 @@
       "category_priority": 8,
       "channels": [
         {
-          "channel_id": 68,
+          "channel_id": 284,
           "channel_number": "250",
+          "channel_country": "IN",
+          "channel_category": "Sports",
+          "channel_name": "Willow Sports",
+          "channel_slug": "willow-sports",
+          "channel_app": "yuppLive",
+          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/xzbzkm.png",
+          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1737725799831.png"
+        },
+        {
+          "channel_id": 68,
+          "channel_number": "251",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Fight TV",
@@ -2823,7 +2834,7 @@
         },
         {
           "channel_id": 84,
-          "channel_number": "251",
+          "channel_number": "252",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Kozoom",
@@ -2834,7 +2845,7 @@
         },
         {
           "channel_id": 40,
-          "channel_number": "252",
+          "channel_number": "253",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Xtrem sports",
@@ -2845,7 +2856,7 @@
         },
         {
           "channel_id": 76,
-          "channel_number": "253",
+          "channel_number": "254",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Sport Fishing TV",
@@ -2856,7 +2867,7 @@
         },
         {
           "channel_id": 42,
-          "channel_number": "254",
+          "channel_number": "255",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "America Boating Channel",
@@ -2867,7 +2878,7 @@
         },
         {
           "channel_id": 67,
-          "channel_number": "255",
+          "channel_number": "256",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "The Chukker Channel",
@@ -2878,7 +2889,7 @@
         },
         {
           "channel_id": 49,
-          "channel_number": "256",
+          "channel_number": "257",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "ChronoTV",
@@ -2889,7 +2900,7 @@
         },
         {
           "channel_id": 79,
-          "channel_number": "257",
+          "channel_number": "258",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "ITSF",
@@ -2900,7 +2911,7 @@
         },
         {
           "channel_id": 272,
-          "channel_number": "258",
+          "channel_number": "259",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "MMA TV",
@@ -2911,7 +2922,7 @@
         },
         {
           "channel_id": 273,
-          "channel_number": "259",
+          "channel_number": "260",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "MOTOR RACING",
@@ -2922,7 +2933,7 @@
         },
         {
           "channel_id": 253,
-          "channel_number": "260",
+          "channel_number": "261",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "ACE TV",
@@ -2933,7 +2944,7 @@
         },
         {
           "channel_id": 290,
-          "channel_number": "261",
+          "channel_number": "262",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Cricket Gold",
@@ -2944,7 +2955,7 @@
         },
         {
           "channel_id": 292,
-          "channel_number": "262",
+          "channel_number": "263",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Adventure Sports TV",
@@ -2955,7 +2966,7 @@
         },
         {
           "channel_id": 293,
-          "channel_number": "263",
+          "channel_number": "264",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Drive+ Speed",
@@ -2966,7 +2977,7 @@
         },
         {
           "channel_id": 294,
-          "channel_number": "264",
+          "channel_number": "265",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Hunt Fish TV",
@@ -2977,7 +2988,7 @@
         },
         {
           "channel_id": 295,
-          "channel_number": "265",
+          "channel_number": "266",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Nautical Channel",
@@ -2988,7 +2999,7 @@
         },
         {
           "channel_id": 298,
-          "channel_number": "266",
+          "channel_number": "267",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Absinthe TV",
@@ -2999,7 +3010,7 @@
         },
         {
           "channel_id": 296,
-          "channel_number": "267",
+          "channel_number": "268",
           "channel_country": "IN",
           "channel_category": "Sports",
           "channel_name": "Yachting TV",
@@ -3007,17 +3018,6 @@
           "channel_app": "yuppLive",
           "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/yachting-tv.png",
           "channel_poster": ""
-        },
-        {
-          "channel_id": 302,
-          "channel_number": "268",
-          "channel_country": "IN",
-          "channel_category": "Sports",
-          "channel_name": "UP Pro Volleyball League 2025",
-          "channel_slug": "up-pro-volleyball-league-2025",
-          "channel_app": "yuppLive",
-          "channel_logo": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/up-pro-volleyball-league-2025.png",
-          "channel_poster": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/attributes/images/loadingimageurl-channel-1754492852997.jpeg"
         },
         {
           "channel_id": 325,
